@@ -1,0 +1,54 @@
+[
+    {
+        "category":"Demo Question",
+        "text":"Demo Text"
+    },
+    {
+        "category":"Celebrities",
+        "text":"Katy Perry"
+    },
+    {
+        "category":"Old School Youtube",
+        "text":"The Annoying Orange"
+    },
+    {
+        "category":"Tik Tok",
+        "text":"Oh No... Our Table... It's Broken"
+    },
+    {
+        "category":"Sayings",
+        "text":"What Happens In Vegas Stays In Vegas"
+    },
+    {
+        "category":"Historical Figures",
+        "text":"Martha Washington"
+    },
+    {
+        "category":"Isaac Parker Music",
+        "text":"You Can Kick It With Me"
+    },
+    {
+        "category":"Sightseeing",
+        "text":"The Leaning Tower of Pisa"
+    },
+    {
+        "category":"2000s Lyrics",
+        "text":"Don't you know that you're toxic?"
+    },
+    {
+        "category":"The Bachelor",
+        "text":"Colton Underwood &  Cassie Randolph"
+    },
+    {
+        "category":"The Alcohols",
+        "text":"Scotch On The Rocks"
+    },
+    {
+        "category":"Greek Mythology",
+        "text":"Aphrodite, Goddess of Love"
+    },
+    {
+        "category":"TV Shows",
+        "text":"Saturday Night Live"
+    }
+]
