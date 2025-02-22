@@ -2,36 +2,6 @@
     {
         "round_one":[
             {
-                "category_name": "The Eras Tour Lady",
-                "questions": [
-                    {
-                        "points":200,
-                        "question":"What is Love Story",
-                        "answer": "The first Taylor's Version song to be released"
-                    },
-                    {
-                        "points":400,
-                        "question":"What is picture to burn?",
-                        "answer": "Taylor's song with a homophobic version"
-                    },
-                    {
-                        "points":600,
-                        "question":"Who is John Mayer",
-                        "answer": "The Ex Taylor's song 'Dear John' is about"
-                    },
-                    {
-                        "points":800,
-                        "question":"What is Austin",
-                        "answer": "Taylor Swift's brother's name"
-                    },
-                    {
-                        "points":1000,
-                        "question":"Who is Fall Out Boy",
-                        "answer": "Taylor performed at the Victoria's Secret fashion show with this 'Centuries' pop punk band"
-                    }
-                ]
-            },
-            {
                 "category_name": "The Tall Ass Drag Race Lady",
                 "questions": [
                     {

@@ -182,37 +182,7 @@
                         "answer": "The day Aaron Samuel's asked mean girl Cady Heron what day it is"
                     }
                 ]
-            },
-            {
-                "category_name": "Swifties",
-                "questions": [
-                    {
-                        "points":400,
-                        "question":"What is Love Story",
-                        "answer": "The first song to be released as Taylor's Version"
-                    },
-                    {
-                        "points":800,
-                        "question":"What is Look What You Made Me Do",
-                        "answer": "The music video where Taylor kills off her old personas"
-                    },
-                    {
-                        "points":1200,
-                        "question":"What is speak now",
-                        "answer": "The taylor swift album with the purple dress"
-                    },
-                    {
-                        "points":1600,
-                        "question":"What is Me!",
-                        "answer": "Panic! At the Disco lead singer Brendon Urie collabed with Swift on this song"
-                    },
-                    {
-                        "points":2000,
-                        "question":"What is picture to burn",
-                        "answer": "The first Taylor Swift song to say 'gay'"
-                    }
-                ]
-            },           
+            },     
             {
                 "category_name": "Divas of this Decade",
                 "questions": [
