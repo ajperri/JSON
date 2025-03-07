@@ -950,18 +950,6 @@
         "id": 76,
         "name": "Gayme Night Vol. 6",
         "json_name": "gaymenightvol6",
-        "date_created": "3-5-2025",
-        "color": "pink",
-        "type": "millionare",
-        "status": "G",
-        "rating": 5,
-        "rating_type": "dirty",
-        "tags": []
-    },
-    {
-        "id": 77,
-        "name": "Gayme Night Vol. 6",
-        "json_name": "gaymenightvol6",
         "date_created": "3-6-2025",
         "color": "teal",
         "type": "famFued",
@@ -971,7 +959,7 @@
         "tags": []
     },
     {
-        "id": 78,
+        "id": 77,
         "name": "Gayme Night Vol. 6",
         "json_name": "gaymenightvol6",
         "date_created": "3-7-2025",

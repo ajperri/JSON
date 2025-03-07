@@ -1,5 +1,23 @@
 [
     {
+        "question_text":"Name a Lady Gaga Song",
+        "answer_1":"Bad Romance",
+        "answer_2":"Abracadabra",
+        "answer_3":"Alejandro",
+        "answer_4":"Judas",
+        "answer_5":"Poker Face",
+        "answer_6":"Just Dance"
+    },
+    {
+        "question_text":"Name a sexy gay halloween costume",
+        "answer_1":"Cowboy",
+        "answer_2":"Fireman",
+        "answer_3":"Policeman",
+        "answer_4":"Playboy bunny",
+        "answer_5":"Angel",
+        "answer_6":"Athlete"
+    },
+    {
         "question_text":"Name a food you wouldn't eat before bottoming",
         "answer_1":"Mexican Food",
         "answer_2":"Caffiene/Coffee",
@@ -9,99 +27,90 @@
         "answer_6":"Anything besides ice"
     },
     {
-        "question_text":"Name a Netflix show with gay main characters",
-        "answer_1":"Cam & Mitch - Modern Family",
-        "answer_2":"Kurt & Blaine - Glee",
-        "answer_3":"David & Patrick - Schitts Creek",
-        "answer_4":"",
-        "answer_5":"Jacob & Zach - Abbot Elementary",
-        "answer_6":"Ian & Mickey - Shameless",
+        "question_text":"Name a word with uck in it",
+        "answer_1":"Duck",
+        "answer_2":"Truck",
+        "answer_3":"Stuck",
+        "answer_4":"Luck",
+        "answer_5":"Yuck",
+        "answer_6":"Bucket"
     },
     {
-        "question_text":"",
-        "answer_1":"",
-        "answer_2":"",
-        "answer_3":"",
-        "answer_4":"",
-        "answer_5":"",
-        "answer_6":""
+        "question_text":"Name an excuse you might use to reject a date offer",
+        "answer_1":"In a Relationship",
+        "answer_2":"Not Dating/Working On Myself",
+        "answer_3":"Wrong Orientation",
+        "answer_4":"Too Busy",
+        "answer_5":"Just Visiting",
+        "answer_6":"I See You As a Friend"
     },
     {
-        "question_text":"",
-        "answer_1":"",
-        "answer_2":"",
-        "answer_3":"",
-        "answer_4":"",
-        "answer_5":"",
-        "answer_6":""
+        "question_text":"Give me a name for the sticky white stuff excreted from penii",
+        "answer_1":"Cum",
+        "answer_2":"Semen",
+        "answer_3":"Jizz",
+        "answer_4":"Cream",
+        "answer_5":"Baby Gravy",
+        "answer_6":"Seed"
     },
     {
-        "question_text":"",
-        "answer_1":"",
-        "answer_2":"",
-        "answer_3":"",
-        "answer_4":"",
-        "answer_5":"",
-        "answer_6":""
+        "question_text":"Name a word that would get bleeped on Network TV",
+        "answer_1":"F*ck",
+        "answer_2":"Sh*t",
+        "answer_3":"C*nt",
+        "answer_4":"B*tch",
+        "answer_5":"P*ssy",
+        "answer_6":"B*stard"
     },
     {
-        "question_text":"",
-        "answer_1":"",
-        "answer_2":"",
-        "answer_3":"",
-        "answer_4":"",
-        "answer_5":"",
-        "answer_6":""
+        "question_text":"Name an olympic sport a cow would look most funny doing?",
+        "answer_1":"Running",
+        "answer_2":"Swimming",
+        "answer_3":"Diving",
+        "answer_4":"Gymnastics",
+        "answer_5":"Figure Skating",
+        "answer_6":"Skiing"
     },
     {
-        "question_text":"",
-        "answer_1":"",
-        "answer_2":"",
-        "answer_3":"",
-        "answer_4":"",
-        "answer_5":"",
-        "answer_6":""
+        "question_text":"Give me a common F***Boi Name",
+        "answer_1":"Chad/Brad",
+        "answer_2":"Jake/Jack",
+        "answer_3":"Connor/Conner",
+        "answer_4":"Blake/Brock",
+        "answer_5":"Kyle/Tyler",
+        "answer_6":"Cody/Cody"
     },
     {
-        "question_text":"",
-        "answer_1":"",
-        "answer_2":"",
-        "answer_3":"",
-        "answer_4":"",
-        "answer_5":"",
-        "answer_6":""
-    },
-    {
-        "question_text":"",
-        "answer_1":"",
-        "answer_2":"",
-        "answer_3":"",
-        "answer_4":"",
-        "answer_5":"",
-        "answer_6":""
+        "question_text":"Name the last person you'd want to walk in on you mid-fuck?",
+        "answer_1":"Your Parents",
+        "answer_2":"Your Boyfriend",
+        "answer_3":"Your Roommate",
+        "answer_4":"Your Sibling",
+        "answer_5":"Your Priest",
+        "answer_6":"A Robber"
     },
     {
         "questions":[
             {
-                "question":"",
-                "answers":" - 75 |  - 58 |  - 46 |  - 25"
+                "question":"Give me a name for male genitals",
+                "answers":"Dick - 85 | Penis - 75 | Cock - 65 | Weiner - 55 | Willy - 45"
             },
             {
-                "question":"",
-                "answers":" - 72 |  - 65 |  - 58 |  - 42"
+                "question":"Name a color not in the rainbow",
+                "answers":"Pink - 76 | Black - 68 | Grey - 63 | Brown - 47 | White - 34"
             },
             {
-                "question":"",
-                "answers":" - 65 |  - 54 |  - 36 |  - 23"
+                "question":"Name an activity you do naked",
+                "answers":"Shower - 71 | Sex - 68 | Change Clothes - 54 | Sleep - 47"
             },
             {
-                "question":"",
-                "answers":" - 75 |  - 63 |  - 24 |  - 17"
+                "question":"Name a reason other than sex you might moan",
+                "answers":"Massage - 68 | Delicious Food - 52 | Stretching/Yoga - 43 | Boredom - 38"
             },
             {
-                "question":"",
-                "answers":" - 68 |  - 52 |  - 43 |  - 38"
-            }
+                "question":"Name a boy band",
+                "answers":"One Direction - 75 | Backstreet Boys - 58 | 5SOS - 46 | NSYNC* - 25| Jonas Brothers - 15"
+            },
         ]
     }
 ]   
