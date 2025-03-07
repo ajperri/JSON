@@ -32,36 +32,6 @@
                 ]
             },
             {
-                "category_name": "Taylor Swift",
-                "questions": [
-                    {
-                        "points":200,
-                        "question":"Who is Kanye West",
-                        "answer": "This famous rapper interrupted Taylor's 2009 VMA's Speech"
-                    },
-                    {
-                        "points":400,
-                        "question":"Who is Jake Gyllenhaal",
-                        "answer": "This poor guy has been flamed by swifties online since the release of Red TV"
-                    },
-                    {
-                        "points":600,
-                        "question":"What is picture to burn",
-                        "answer": "In this throwback Taylor song, Swift threatens to start a rumor a guy is gay"
-                    },
-                    {
-                        "points":800,
-                        "question":"What is Alison",
-                        "answer": "Taylor's Middle name"
-                    },
-                    {
-                        "points":1000,
-                        "question":"What is Spotify",
-                        "answer": "Taylor removed her music from this streaming service for a period of time in protest"
-                    }
-                ]
-            },
-            {
                 "category_name": "Iconic Vines",
                 "questions": [
                     {
@@ -154,36 +124,6 @@
         ],
         "round_two":[
             {
-                "category_name": "Taylor Swift Again",
-                "questions": [
-                    {
-                        "points":400,
-                        "question":"What is Tim McGraw ",
-                        "answer": "Taylor's very first single"
-                    },
-                    {
-                        "points":800,
-                        "question":"What is LWYMMD",
-                        "answer": "The Taylor music video set a 24 hour views record on YouTube"
-                    },
-                    {
-                        "points":1200,
-                        "question":"What is Shake It Off",
-                        "answer": "Taylor's music video with the most views"
-                    },
-                    {
-                        "points":1600,
-                        "question":"What is We Are Never Getting Back Together",
-                        "answer": "This Taylor song won her a world record for fastest selling digital single."
-                    },
-                    {
-                        "points":2000,
-                        "question":"What is Innocent",
-                        "answer": "This non-reputation song is about Kanye West"
-                    }
-                ]
-            },
-            {
                 "category_name": "Basketball",
                 "questions": [
                     {
@@ -249,8 +189,8 @@
                 "questions": [
                     {
                         "points":400,
-                        "question":"Who is Taylor Swift",
-                        "answer": "This Pop starlet got her start in music in the Country Music scene, with the song 'Tim McGraw'"
+                        "question":"Who is Sugarland",
+                        "answer": "This band is Stuck Like Glue"
                     },
                     {
                         "points":800,

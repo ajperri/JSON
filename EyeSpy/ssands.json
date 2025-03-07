@@ -1,15 +1,9 @@
 [
     {
-        "columns":4,
-        "rows":4,
+        "columns":3,
+        "rows":3,
         "foldername":"ssands",
         "questions":[
-            {
-                "category":"Taylor Swift",
-                "type":"character",
-                "answer":"Katy Perry",
-                "imagename":"calmdown"
-            },
             {
                 "category":"Pixar Movie Scene",
                 "type":"character",
@@ -29,34 +23,16 @@
                 "imagename":"bolt"
             },
             {
-                "category":"Taylor Swift",
-                "type":"distortion",
-                "answer":"You Belong With Me",
-                "imagename":"belongwithme"
-            },
-            {
                 "category":"Sports",
                 "type":"character",
                 "answer":"Zach Wilson",
                 "imagename":"zachwilson"
             },
             {
-                "category":"Taylor Swift",
-                "type":"location",
-                "answer":"Blank Space MV",
-                "imagename":"blankspace"
-            },
-            {
                 "category":"Iconic 2000s Movie Scenes",
                 "type":"distortion",
                 "answer":"Viola Davis - She's The Man",
                 "imagename":"shestheman"
-            },
-            {
-                "category":"Taylor Swift",
-                "type":"distortion",
-                "answer":"Speak Now Alternate Album Cover",
-                "imagename":"speaknow"
             },
             {
                 "category":"Sports",
@@ -71,28 +47,10 @@
                 "imagename":"whitechicks"
             },
             {
-                "category":"Taylor Swift",
-                "type":"distortion",
-                "answer":"Red (Taylors Version)",
-                "imagename":"redtv"
-            },
-            {
-                "category":"Taylor Swift",
-                "type":"location",
-                "answer":"Look What You Made Me Do MV",
-                "imagename":"zombie"
-            },
-            {
                 "category":"Sports",
                 "type":"character",
                 "answer":"Jimmer Fredette",
                 "imagename":"jimmer"
-            },
-            {
-                "category":"Taylor Swift",
-                "type":"character",
-                "answer":"Brendon Urie",
-                "imagename":"me"
             },
             {
                 "category":"Iconic Scene from a Rom Com Isaac's Mother Would Hate",

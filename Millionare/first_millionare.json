@@ -180,16 +180,6 @@
         }
     },
     {
-        "question_text":"Which is not the name of a Taylor Swift album?",
-        "answers":{
-            "answer_1":"Speak Now",
-            "answer_2":"Red",
-            "answer_3":"Evermine",
-            "answer_4":"Lover",
-            "right_answer":3
-        }
-    },
-    {
         "question_text":"In 'Huckleberry Finn' what is the name of the character who flees slavery?",
         "answers":{
             "answer_1":"Joe",
@@ -297,16 +287,6 @@
             "answer_3":"Star",
             "answer_4":"Parr",
             "right_answer":4
-        }
-    },
-    {
-        "question_text":"Which KPOP group stole Taylor Swift's record for most views in 24 hours?",
-        "answers":{
-            "answer_1":"BTS",
-            "answer_2":"Blackpink",
-            "answer_3":"Monsta X",
-            "answer_4":"Psy",
-            "right_answer":2
         }
     },
     {

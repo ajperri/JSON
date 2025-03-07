@@ -1,0 +1,107 @@
+[
+    {
+        "question_text":"Name a food you wouldn't eat before bottoming",
+        "answer_1":"Mexican Food",
+        "answer_2":"Caffiene/Coffee",
+        "answer_3":"Dairy",
+        "answer_4":"Corn",
+        "answer_5":"Eggs",
+        "answer_6":"Anything besides ice"
+    },
+    {
+        "question_text":"Name a Netflix show with gay main characters",
+        "answer_1":"Cam & Mitch - Modern Family",
+        "answer_2":"Kurt & Blaine - Glee",
+        "answer_3":"David & Patrick - Schitts Creek",
+        "answer_4":"",
+        "answer_5":"Jacob & Zach - Abbot Elementary",
+        "answer_6":"Ian & Mickey - Shameless",
+    },
+    {
+        "question_text":"",
+        "answer_1":"",
+        "answer_2":"",
+        "answer_3":"",
+        "answer_4":"",
+        "answer_5":"",
+        "answer_6":""
+    },
+    {
+        "question_text":"",
+        "answer_1":"",
+        "answer_2":"",
+        "answer_3":"",
+        "answer_4":"",
+        "answer_5":"",
+        "answer_6":""
+    },
+    {
+        "question_text":"",
+        "answer_1":"",
+        "answer_2":"",
+        "answer_3":"",
+        "answer_4":"",
+        "answer_5":"",
+        "answer_6":""
+    },
+    {
+        "question_text":"",
+        "answer_1":"",
+        "answer_2":"",
+        "answer_3":"",
+        "answer_4":"",
+        "answer_5":"",
+        "answer_6":""
+    },
+    {
+        "question_text":"",
+        "answer_1":"",
+        "answer_2":"",
+        "answer_3":"",
+        "answer_4":"",
+        "answer_5":"",
+        "answer_6":""
+    },
+    {
+        "question_text":"",
+        "answer_1":"",
+        "answer_2":"",
+        "answer_3":"",
+        "answer_4":"",
+        "answer_5":"",
+        "answer_6":""
+    },
+    {
+        "question_text":"",
+        "answer_1":"",
+        "answer_2":"",
+        "answer_3":"",
+        "answer_4":"",
+        "answer_5":"",
+        "answer_6":""
+    },
+    {
+        "questions":[
+            {
+                "question":"",
+                "answers":" - 75 |  - 58 |  - 46 |  - 25"
+            },
+            {
+                "question":"",
+                "answers":" - 72 |  - 65 |  - 58 |  - 42"
+            },
+            {
+                "question":"",
+                "answers":" - 65 |  - 54 |  - 36 |  - 23"
+            },
+            {
+                "question":"",
+                "answers":" - 75 |  - 63 |  - 24 |  - 17"
+            },
+            {
+                "question":"",
+                "answers":" - 68 |  - 52 |  - 43 |  - 38"
+            }
+        ]
+    }
+]   

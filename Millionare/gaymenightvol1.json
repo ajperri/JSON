@@ -70,16 +70,6 @@
         }
     },
     {
-        "question_text": "Which Taylor swift album has the most #1 singles?",
-        "answers": {
-            "answer_1": "Fearless",
-            "answer_2": "Red",
-            "answer_3": "1989",
-            "answer_4": "Reputation",
-            "right_answer": 3
-        }
-    },
-    {
         "question_text": "Which famous gay was caught trying to convert straight dudes",
         "answers": {
             "answer_1": "Lil Nas X",
@@ -486,16 +476,6 @@
             "answer_2":"Adam Levine",
             "answer_3":"Simon Cowell",
             "answer_4":"Blake Shelton",
-            "right_answer":3
-        }
-    },
-    {
-        "question_text":"Who is the only artist to win Album of the Year in 3 genres?",
-        "answers":{
-            "answer_1":"Michael Jackson",
-            "answer_2":"Katy Perry",
-            "answer_3":"Taylor Swift",
-            "answer_4":"Beyonce",
             "right_answer":3
         }
     },

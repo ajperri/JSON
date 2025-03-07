@@ -6,12 +6,6 @@
         "questions":[
             {
                 "category":"Yaaaz Kweenz",
-                "type":"charloc",
-                "answer":"Katy Perry & Taylor Swift - You Need to Calm Down MV",
-                "imagename":"taylorperry"
-            },
-            {
-                "category":"Yaaaz Kweenz",
                 "type":"location",
                 "answer":"Katy Perry - Roar MV",
                 "imagename":"roar"

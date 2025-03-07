@@ -210,16 +210,6 @@
         }
     },
     {
-        "question_text":"Michael Jackson and ___ are the only artists to have 5 #1s from one album?",
-        "answers":{
-            "answer_1":"Taylor Swift",
-            "answer_2":"Katy Perry",
-            "answer_3":"Beyonce",
-            "answer_4":"Lady Gaga",
-            "right_answer":2
-        }
-    },
-    {
         "question_text":"Which machine has mulptile bobbins, needles, and threads?",
         "answers":{
             "answer_1":"Sewing Machine",
@@ -487,16 +477,6 @@
             "answer_3":"Hannah Montana",
             "answer_4":"Suite Life",
             "right_answer":3
-        }
-    },
-    {
-        "question_text":"Which Taylor Swift album has the most #1 singles?",
-        "answers":{
-            "answer_1":"Red",
-            "answer_2":"1989",
-            "answer_3":"Reputation",
-            "answer_4":"Lover",
-            "right_answer":2
         }
     },
     {

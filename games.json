@@ -28,44 +28,6 @@
         ]
     },
     {
-        "id": 3,
-        "name": "Chinese New Year",
-        "json_name": "chinese_new_year",
-        "date_created": "02-16-2021",
-        "color": "red",
-        "type": "jeopardy",
-        "status": "T",
-        "rating": null,
-        "rating_type": null,
-        "tags": [
-            "Holiday"
-        ]
-    },
-    {
-        "id": 5,
-        "name": "Pizza Party",
-        "json_name": "pizza_party",
-        "date_created": "04-29-2021",
-        "color": "red",
-        "type": "jeopardy",
-        "status": "A",
-        "rating": null,
-        "rating_type": null,
-        "tags": []
-    },
-    {
-        "id": 7,
-        "name": "Father's Day",
-        "json_name": "fathersday",
-        "date_created": "06-18-2021",
-        "color": "blue",
-        "type": "famFued",
-        "status": "A",
-        "rating": null,
-        "rating_type": null,
-        "tags": []
-    },
-    {
         "id": 8,
         "name": "Summertime Price",
         "json_name": "summer_price",
@@ -442,7 +404,7 @@
     },
     {
         "id": 35,
-        "name": "Swift, Sports, & Scenes",
+        "name": "Sports, & Scenes",
         "json_name": "ssands",
         "date_created": "07-31-2022",
         "color": "yellow",
@@ -638,20 +600,6 @@
         ]
     },
     {
-        "id": 49,
-        "name": "Friendsgiving 2022",
-        "json_name": "friendsgiving2022",
-        "date_created": "11-19-2022",
-        "color": "yellow",
-        "type": "jeopardy",
-        "status": "T",
-        "rating": "1",
-        "rating_type": "dirty",
-        "tags": [
-            "Gay"
-        ]
-    },
-    {
         "id": 50,
         "name": "Thanks-gay-ving",
         "json_name": "thanksgayving",
@@ -774,20 +722,6 @@
         "status": "I",
         "rating": 1,
         "rating_type": "dirty",
-        "tags": [
-            
-        ]
-    },
-    {
-        "id": 59,
-        "name": "Swiftie Academy",
-        "json_name": "swifties",
-        "date_created": "04-28-2023",
-        "color": "pink",
-        "type": "voice",
-        "status": "A",
-        "rating": 1,
-        "rating_type": "",
         "tags": [
             
         ]
@@ -1006,6 +940,42 @@
         "json_name": "gaybrunchskiweek",
         "date_created": "2-21-2025",
         "color": "pink",
+        "type": "jeopardy",
+        "status": "G",
+        "rating": 5,
+        "rating_type": "dirty",
+        "tags": []
+    },
+    {
+        "id": 76,
+        "name": "Gayme Night Vol. 6",
+        "json_name": "gaymenightvol6",
+        "date_created": "3-5-2025",
+        "color": "pink",
+        "type": "millionare",
+        "status": "G",
+        "rating": 5,
+        "rating_type": "dirty",
+        "tags": []
+    },
+    {
+        "id": 77,
+        "name": "Gayme Night Vol. 6",
+        "json_name": "gaymenightvol6",
+        "date_created": "3-6-2025",
+        "color": "teal",
+        "type": "famFued",
+        "status": "G",
+        "rating": 5,
+        "rating_type": "dirty",
+        "tags": []
+    },
+    {
+        "id": 78,
+        "name": "Gayme Night Vol. 6",
+        "json_name": "gaymenightvol6",
+        "date_created": "3-7-2025",
+        "color": "green",
         "type": "jeopardy",
         "status": "G",
         "rating": 5,

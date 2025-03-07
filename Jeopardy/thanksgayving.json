@@ -245,36 +245,6 @@
                 ]
             },
             {
-                "category_name": "Taylor Swift",
-                "questions": [
-                    {
-                        "points":400,
-                        "question":"You Need to Calm Down",
-                        "answer": "Taylor's gay song"
-                    },
-                    {
-                        "points":800,
-                        "question":"What is LWYMMD",
-                        "answer": "The Taylor music video set a 24 hour views record on YouTube"
-                    },
-                    {
-                        "points":1200,
-                        "question":"What is Shake It Off",
-                        "answer": "Taylor's music video with the most views"
-                    },
-                    {
-                        "points":1600,
-                        "question":"What is We Are Never Getting Back Together",
-                        "answer": "This Taylor song won her a world record for fastest selling digital single."
-                    },
-                    {
-                        "points":2000,
-                        "question":"What is Alison",
-                        "answer": "Taylor's middle name"
-                    }
-                ]
-            },
-            {
                 "category_name": "Misc Pizza",
                 "questions": [
                     {

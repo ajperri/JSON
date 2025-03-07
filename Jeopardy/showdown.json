@@ -32,36 +32,6 @@
                 ]
             },
             {
-                "category_name": "Taylor Swift",
-                "questions": [
-                    {
-                        "points":200,
-                        "question":"Who is Kanye West",
-                        "answer": "This famous rapper interrupted Taylor's 2009 VMA's Speech"
-                    },
-                    {
-                        "points":400,
-                        "question":"Who is Jake Gyllenhaal",
-                        "answer": "This poor guy has been flamed by swifties online since the release of Red TV"
-                    },
-                    {
-                        "points":600,
-                        "question":"What is picture to burn",
-                        "answer": "In this throwback Taylor song, Swift threatens to start a rumor a guy is gay"
-                    },
-                    {
-                        "points":800,
-                        "question":"What is Alison",
-                        "answer": "Taylor's Middle name"
-                    },
-                    {
-                        "points":1000,
-                        "question":"What is Spotify",
-                        "answer": "Taylor removed her music from this streaming service for a period of time in protest"
-                    }
-                ]
-            },
-            {
                 "category_name": "Famous Isaacs",
                 "questions": [
                     {
@@ -180,36 +150,6 @@
                         "points":2000,
                         "question":"Halogens",
                         "answer": "The name of this group of elements that includes fluorine means salt-producing"
-                    }
-                ]
-            },
-            {
-                "category_name": "Country Music",
-                "questions": [
-                    {
-                        "points":400,
-                        "question":"Who is Taylor Swift",
-                        "answer": "This Pop starlet got her start in music in the Country Music scene, with the song 'Tim McGraw'"
-                    },
-                    {
-                        "points":800,
-                        "question":"What is Meant to Be",
-                        "answer": "Florida Georgia Line and Bebe Rexha's 2017 song that broke the record for longest rule on the Billboard Country Songs chart"
-                    },
-                    {
-                        "points":1200,
-                        "question":"What is Louisville slugger",
-                        "answer": "Carrie Underwood destroys her Ex's souped up four wheel drive with what brand of baseball bat?"
-                    },
-                    {
-                        "points":1600,
-                        "question":"If I Die Young",
-                        "answer": "The Band Perry asks to be sunk in the river on a bed of roses if what happens?"
-                    },
-                    {
-                        "points":2000,
-                        "question":"Who is Miranda Lambert",
-                        "answer": "This female singer famously performed her song 'Kerosene' with live pyrotechnics at the 2005 CMAs"
                     }
                 ]
             },

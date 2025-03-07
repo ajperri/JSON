@@ -210,16 +210,6 @@
         }
     },
     {
-        "question_text":"Who is the only artist to win Album of the Year in 3 genres?",
-        "answers":{
-            "answer_1":"Michael Jackson",
-            "answer_2":"Katy Perry",
-            "answer_3":"Taylor Swift",
-            "answer_4":"Beyonce",
-            "right_answer":3
-        }
-    },
-    {
         "question_text":"How many original colonies were there?",
         "answers":{
             "answer_1":"12",
@@ -276,16 +266,6 @@
             "answer_2":"Baby Shark Dance",
             "answer_3":"Friday - Rebecca Black",
             "answer_4":"Sonic the Hedgehog - Original Trailer",
-            "right_answer":1
-        }
-    },
-    {
-        "question_text":"What is the most liked YouTube video?",
-        "answers":{
-            "answer_1":"Despacito - Luis Fonci",
-            "answer_2":"Baby - Justin Bieber",
-            "answer_3":"Style - Taylor Swift",
-            "answer_4":"Thank U Next - Ariana Grande",
             "right_answer":1
         }
     },

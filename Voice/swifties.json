@@ -80,19 +80,6 @@
         ]
     },
     {
-        "title": "Our Song",
-        "artist": "Taylor Swift (Debut Album)",
-        "key": "our_song",
-        "file": "our_song.mp3",
-        "lyrics": [
-            "and he says",
-            "Our song is the slam of screen doors",
-            "Sneaking out late tappin on your window",
-            "When we're on the phone and you talk real slow",
-            "_____ __'_ ____ ___ ____ ____ ___'_ ____"
-        ]
-    },
-    {
         "title": "Wildest Dreams",
         "artist": "1989",
         "key": "wildest_dreams",

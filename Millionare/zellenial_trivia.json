@@ -310,32 +310,12 @@
         }
     },
     {
-        "question_text":"Who has not dated Taylor Swift?",
-        "answers":{
-            "answer_1":"Jake Gyllenhall",
-            "answer_2":"Nick Jonas",
-            "answer_3":"Harry Styles",
-            "answer_4":"Calvin Harris",
-            "right_answer":2
-        }
-    },
-    {
         "question_text":"What is the Yodel Boy's real name?",
         "answers":{
             "answer_1":"Jacob Sartorius",
             "answer_2":"Mason Ramsey",
             "answer_3":"Ansel Elgort",
             "answer_4":"Dylan O'Brien",
-            "right_answer":2
-        }
-    },
-    {
-        "question_text":"The actress for Taylor Swift's All Too Well video also stars in",
-        "answers":{
-            "answer_1":"The Kissing Booth",
-            "answer_2":"Stranger Things",
-            "answer_3":"To All The Boys I've Loved",
-            "answer_4":"Love, Victor",
             "right_answer":2
         }
     },
@@ -484,7 +464,7 @@
         "answers":{
             "answer_1":"Jennifer",
             "answer_2":"Heather",
-            "answer_3":"Taylor",
+            "answer_3":"Hannah",
             "answer_4":"her",
             "right_answer":2
         }

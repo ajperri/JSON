@@ -369,7 +369,7 @@
                     {
                         "points":400,
                         "question":"Who is Jake Gyllenhaal",
-                        "answer": "The Jake all swifties hate"
+                        "answer": "The Jake that starred in spiderman"
                     },
                     {
                         "points":800,
@@ -469,7 +469,7 @@
                     {
                         "points":1200,
                         "question":"Who is Dolly Parton",
-                        "answer": "The artist that Isaac claims was playing in the first verse (in reality it was Taylor Swift's Enchanted)"
+                        "answer": "The artist that Isaac claims was playing in the first verse"
                     },
                     {
                         "points":1600,
@@ -478,8 +478,8 @@
                     },
                     {
                         "points":4000,
-                        "question":"What is Enchanted, The Story of Us, Love Story",
-                        "answer": "The bridge of this song references these three Taylor Swift songs"
+                        "question":"",
+                        "answer": "Free Answer"
                     }
                 ]
             }
