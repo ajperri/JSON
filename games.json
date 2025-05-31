@@ -968,5 +968,77 @@
         "rating": 5,
         "rating_type": "dirty",
         "tags": []
+    },
+    {
+        "id": 80,
+        "name": "Pride On This Dick",
+        "json_name": "pridevol1",
+        "date_created": "6-1-2025",
+        "color": "red",
+        "type": "famFued",
+        "status": "G",
+        "rating": 5,
+        "rating_type": "dirty",
+        "tags": []
+    },
+    {
+        "id": 81,
+        "name": "Pride Boyz",
+        "json_name": "prideboyz",
+        "date_created": "6-2-2025",
+        "color": "orange",
+        "type": "jeopardy",
+        "status": "G",
+        "rating": 5,
+        "rating_type": "dirty",
+        "tags": []
+    },
+    {
+        "id": 82,
+        "name": "P.R.I.D.E",
+        "json_name": "pridevol1",
+        "date_created": "6-1-2025",
+        "color": "yellow",
+        "type": "wheel",
+        "status": "G",
+        "rating": 5,
+        "rating_type": "dirty",
+        "tags": []
+    },
+    {
+        "id": 83,
+        "name": "Pride Anthems",
+        "json_name": "pridevol1",
+        "date_created": "6-2-2025",
+        "color": "green",
+        "type": "voice",
+        "status": "G",
+        "rating": 5,
+        "rating_type": "dirty",
+        "tags": []
+    },
+    {
+        "id": 84,
+        "name": "Pride.Party.Penis",
+        "json_name": "pridevol1",
+        "date_created": "6-1-2025",
+        "color": "teal",
+        "type": "eyespy",
+        "status": "G",
+        "rating": 5,
+        "rating_type": "dirty",
+        "tags": []
+    },
+    {
+        "id": 85,
+        "name": "Pride Vol. 1",
+        "json_name": "pridevol1",
+        "date_created": "6-2-2025",
+        "color": "pink",
+        "type": "scatter",
+        "status": "G",
+        "rating": 5,
+        "rating_type": "dirty",
+        "tags": []
     }
 ]
