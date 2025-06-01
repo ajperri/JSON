@@ -1,0 +1,143 @@
+[
+    {
+        "title":"Born This Way",
+        "artist":"Lady Gaga",
+        "key":"born_this_way",
+        "file":"born_this_way.mp3",
+        "lyrics":[
+            "I'm beautiful in my way",
+            "Cause God makes no mistakes",
+            "I'm on the right track baby",
+            "_ ___ ____ ____ ___"
+        ]
+    },
+    {
+        "title":"It's Raining Men",
+        "artist":"The Weather Girls",
+        "key":"raining_men",
+        "file":"raining_men.mp3",
+        "lyrics":[
+            "It's Raining Men, Hallelujah",
+            "It's Raining Men, Amen",
+            "I'm gonna go out, I'm gonna let myself get",
+            "__________ ______ ___"
+        ]
+    },
+    {
+        "title":"Dancing Queen",
+        "artist":"ABBA/Mamma Mia",
+        "key":"dancing_queen",
+        "file":"dancing_queen.mp3",
+        "lyrics":[
+            "See that girl, watch that scene",
+            "Digging the dancing queen",
+            "  ",
+            "You're a tease and you ____ '__ __"
+        ]
+    },
+    {
+        "title":"Follow Your Arrow",
+        "artist":"Kacey Musgraves",
+        "key":"follow_your_arrow",
+        "file":"follow_your_arrow.mp3",
+        "lyrics":[
+            "Kiss lots of boys, or kiss lots of boys",
+            "If that's something you're into when the",
+            "Straight and narrow gets a little too straight",
+            "roll up a joint, or don't",
+            "Just ______ ____ _____ wherever it points"
+        ]
+    },
+    {
+        "title":"Firework",
+        "artist":"Katy Perry",
+        "key":"firework",
+        "file":"firework.mp3",
+        "lyrics":[
+            "Intro",
+            "Do you ever ____ ____ _ _______ ___"
+        ]
+    },
+    {
+        "title":"Rush",
+        "artist":"Troye Sivan",
+        "key":"rush",
+        "file":"rush.mp3",
+        "lyrics":[
+            "You got my heartbeat racing, body chasing",
+            "I feel the rush, ________ __ ___ _____"
+        ]
+    },
+    {
+        "title":"True Colors",
+        "artist":"Cyndi Lauper",
+        "key":"true_colors",
+        "file":"true_colors.mp3",
+        "lyrics":[
+            "You've taken all you can then",
+            "you'll call me up, because you know I'll be there",
+            "And I'll see ____ ___ ______ _______ _______"
+        ]
+    },
+    {
+        "title":"I'm Coming Out",
+        "artist":"Diana Ross",
+        "key":"im_coming_out",
+        "file":"im_coming_out.mp3",
+        "lyrics":[
+            "I'm coming out",
+            "I ____ ___ _____ __ ____"
+        ]
+    },
+    {
+        "title":"Raise Your Glass",
+        "artist":"P!nk",
+        "key":"raise_your_glass",
+        "file":"raise_your_glass.mp3",
+        "lyrics":[
+            "Why so serious?",
+            "So Raise your glass if you are wrong in all the right ways",
+            "All my underdogs we will never be never be",
+            "Anything but loud and",
+            "nitty gritty d____ l_____ f_____"
+        ]
+    },
+    {
+        "title": "Ask My Dad",
+        "artist": "Isaac Parker",
+        "key": "ask_my_dad",
+        "file": "ask_my_dad.mp3",
+        "lyrics": [
+            "Maybe some day I'll find a man",
+            "And he'll sit and listen and he'll understand",
+            "But if one day he wants my hand",
+            "He'll never get to ___ __ ___",
+        ]
+    },
+    {
+        "title":"Montero (Call Me By Your Name)",
+        "artist":"Lil Nas X",
+        "key":"montero",
+        "file":"montero.mp3",
+        "lyrics":[
+            "I'm not fazed, only here to sin",
+            "If Eve ain't in your garden you know that you can",
+            "Call me when you want, call me when you need",
+            "Call me in the morning I'll be on the way",
+            "Call me when you want, call me when you need",
+            "____ __ ___ __ ___ ____"
+        ]
+    },
+    {
+        "title":"Don't Stop Me Now",
+        "artist":"QUEEN",
+        "key":"dont_stop_me_now",
+        "file":"dont_stop_me_now.mp3",
+        "lyrics":[
+            "I'm burning through the night yeah",
+            "200 degrees that's why they call me Mr. Fahrenheit",
+            "I'm travelling at the speed of Light",
+            "_ _____ ____ _ __________ ___ ___ __ ___"
+        ]
+    }
+]

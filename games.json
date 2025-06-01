@@ -970,6 +970,18 @@
         "tags": []
     },
     {
+        "id": 83,
+        "name": "The Emerald Kingdom & The Pop Punk Prince",
+        "json_name": "tekatppp",
+        "date_created": "5-31-2025",
+        "color": "green",
+        "type": "voice",
+        "status": "I",
+        "rating": 0,
+        "rating_type": "",
+        "tags": []
+    },
+    {
         "id": 80,
         "name": "Pride On This Dick",
         "json_name": "pridevol1",
@@ -1001,7 +1013,7 @@
         "color": "yellow",
         "type": "wheel",
         "status": "G",
-        "rating": 5,
+        "rating": 2,
         "rating_type": "dirty",
         "tags": []
     },
@@ -1013,7 +1025,7 @@
         "color": "green",
         "type": "voice",
         "status": "G",
-        "rating": 5,
+        "rating": 1,
         "rating_type": "dirty",
         "tags": []
     },
