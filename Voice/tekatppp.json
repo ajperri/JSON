@@ -5,6 +5,8 @@
         "key":"wicked",
         "file":"wicked.mp3",
         "lyrics":[
+            "Now I'm turning the tables on you",
+            "La La La La La La",
             "Tell me all youre secrets I'm always gonna need them",
             "I wanna c_____ w___ y__'__ d_"
         ]
@@ -48,7 +50,7 @@
         "key":"so_you_go",
         "file":"so_you_go.mp3",
         "lyrics":[
-            "You are a gambler your thrill is in the play",
+            "But you are a gambler your thrill is in the play",
             "And even if you're winning you won't walk away",
             "But I am a lover who w____ y_ t_ s___"
         ]
@@ -56,8 +58,8 @@
     {
         "title":"Sober",
         "artist":"Isaac Parker",
-        "key":"",
-        "file":".mp3",
+        "key":"sober",
+        "file":"sober.mp3",
         "lyrics":[
             "I love being drunk but I'd rather be sober",
             "Whenever I'm with you I w___ t_ r______r"
@@ -70,7 +72,7 @@
         "file":"marionette.mp3",
         "lyrics":[
             "Be that strong to break these strings when I know it's wrong",
-            "I'll never ever ever ever though it'd be this tough to be enough",
+            "I never ever ever ever thought it'd be this tough to be enough",
             "I'll dance for you, dance for you, dance for you, dance for your love again",
             "I'll dance for you, dance for you, dance for you, dance for your love",
             "m_________. I o__ y__"
@@ -94,6 +96,7 @@
         "key":"ask_my_dad2",
         "file":"ask_my_dad2.mp3",
         "lyrics":[
+            "ooh ooh ooh",
             "I tried to tell you about how I feel",
             "___ ____'_ _____ ___ ____ ______ ____"
         ]
@@ -104,6 +107,7 @@
         "key":"blame",
         "file":"blame.mp3",
         "lyrics":[
+            "*Whistling*",
             "You can be the scientist",
             "l__'s t___ y___ h_________, 5__ days that we've been apart"
         ]
@@ -130,7 +134,7 @@
             "You kinda like it when I am your mosquito",
             "every time I see you, I'm drawn into you like the sucker is to your mojito",
             "I am your mosquito I'm never gonna let go",
-            "You can try to push me, but I'll buzz back like a be though",
+            "You can try to push me, but I'll buzz back like a bee though",
             "w___ _ _____ _____ _t _t, do do do do, _t w__ ____ t_ ___t ___"
         ]
     },
