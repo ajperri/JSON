@@ -41,7 +41,7 @@
             "my sleaze is gonna be affected",
             "if i keep it up like a lovesick crackhead",
             "what you've got boy is hard to find",
-            "_ _____ _____ ___ ___ ___ ____"
+            "_ _____ _____ __ ___ ___ ____"
         ]
     },
     {
@@ -145,6 +145,20 @@
             "Excuse me",
             "and I might drink a little more than I should tonight",
             "and I might ____ ___ ____ ____ __ __ _ _____ _______"
+        ]
+    },
+    {
+        "title": "Hold It Against Me",
+        "artist": "Britney Spears",
+        "key": "hold_it_against_me",
+        "file": "hold_it_against_me.mp3",
+        "lyrics": [
+            "If I said my heart was beating loud",
+            "If I could escape the crowd somehow",
+            "If I said I want your body now",
+            "Would you hold it against me?",
+            "Cause you feel like",
+            "________ ___ _ ____ _ ________ tonight"
         ]
     },
     {
