@@ -989,7 +989,7 @@
         "color": "red",
         "type": "famFued",
         "status": "G",
-        "rating": 5,
+        "rating": 4,
         "rating_type": "dirty",
         "tags": []
     },
@@ -1001,7 +1001,7 @@
         "color": "orange",
         "type": "jeopardy",
         "status": "G",
-        "rating": 5,
+        "rating": 3,
         "rating_type": "dirty",
         "tags": []
     },
@@ -1031,7 +1031,7 @@
     },
     {
         "id": 84,
-        "name": "Pride.Party.Penis",
+        "name": "Prideful Packages",
         "json_name": "pridevol1",
         "date_created": "6-5-2025",
         "color": "teal",
@@ -1049,7 +1049,7 @@
         "color": "pink",
         "type": "scatter",
         "status": "G",
-        "rating": 5,
+        "rating": 4,
         "rating_type": "dirty",
         "tags": []
     }
