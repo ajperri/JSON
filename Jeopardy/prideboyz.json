@@ -92,12 +92,42 @@
                 ]
             },
             {
-                "category_name": "Anal Arden / Impure Ira",
+                "category_name": "Anal Arden",
                 "questions": [
                     {
                         "points":200,
                         "question":"burning church",
                         "answer": "The tattoo on Arden's upper left shoulder"
+                    },
+                    {
+                        "points":400,
+                        "question":"What is Soto",
+                        "answer": "Arden's Last Name"
+                    },
+                    {
+                        "points":600,
+                        "question":"",
+                        "answer": "The name of Arden's dog"
+                    },
+                    {
+                        "points":800,
+                        "question":"What is we be verified",
+                        "answer": "Where Arden currently works"
+                    },
+                    {
+                        "points":1000,
+                        "question":"Ithaca",
+                        "answer": "Arden's college (starts with the same letter as Ira's name)"
+                    }
+                ]
+            },
+            {
+                "category_name": "Impure Ira",
+                "questions": [
+                    {
+                        "points":200,
+                        "question":"What is Dreidel",
+                        "answer": "The game Ira game masters every Hannukah"
                     },
                     {
                         "points":400,
@@ -107,17 +137,17 @@
                     {
                         "points":600,
                         "question":"",
-                        "answer": "The name of Arden's dog"
+                        "answer": "Ira's favorite football team's old name"
                     },
                     {
                         "points":800,
                         "question":"What is the NAC",
-                        "answer": "The full name of the center where Ira works"
+                        "answer": "The full name of the center where Ira volunteers"
                     },
                     {
                         "points":1000,
-                        "question":"",
-                        "answer": "Arden's college (starts with the same letter as Ira's name)"
+                        "question":"Emory",
+                        "answer": "Ira attended this college (Nail File)"
                     }
                 ]
             },
@@ -154,37 +184,127 @@
         ],
         "round_two":[
             {
-                "category_name": "Cross Cuntry",
+                "category_name": "Which Bitch is which",
                 "questions": [
                     {
                         "points":400,
-                        "question":"What is Austin",
-                        "answer": "The city one of us lives in that is a country song by Dasha"
+                        "question":"Ru",
+                        "answer": "One is Zendaya's character on Euphoria, the other is the queen of drag"
                     },
                     {
                         "points":800,
-                        "question":"Panic! at the disco",
-                        "answer": "This emo alternative rock band has a song called 'LA Devotee'. (hint the name includes punctuation)"
+                        "question":"spears",
+                        "answer": "One is a slave 4 u and the other is a type of pickle"
                     },
                     {
                         "points":1200,
-                        "question":"What is salt lake city",
-                        "answer": "It's always sunny"
+                        "question":"lady",
+                        "answer": "One is dating a tramp and the other's name sounds like a baby talk"
                     },
                     {
                         "points":1600,
-                        "question":"",
-                        "answer": ""
+                        "question":"monet/monae",
+                        "answer": "One is a famous painter, the other has a song about vaginas"
                     },
                     {
                         "points":2000,
-                        "question":"",
-                        "answer": ""
+                        "question":"Carpenter",
+                        "answer": "One is short and horny, the other was killed by karen's people"
+                    }
+                ]
+            },
+            {
+                "category_name": "Inanimate Sex Objects",
+                "questions": [
+                    {
+                        "points":400,
+                        "question":"Ball Gag",
+                        "answer": "This sphere on rope is placed in a bitch's mouth"
+                    },
+                    {
+                        "points":800,
+                        "question":"Strap on",
+                        "answer": "If karen had one she'd get it 9\" long"
+                    },
+                    {
+                        "points":1200,
+                        "question":"Pocket Pus",
+                        "answer": "The alliteration name for this fake hole"
+                    },
+                    {
+                        "points":1600,
+                        "question":"Handcuffs",
+                        "answer": "This typically comes in pink furry versions for comfort"
+                    },
+                    {
+                        "points":2000,
+                        "question":"sounding rods",
+                        "answer": "It's metallic and inserted in the tiniest hole"
+                    }
+                ]
+            },
+            {
+                "category_name": "Dick Flick Quotes",
+                "questions": [
+                    {
+                        "points":400,
+                        "question":"Damian - Mean Girls",
+                        "answer": "This movie says 'I want my pink shirt back' "
+                    },
+                    {
+                        "points":800,
+                        "question":"Amanda bynes - Shes the man",
+                        "answer": "This movie says 'Oh Right. OOWWWW OOOOH IT BURRRRRRNS' (hint soccer, nuts)"
+                    },
+                    {
+                        "points":1200,
+                        "question":"Jennifer Cooledge - Legally blonde",
+                        "answer": "This movie says 'And I'm taking the damn dog'"
+                    },
+                    {
+                        "points":1600,
+                        "question":"Aquamarine",
+                        "answer": "This movie says 'Aur Naur Cleo! The Condensation'"
+                    },
+                    {
+                        "points":2000,
+                        "question":"Aquamarine",
+                        "answer": "This movie says 'you're a virgin who can't drive'"
+                    }
+                ]
+            },
+            {
+                "category_name": "Profanity",
+                "questions": [
+                    {
+                        "points":200,
+                        "question":"shit",
+                        "answer": "If you don't douche, you're in deep ____"
+                    },
+                    {
+                        "points":400,
+                        "question":"motherfucker",
+                        "answer": "What you might call your hetero incest friend"
+                    },
+                    {
+                        "points":600,
+                        "question":"cunt",
+                        "answer": "Charisma, Uniqueness, Nerve, Talent"
+                    },
+                    {
+                        "points":800,
+                        "question":"Asshole",
+                        "answer": "The precise location at which jacob enjoys penetration"
+                    },
+                    {
+                        "points":1000,
+                        "question":"son of a bitch",
+                        "answer": "What you might call any male dog"
                     }
                 ]
             }
         ],
-        "final_questions":"",
-        "final_answers":""
+        "final_questions":"This greek god fucked himself with a wooden dildo on his dead lovers grave",
+        "final_answers":"Who is dionysus"
     }
 ]

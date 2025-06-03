@@ -989,7 +989,7 @@
         "color": "red",
         "type": "famFued",
         "status": "G",
-        "rating": 4,
+        "rating": 5,
         "rating_type": "dirty",
         "tags": []
     },
@@ -1013,7 +1013,7 @@
         "color": "yellow",
         "type": "wheel",
         "status": "G",
-        "rating": 2,
+        "rating": 3,
         "rating_type": "dirty",
         "tags": []
     },
