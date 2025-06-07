@@ -32,7 +32,7 @@
                 ]
             },
             {
-                "category_name": "Jerkin' Jacob",
+                "category_name": "Jerkin' It Jacob",
                 "questions": [
                     {
                         "points":200,
@@ -92,22 +92,22 @@
                 ]
             },
             {
-                "category_name": "Anal Arden",
+                "category_name": "Ass Tappin' Arden",
                 "questions": [
                     {
                         "points":200,
-                        "question":"burning church",
-                        "answer": "The tattoo on Arden's upper left shoulder"
+                        "question":"Office",
+                        "answer": "The TV show associated with where Arden is from"
                     },
                     {
                         "points":400,
-                        "question":"What is Soto",
-                        "answer": "Arden's Last Name"
+                        "question":"Trouble",
+                        "answer": "Arden's middle name"
                     },
                     {
                         "points":600,
-                        "question":"",
-                        "answer": "The name of Arden's dog"
+                        "question":"Point Guard",
+                        "answer": "Arden's position when he played basketball"
                     },
                     {
                         "points":800,
@@ -122,12 +122,12 @@
                 ]
             },
             {
-                "category_name": "Impure Ira",
+                "category_name": "Impure Thoughts Ira",
                 "questions": [
                     {
                         "points":200,
-                        "question":"What is Dreidel",
-                        "answer": "The game Ira game masters every Hannukah"
+                        "question":"What is the NAC",
+                        "answer": "The name of the center where Ira volunteers"
                     },
                     {
                         "points":400,
@@ -136,13 +136,13 @@
                     },
                     {
                         "points":600,
-                        "question":"",
+                        "question":"Washington Redskins",
                         "answer": "Ira's favorite football team's old name"
                     },
                     {
                         "points":800,
-                        "question":"What is the NAC",
-                        "answer": "The full name of the center where Ira volunteers"
+                        "question":"Where is Brooklyn",
+                        "answer": "Where Ira grew up until 3rd grade"
                     },
                     {
                         "points":1000,
@@ -274,7 +274,7 @@
                 ]
             },
             {
-                "category_name": "Profanity",
+                "category_name": "Profanity Phrases",
                 "questions": [
                     {
                         "points":200,
@@ -300,6 +300,36 @@
                         "points":1000,
                         "question":"son of a bitch",
                         "answer": "What you might call any male dog"
+                    }
+                ]
+            },
+            {
+                "category_name": "Gay Drawings",
+                "questions": [
+                    {
+                        "points":400,
+                        "question":"Tom of Finland",
+                        "answer": "Black and White leather daddies fucking"
+                    },
+                    {
+                        "points":800,
+                        "question":"Yaoi",
+                        "answer": "Japanese mlm drawings"
+                    },
+                    {
+                        "points":1200,
+                        "question":"What is rule 34",
+                        "answer": "The rule of the internet that all toons have gay porn versions"
+                    },
+                    {
+                        "points":1600,
+                        "question":"What is heartstopper",
+                        "answer": "This gay netflix show is based on gay graphic novels"
+                    },
+                    {
+                        "points":2000,
+                        "question":"Q-Force",
+                        "answer": "The netflix animated show about a squad of gay spies"
                     }
                 ]
             }

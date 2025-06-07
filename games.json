@@ -982,6 +982,18 @@
         "tags": []
     },
     {
+        "id": 79,
+        "name": "Pride Vol 1",
+        "json_name": "pridevol1",
+        "date_created": "5-31-2025",
+        "color": "pink",
+        "type": "jeopardy",
+        "status": "G",
+        "rating": 5,
+        "rating_type": "dirty",
+        "tags": []
+    },
+    {
         "id": 80,
         "name": "Pride On This Dick",
         "json_name": "pridevol1",
