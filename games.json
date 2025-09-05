@@ -983,8 +983,8 @@
     },
     {
         "id": 79,
-        "name": "Pride Vol 1",
-        "json_name": "pridevol1",
+        "name": "Pride Boyz",
+        "json_name": "prideboyz",
         "date_created": "5-31-2025",
         "color": "pink",
         "type": "jeopardy",
@@ -1007,8 +1007,8 @@
     },
     {
         "id": 81,
-        "name": "Pride Boyz",
-        "json_name": "prideboyz",
+        "name": "Pride Vol 1",
+        "json_name": "pridevol1",
         "date_created": "6-2-2025",
         "color": "orange",
         "type": "jeopardy",
@@ -1062,6 +1062,18 @@
         "type": "scatter",
         "status": "G",
         "rating": 4,
+        "rating_type": "dirty",
+        "tags": []
+    },
+    {
+        "id": 85,
+        "name": "Interstate Outlaw Party",
+        "json_name": "interstateoutlaw",
+        "date_created": "9-5-2025",
+        "color": "yellow",
+        "type": "jeopardy",
+        "status": "I",
+        "rating": 2,
         "rating_type": "dirty",
         "tags": []
     }
