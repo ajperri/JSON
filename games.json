@@ -616,7 +616,7 @@
     {
         "id": 51,
         "name": "Merry Dickmas",
-        "json_name": "dickmas",
+        "json_name": "dickmasvol1",
         "date_created": "12-18-2022",
         "color": "red",
         "type": "jeopardy",
@@ -666,9 +666,7 @@
         "status": "A",
         "rating": 3,
         "rating_type": "hardness",
-        "tags": [
-            
-        ]
+        "tags": []
     },
     {
         "id": 55,
@@ -680,9 +678,7 @@
         "status": "G",
         "rating": 4,
         "rating_type": "dirty",
-        "tags": [
-            
-        ]
+        "tags": []
     },
     {
         "id": 56,
@@ -694,9 +690,7 @@
         "status": "G",
         "rating": 5,
         "rating_type": "dirty",
-        "tags": [
-            
-        ]
+        "tags": []
     },
     {
         "id": 57,
@@ -708,9 +702,7 @@
         "status": "I",
         "rating": 4,
         "rating_type": "difficulty",
-        "tags": [
-            
-        ]
+        "tags": []
     },
     {
         "id": 58,
@@ -722,9 +714,7 @@
         "status": "I",
         "rating": 1,
         "rating_type": "dirty",
-        "tags": [
-            
-        ]
+        "tags": []
     },
     {
         "id": 60,
@@ -736,9 +726,7 @@
         "status": "A",
         "rating": 1,
         "rating_type": "",
-        "tags": [
-            
-        ]
+        "tags": []
     },
     {
         "id": 61,
@@ -750,9 +738,7 @@
         "status": "G",
         "rating": 1,
         "rating_type": "dirty",
-        "tags": [
-            
-        ]
+        "tags": []
     },
     {
         "id": 62,
@@ -764,9 +750,7 @@
         "status": "G",
         "rating": 5,
         "rating_type": "dirty",
-        "tags": [
-            
-        ]
+        "tags": []
     },
     {
         "id": 63,
@@ -778,9 +762,7 @@
         "status": "G",
         "rating": 4,
         "rating_type": "dirty",
-        "tags": [
-            
-        ]
+        "tags": []
     },
     {
         "id": 64,
@@ -792,9 +774,7 @@
         "status": "I",
         "rating": 1,
         "rating_type": "dirty",
-        "tags": [
-            
-        ]
+        "tags": []
     },
     {
         "id": 65,
@@ -806,9 +786,7 @@
         "status": "I",
         "rating": 2,
         "rating_type": "dirty",
-        "tags": [
-            
-        ]
+        "tags": []
     },
     {
         "id": 66,
@@ -820,9 +798,7 @@
         "status": "I",
         "rating": 3,
         "rating_type": "dirty",
-        "tags": [
-            
-        ]
+        "tags": []
     },
     {
         "id": 67,
@@ -834,9 +810,7 @@
         "status": "I",
         "rating": 5,
         "rating_type": "dirty",
-        "tags": [
-            
-        ]
+        "tags": []
     },
     {
         "id": 68,
@@ -848,9 +822,7 @@
         "status": "I",
         "rating": 1,
         "rating_type": "dirty",
-        "tags": [
-            
-        ]
+        "tags": []
     },
     {
         "id": 69,
@@ -862,9 +834,7 @@
         "status": "I",
         "rating": 1,
         "rating_type": "dirty",
-        "tags": [
-            
-        ]
+        "tags": []
     },
     {
         "id": 70,
@@ -876,9 +846,7 @@
         "status": "I",
         "rating": 1,
         "rating_type": "dirty",
-        "tags": [
-            
-        ]
+        "tags": []
     },
     {
         "id": 71,
@@ -890,14 +858,12 @@
         "status": "I",
         "rating": 1,
         "rating_type": "dirty",
-        "tags": [
-            
-        ]
+        "tags": []
     },
     {
         "id": 73,
-        "name": "Gay Brunch 2 - Christmas Boogaloo",
-        "json_name": "gaybrunchxmas",
+        "name": "Dickmas 2 - Christmas Boogaloo",
+        "json_name": "dickmasvol2",
         "date_created": "12-21-2024",
         "color": "green",
         "type": "jeopardy",
@@ -905,7 +871,9 @@
         "rating": 5,
         "rating_type": "dirty",
         "tags": [
-            "Holiday"
+            "Holiday",
+            "Gay",
+            "Christmas"
         ]
     },
     {
@@ -942,8 +910,7 @@
         "status": "G",
         "rating": 5,
         "rating_type": "dirty",
-        "tags": [
-        ]
+        "tags": []
     },
     {
         "id": 76,
@@ -1076,5 +1043,21 @@
         "rating": 2,
         "rating_type": "dirty",
         "tags": []
+    },
+    {
+        "id": 87,
+        "name": "Dickmas 3 - Cum All Ye Faithful In Me",
+        "json_name": "dickmasvol3",
+        "date_created": "12-21-2025",
+        "color": "red",
+        "type": "jeopardy",
+        "status": "G",
+        "rating": 5,
+        "rating_type": "dirty",
+        "tags": [
+            "Holiday",
+            "Gay",
+            "Christmas"
+        ]
     }
 ]
