@@ -1,0 +1,107 @@
+[
+    {
+        "question_text":"Name a MOTHER",
+        "answer_1":"Madonna",
+        "answer_2":"Princess Diana",
+        "answer_3":"Judy Garland",
+        "answer_4":"Cher",
+        "answer_5":"Joan Rivers",
+        "answer_6":"Elizabeth Taylor"
+    },
+    {
+        "question_text":"Name a gay bar in NYC",
+        "answer_1":"The Eagle",
+        "answer_2":"Pieces",
+        "answer_3":"Playhouse",
+        "answer_4":"Industry",
+        "answer_5":"Hardware",
+        "answer_6":"Rise"
+    },
+    {
+        "question_text":"Name a LGBT only dating app/site",
+        "answer_1":"Grindr",
+        "answer_2":"Taimi",
+        "answer_3":"Archer",
+        "answer_4":"Sniffies",
+        "answer_5":"Scruff",
+        "answer_6":"Hornet/Surge/Growlr"
+    },
+    {
+        "question_text":"Name a gay porn company",
+        "answer_1":"Men.com",
+        "answer_2":"Say Uncle",
+        "answer_3":"Next Door Studios",
+        "answer_4":"Sean Cody",
+        "answer_5":"Helix Studios",
+        "answer_6":"Bel Ami"
+    },
+    {
+        "question_text":"Name a diva who's done a superbowl halftime show",
+        "answer_1":"Lady Gaga",
+        "answer_2":"Beyonce",
+        "answer_3":"Katy Perry",
+        "answer_4":"Shakira & J.Lo",
+        "answer_5":"Rhianna",
+        "answer_6":"Janet Jackson"
+    },
+    {
+        "question_text":"Name one of grindr's hottest celebs of last year",
+        "answer_1":"Jonathan Bailey",
+        "answer_2":"Bad Bunny",
+        "answer_3":"David Corensweat",
+        "answer_4":"Michael B Jordan",
+        "answer_5":"Pedro Pascal",
+        "answer_6":"Ricky Martin"
+    },
+    {
+        "question_text":"Name a men's body part youd wanna lick",
+        "answer_1":"Dick",
+        "answer_2":"Hole",
+        "answer_3":"Armpit",
+        "answer_4":"Tongue/Mouth",
+        "answer_5":"Neck/Chest",
+        "answer_6":"Feet"
+    },
+    {
+        "question_text":"Name a sexy word that rhymes with pick, pock, or puck",
+        "answer_1":"Dick",
+        "answer_2":"Cock",
+        "answer_3":"Fuck",
+        "answer_4":"Lick",
+        "answer_5":"Suck",
+        "answer_6":"Lock"
+    },
+    {
+        "question_text":"Name a 'job' you could give a hot guy",
+        "answer_1":"Blowjob",
+        "answer_2":"Handjob",
+        "answer_3":"Footjob",
+        "answer_4":"Rimjob",
+        "answer_5":"Titjob",
+        "answer_6":"Pitjob"
+    },
+    {
+        "questions":[
+            {
+                "question":"Name an up and coming mother",
+                "answers":"Sabrina Carpenter - 75 | Charli XCX - 58 | Tate McCrae - 46 | Chappel Roan - -25"
+            },
+            {
+                "question":"Name a girl group from the 90s/00s",
+                "answers":"Destiny's Child - 72 | Spice Girls - 65 | TLC - 58 | Pussycat Dolls - 42"
+            },
+            {
+                "question":"Name a slang for anus",
+                "answers":"Bussy - 65 | Butt/Asshole - 64 | Hole - 46 | Chocolate Starfish - 23"
+            },
+            {
+                "question":"Name a sex toy you could buy at spencers",
+                "answers":"Dildo - 75 | Butt Plug - 63 | Handcuffs - 24 | Ball Gag - 17"
+            },
+            {
+                "question":"Name a Britney Spears Song",
+                "answers":"Toxic - 68 | Oops I Did It Again - 52 | Hit Me Baby - 43 | Any valid answer - 38"
+            }
+        ]
+    }
+]   
