@@ -1,0 +1,105 @@
+[
+    {
+        "columns": 4,
+        "rows": 4,
+        "foldername": null,
+        "questions": [
+            {
+                "category": "",
+                "type": "distortion",
+                "answer": "Danny Phantom",
+                "imagename": "danny"
+            },
+            {
+                "category": "",
+                "type": "distortion",
+                "answer": "Harry Styles",
+                "imagename": "harry"
+            },
+            {
+                "category": "",
+                "type": "distortion",
+                "answer": "Isaac Parker",
+                "imagename": "isaac"
+            },
+            {
+                "category": "",
+                "type": "distortion",
+                "answer": "Samuel L. Jackson",
+                "imagename": "sam"
+            },
+            {
+                "category": "",
+                "type": "distortion",
+                "answer": "Will Smith",
+                "imagename": "will"
+            },
+            {
+                "category": "",
+                "type": "distortion",
+                "answer": "Andrew Garfield",
+                "imagename": "andrew"
+            },
+            {
+                "category": "Nakey",
+                "type": "distortion",
+                "answer": "Flynn Ryder & Kristoff",
+                "imagename": "disney"
+            },
+            {
+                "category": "Nakey",
+                "type": "distortion",
+                "answer": "Donald Glover",
+                "imagename": "donald"
+            },
+            {
+                "category": "Bare Naked Boys",
+                "type": "distortion",
+                "answer": "Josh Hutcherson",
+                "imagename": "josh"
+            },
+            {
+                "category": "Bare Naked Boys",
+                "type": "distortion",
+                "answer": "Zac Efron & Dave Franco",
+                "imagename": "zacdave"
+            },
+            {
+                "category": "Bare Naked Boys",
+                "type": "distortion",
+                "answer": "Daniel Radcliffe",
+                "imagename": "daniel"
+            },
+            {
+                "category": "Bare Naked Boys",
+                "type": "distortion",
+                "answer": "Timothee Chalamet",
+                "imagename": "timothee"
+            },
+            {
+                "category": "Bare Naked Boys",
+                "type": "distortion",
+                "answer": "Bad Bunny",
+                "imagename": "bunny"
+            },
+            {
+                "category": "Bare Naked Boys",
+                "type": "distortion",
+                "answer": "Terry Crews",
+                "imagename": "terry"
+            },
+            {
+                "category": "Bare Naked Boys",
+                "type": "distortion",
+                "answer": "Justin Trudeau",
+                "imagename": "canada"
+            },
+            {
+                "category": "Bare Naked Boys",
+                "type": "distortion",
+                "answer": "Fred Jones",
+                "imagename": "fred"
+            } 
+        ]
+    }
+]

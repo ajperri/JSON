@@ -1095,5 +1095,53 @@
         "rating": 3,
         "rating_type": "hardness",
         "tags": []
+    },
+    {
+        "id": 91,
+        "name": "ParTy Pee-Pole",
+        "json_name": "partypeeple",
+        "date_created": "4-26-2026",
+        "color": "pink",
+        "type": "eyespy",
+        "status": "G",
+        "rating": 5,
+        "rating_type": "dirty",
+        "tags": []
+    },
+    {
+        "id": 92,
+        "name": "Gayme Night Vol. 7",
+        "json_name": "gaymenightvol7",
+        "date_created": "4-26-2026",
+        "color": "green",
+        "type": "famFued",
+        "status": "G",
+        "rating": 4,
+        "rating_type": "dirty",
+        "tags": []
+    },
+    {
+        "id": 93,
+        "name": "Gayme Night Vol. 7",
+        "json_name": "gaymenightvol7",
+        "date_created": "4-26-2026",
+        "color": "teal",
+        "type": "jeopardy",
+        "status": "G",
+        "rating": 5,
+        "rating_type": "dirty",
+        "tags": []
+    },
+    {
+        "id": 94,
+        "name": "Mother Disco",
+        "json_name": "motherdisco",
+        "date_created": "4-26-2026",
+        "color": "pink",
+        "type": "voice",
+        "status": "A",
+        "rating": 3,
+        "rating_type": "difficulty",
+        "tags": []
     }
 ]
