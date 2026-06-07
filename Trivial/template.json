@@ -1,0 +1,119 @@
+{
+    "categories": [
+        {
+            "name": "Red Light Dickstrict",
+            "meaning": "Sex"
+        },
+        {
+            "name": "Boots Da Haus Down",
+            "meaning": "Fashion"
+        },
+        {
+            "name": "Herstory Lessons",
+            "meaning": "History"
+        },
+        {
+            "name": "Poppers Couture",
+            "meaning": "Pop Culture"
+        },
+        {
+            "name": "Blue balling",
+            "meaning": "Sports"
+        },
+        {
+            "name": "Kara-Okurr",
+            "meaning": "Music"
+        }
+    ],
+    "red_questions": [
+        {
+            "minigame": "trivia",
+            "question": "",
+            "answer": ""
+        }
+    ],
+    "orange_questions": [
+        {
+            "minigame": "mc",
+            "question": "",
+            "option_a": "",
+            "option_b": "",
+            "option_c": "",
+            "option_d": "",
+            "answer": ""
+        },
+        {
+            "minigame": "trivia",
+            "question": "",
+            "answer": ""
+        }
+    ],
+    "yellow_questions": [
+        {
+            "minigame": "trivia",
+            "question": "",
+            "answer": ""
+        },
+        {
+            "minigame": "darkroom",
+            "before_image": "",
+            "after_image": "",
+            "answer": ""
+        }
+    ],
+    "green_questions": [
+        {
+            "minigame": "trivia",
+            "question": "",
+            "answer": ""
+        },
+        {
+            "minigame": "gloryhole",
+            "media": "",
+            "answer": ""
+        }
+    ],
+    "blue_questions": [
+        {
+            "minigame": "loads",
+            "options": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "answer": ""
+        },
+        {
+            "minigame": "trivia",
+            "question": "",
+            "answer": ""
+        }
+    ],
+    "pink_questions": [
+        {
+            "minigame": "image",
+            "media": "",
+            "question": "",
+            "answer": ""
+        },
+        {
+            "minigame": "audio",
+            "media": "",
+            "question": "",
+            "answer": ""
+        },
+        {
+            "minigame": "lyric",
+            "media": "",
+            "question": "",
+            "answer": ""
+        },
+        {
+            "minigame": "trivia",
+            "question": "",
+            "answer": ""
+        }
+    ]
+}
