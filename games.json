@@ -1143,5 +1143,17 @@
         "rating": 3,
         "rating_type": "difficulty",
         "tags": []
+    },
+    {
+        "id": 100,
+        "name": "",
+        "json_name": "hotgaysummer",
+        "date_created": "7-16-2026",
+        "color": "green",
+        "type": "trivial",
+        "status": "G",
+        "rating": 5,
+        "rating_type": "dirty",
+        "tags": []
     }
 ]
