@@ -101,7 +101,8 @@
                 "Bulldog",
                 "Soaring Eagle"
             ],
-            "answer": "Doggy"
+            "reason": "Bottom is in control",
+            "answer": "Bulldog"
         },
         {
             "minigame": "loads",
@@ -120,12 +121,13 @@
             "hint": "Bright Eyes",
             "options": [
                 "Cowboy",
-                "Doggy",
+                "Missionary",
                 "Pile Driver",
                 "Bulldog",
                 "Soaring Eagle"
             ],
-            "answer": "Doggy"
+            "reason": "Botom is turned around",
+            "answer": "Missionary"
         },
         {
             "minigame": "mc",
@@ -261,6 +263,12 @@
             "option_c": "Top half on the bed",
             "option_d": "Trick Question, he stands the top lays",
             "answer": "c"
+        },
+        {
+            "minigame": "image",
+            "media": "",
+            "question": "Which pornstar is this?",
+            "answer": "Joey Mills"
         }
     ],
     "orange_questions": [
@@ -284,6 +292,7 @@
                 "Trunks",
                 "Thong"
             ],
+            "reason": "Butthole is covered",
             "answer": "Jockstrap"
         },
         {
@@ -296,6 +305,7 @@
                 "Pump!",
                 "Addicted"
             ],
+            "reason": "The designer name is the brand",
             "answer": "Calvin Klein"
         },
         {
@@ -443,12 +453,6 @@
             "answer": "Kinsey"
         },
         {
-            "minigame": "darkroom",
-            "before_image": "",
-            "after_image": "",
-            "answer": ""
-        },
-        {
             "minigame": "trivia",
             "question": "When is National Coming out day, established in 1988?",
             "answer": "October 11th"
@@ -457,38 +461,322 @@
             "minigame": "trivia",
             "question": "What popular symbol of gay pride originated from WW2?",
             "answer": "Pink Triangle"
+        },
+        {
+            "minigame": "trivia",
+            "question": "What neighborhood is the historic stonewall in?",
+            "answer": "Grenwich Village"
+        },
+        {
+            "minigame": "trivia",
+            "question": "The stonewall riots took place in this iconic year",
+            "answer": "1969"
+        },
+        {
+            "minigame": "trivia",
+            "question": "Who was the first openly gay man to be elected to political office",
+            "answer": "Harvey Milk"
+        },
+        {
+            "minigame": "trivia",
+            "question": "What TV show featured the largest transgender cast in history",
+            "answer": "Pose"
+        },
+        {
+            "minigame": "trivia",
+            "question": "What does PFLAG stand for?",
+            "answer": "Parents and Friends of Lesbians and Gays"
+        },
+        {
+            "minigame": "image",
+            "media": "",
+            "question": "What do these three flags stand for?",
+            "answer": "Lesbian, Gay, Asexual"
+        },
+        {
+            "minigame": "image",
+            "media": "",
+            "question": "What do these three flags stand for?",
+            "answer": "Trans, Bisexual, Pride"
+        },
+        {
+            "minigame": "trivia",
+            "question": "Which documentary depicted NYC Drag in the height of the Aids Crisis?",
+            "answer": "Paris is Burning"
+        },
+        {
+            "minigame": "trivia",
+            "question": "",
+            "answer": ""
+        },
+        {
+            "minigame": "trivia",
+            "question": "",
+            "answer": ""
+        },
+        {
+            "minigame": "trivia",
+            "question": "",
+            "answer": ""
+        },
+        {
+            "minigame": "trivia",
+            "question": "",
+            "answer": ""
         }
     ],
     "green_questions": [
         {
             "minigame": "trivia",
-            "question": "",
-            "answer": ""
+            "question": "This NYC actress is in two high school queer movies, one as the main character and later as a teacher",
+            "answer": "Natasha Lyonne"
         },
         {
             "minigame": "trivia",
-            "question": "",
-            "answer": ""
+            "question": "This diva from the past debuted a new song with a current diva at Coachella",
+            "answer": "Madonna / Sabrina Carpenter"
         },
         {
             "minigame": "trivia",
-            "question": "",
-            "answer": ""
+            "question": "What does Sabrina Carpenter's 'Feather' and Madonna's 'Like a Prayer' have in common",
+            "answer": "Shot in churches"
         },
         {
             "minigame": "trivia",
-            "question": "",
-            "answer": ""
+            "question": "This iconic gay movie features Robin Williams married to a drag wueen",
+            "answer": "The Birdcage"
         },
         {
             "minigame": "trivia",
-            "question": "",
-            "answer": ""
+            "question": "What is the reason Natasha Lyonne's character says she can't be lesbian?",
+            "answer": "But, I'm a cheerleader"
+        },
+        {
+            "minigame": "trivia",
+            "question": "What is the screen name of Simon's love interest in Love Simon?",
+            "answer": "Blue"
+        },
+        {
+            "minigame": "trivia",
+            "question": "In 'Love Simon' where do they first kiss?",
+            "answer": "The Ferris Wheel"
+        },
+        {
+            "minigame": "trivia",
+            "question": "Who are the other two main characters in Will & Grace?",
+            "answer": "Jack & Karen"
+        },
+        {
+            "minigame": "trivia",
+            "question": "What disney actress did Lindsay Lohen fued with in the 2000s?",
+            "answer": "Hillary Duff"
+        },
+        {
+            "minigame": "trivia",
+            "question": "What famous song is sung by both Whitney Houston and Dolly Parton",
+            "answer": "I Will Always Love You"
+        },
+        {
+            "minigame": "trivia",
+            "question": "Which singer's body famously tells the truth",
+            "answer": "Shakira"
+        },
+        {
+            "minigame": "trivia",
+            "question": "What gay movie beat La La Land for the Oscar?",
+            "answer": "Moonlight"
+        },
+        {
+            "minigame": "trivia",
+            "question": "Chappell Roan, Charli XCX, and Sabrina Carpenter were compared to what kids TV Show?",
+            "answer": "Powerpuff Girls"
+        },
+        {
+            "minigame": "trivia",
+            "question": "This superhero group was a metaphor for prejudice, and now sports several LGBT members",
+            "answer": "The X Men"
+        },
+        {
+            "minigame": "trivia",
+            "question": "Which show had the infamous brothers jerk off sex scene?",
+            "answer": "White Lotus"
+        },
+        {
+            "minigame": "trivia",
+            "question": "Who is Kimmy Schmitts gay roommate and bestie?",
+            "answer": "Titus Andromedon"
+        },
+        {
+            "minigame": "trivia",
+            "question": "This fashion TV show featured America Ferrerra, Blake Lively, and Michael Urie",
+            "answer": "Ugly Betty"
+        },
+        {
+            "minigame": "trivia",
+            "question": "What does Buffy do?",
+            "answer": "Slay Vampires"
+        },
+        {
+            "minigame": "trivia",
+            "question": "This Teen Wolf and Twinless actor loves being pegged",
+            "answer": "Dylan O Brien"
         },
         {
             "minigame": "gloryhole",
-            "media": "",
-            "answer": ""
+            "media": "The Vision and this red woman have two kids, one is gay the other is bi",
+            "answer": "Scarlet With"
+        },
+        {
+            "minigame": "mc",
+            "question": "What vegetable does Katseye want you to eat?",
+            "option_a": "Cucumber",
+            "option_b": "Brocolli",
+            "option_c": "Zuchinni",
+            "option_d": "Kale",
+            "answer": "c"
+        },
+        {
+            "minigame": "mc",
+            "question": "Which hot chris is not in the MCU?",
+            "option_a": "Chris Hemsworth",
+            "option_b": "Chris Pratt",
+            "option_c": "Chris Pine",
+            "option_d": "Chris Evans",
+            "answer": "c"
+        },
+        {
+            "minigame": "mc",
+            "question": "Which show does not have a gay character in the main cast",
+            "option_a": "Modern Family",
+            "option_b": "Shameless",
+            "option_c": "It's Always Sunny in Philadelphia",
+            "option_d": "Queer as Folk",
+            "answer": "d"
+        },
+        {
+            "minigame": "mc",
+            "question": "Which TV show did Britney Spears not guest star on?",
+            "option_a": "How I Met Your Mother",
+            "option_b": "Will & Grace",
+            "option_c": "Jane The Virgin",
+            "option_d": "Modern Family",
+            "answer": "d"
+        },
+        {
+            "minigame": "mc",
+            "question": "James Van Der Beek plays himself in this TV Show",
+            "option_a": "Queer as Folk",
+            "option_b": "Don't Trust the B***",
+            "option_c": "Ugly Betty",
+            "option_d": "I Love LA",
+            "answer": "b"
+        },
+        {
+            "minigame": "trivia",
+            "question": "The Vision and this red woman have two kids, one is gay the other is bi",
+            "answer": "Scarlet Witch"
+        },
+        {
+            "minigame": "trivia",
+            "question": "Who outs Ben in Overcompensating?",
+            "answer": "Carmen"
+        },
+        {
+            "minigame": "trivia",
+            "question": "Which video is Britney's red jumpsuit from?",
+            "answer": "Oops I Did It again"
+        },
+        {
+            "minigame": "trivia",
+            "question": "What movie is referenced in the bridge of 'Oops! I Did it Again'?",
+            "answer": "Titanic"
+        },
+        {
+            "minigame": "trivia",
+            "question": "This Russian historical figure was immortilized by the Boney M song",
+            "answer": "Rasputin"
+        },
+        {
+            "minigame": "trivia",
+            "question": "She looks so perfect standing there in what brand of underwear?",
+            "answer": "American Apparel"
+        },
+        {
+            "minigame": "trivia",
+            "question": "What were the extracurricular activities of the main characters in Sk8r Boi",
+            "answer": "Skateboarding, Ballet"
+        },
+        {
+            "minigame": "trivia",
+            "question": "Which british singer did Wendy Williams misspeak the name of?",
+            "answer": "Dua Lipa"
+        },
+        {
+            "minigame": "trivia",
+            "question": "Why do the weather girls say to leave your umbrellas at home?",
+            "answer": "It's Raining Men"
+        },
+        {
+            "minigame": "trivia",
+            "question": "Tom Holland Lip Synced in drag to this song",
+            "answer": "Umbrella by Rihanna"
+        },
+        {
+            "minigame": "trivia",
+            "question": "What do TLC warn you not to do?",
+            "answer": "Go chasing waterfalls"
+        },
+        {
+            "minigame": "loads",
+            "hint": "It's Britney Bitch",
+            "options": [
+                "I Wanna Go",
+                "Toxic",
+                "Hold it Against Me",
+                "Circus",
+                "If You Seek Amy"
+            ],
+            "reason": "Post - Shaved Head Britney",
+            "answer": "Toxic"
+        },
+        {
+            "minigame": "loads",
+            "hint": "Country",
+            "options": [
+                "Miranda Lambert",
+                "Maren Morris",
+                "Kacey Musgraves",
+                "Carrie Underwood",
+                "Cassadee Pope"
+            ],
+            "reason": "LGBT Friendly County Singers",
+            "answer": "Carrie Underwood"
+        },
+        {
+            "minigame": "loads",
+            "hint": "Starbucks Medium",
+            "options": [
+                "Celine Dion",
+                "Jennifer Lawrence",
+                "Jennifer Coolidge",
+                "Miley Cyrus",
+                "Jennifer Aniston"
+            ],
+            "reason": "Ariana Grande SNL Impressions",
+            "answer": "Jennifer Aniston"
+        },
+        {
+            "minigame": "loads",
+            "hint": "Gen Z Songs",
+            "options": [
+                "Rush",
+                "Von Dutch",
+                "Tears",
+                "Hot to Go",
+                "Where Is My Husband?"
+            ],
+            "reason": "Songs by women",
+            "answer": "Rush"
         }
     ],
     "blue_questions": [
@@ -551,18 +839,349 @@
                 "Beach Volleyball",
                 "Sumo Wrestling"
             ],
+            "reason": "Shirtless Sports",
             "answer": "American Football"
         },
         {
             "minigame": "trivia",
             "question": "A German ref of which sport proposed to his boyfriend at the match",
             "answer": "Soccer/Futbol"
+        },
+        {
+            "minigame": "trivia",
+            "question": "Shakira's 'Waka Waka' and 'Dai Dai' were both written for this event",
+            "answer": "The World Cup"
+        },
+        {
+            "minigame": "trivia",
+            "question": "Jason Collins is the first openly gay player in which league?",
+            "answer": "NBA"
+        },
+        {
+            "minigame": "trivia",
+            "question": "Michael Sam is the first openly gay player to be drafted to which league?",
+            "answer": "NFL"
+        },
+        {
+            "minigame": "trivia",
+            "question": "The Dodgers recently revealed a display honoring Glenn Burke and Billy Bean, the first gay players in which league?",
+            "answer": "MLB"
+        },
+        {
+            "minigame": "trivia",
+            "question": "Luke Prokop was the first contracted player to come out in which league?",
+            "answer": "NHL"
+        },
+        {
+            "minigame": "trivia",
+            "question": "This sport has 6 players for each team playing at a time",
+            "answer": "Hockey"
+        },
+        {
+            "minigame": "loads",
+            "hint": "Put me in Coach",
+            "options": [
+                "Basketball",
+                "Handball",
+                "Hockey",
+                "Lacrosse",
+                "Quadball"
+            ],
+            "reason": "Allows free substitutions",
+            "answer": "Basketball"
+        },
+        {
+            "minigame": "loads",
+            "hint": "It's how you use it",
+            "options": [
+                "Golf",
+                "Ping Pong",
+                "Volleyball",
+                "Tennis",
+                "Racquetball"
+            ],
+            "reason": "Testicle sized balls",
+            "answer": "Volleyball"
+        },
+        {
+            "minigame": "loads",
+            "hint": "Basically Naked Boyz",
+            "options": [
+                "Volleyball",
+                "Futsol",
+                "Football",
+                "Handball",
+                "Ultimate Frisbee"
+            ],
+            "reason": "Has a beach version",
+            "answer": "Football"
+        },
+        {
+            "minigame": "loads",
+            "hint": "Safety First",
+            "options": [
+                "Football",
+                "Rugby",
+                "Baseball",
+                "MMA Fighting",
+                "Rock Climbing"
+            ],
+            "reason": "Sports you wear a cup in",
+            "answer": "Rock Climbing"
+        },
+        {
+            "minigame": "loads",
+            "hint": "It's Mine Now",
+            "options": [
+                "Tennis",
+                "Football",
+                "Basketball",
+                "Golf",
+                "Volleyball"
+            ],
+            "reason": "Sports where both sides touch the same ball",
+            "answer": "Golf"
+        },
+        {
+            "minigame": "loads",
+            "hint": "In my hands",
+            "options": [
+                "Basketball",
+                "Mini Golf",
+                "Archery",
+                "Billiards",
+                "Volleyball"
+            ],
+            "reason": "GamePigeon games",
+            "answer": "Volleyball"
+        },
+        {
+            "minigame": "loads",
+            "hint": "Back it up",
+            "options": [
+                "Quarterback",
+                "Half Back",
+                "Defensive Back",
+                "Third Back",
+                "Full Back"
+            ],
+            "reason": "Real runninbacks",
+            "answer": "Third Back"
+        },
+        {
+            "minigame": "loads",
+            "hint": "Only Gays Allowed",
+            "options": [
+                "Bowling",
+                "Kickball",
+                "Dodgeball",
+                "Pickleball",
+                "Volleyball"
+            ],
+            "reason": "Big Apple Rec Sports",
+            "answer": "Volleyball"
+        },
+        {
+            "minigame": "loads",
+            "hint": "Where you judge",
+            "options": [
+                "Volleyball",
+                "Basketball",
+                "Tennis",
+                "Pickleball",
+                "Football"
+            ],
+            "reason": "Sports played on a court",
+            "answer": "Football"
+        },
+        {
+            "minigame": "loads",
+            "hint": "Heteronormativity",
+            "options": [
+                "Doubles Tennis",
+                "Figure Skating",
+                "Gymnastics",
+                "Curling",
+                "Synchronized Swimming"
+            ],
+            "reason": "Sports with co-ed teams",
+            "answer": "Gymnastics"
+        },
+        {
+            "minigame": "loads",
+            "hint": "Naked Greek Men",
+            "options": [
+                "Gymnastics",
+                "Archery",
+                "American Football",
+                "Taekwondo",
+                "Wrestling"
+            ],
+            "reason": "Summer Olympic Sports",
+            "answer": "American Football"
+        },
+        {
+            "minigame": "loads",
+            "hint": "It's not my fault it's small",
+            "options": [
+                "Figure Skating",
+                "Luge",
+                "Hockey",
+                "Snowboarding",
+                "Gymnastics"
+            ],
+            "reason": "Winter Olympic Sports",
+            "answer": "Gymnastics"
+        },
+        {
+            "minigame": "loads",
+            "hint": "How high?",
+            "options": [
+                "Set",
+                "Block",
+                "Spike",
+                "Tip",
+                "Hit"
+            ],
+            "reason": "Moves you jump when hitting the ball",
+            "answer": "Set"
+        },
+        {
+            "minigame": "trivia",
+            "question": "This sport had a naked trophy in my high school that I looked at far too long",
+            "answer": "Wrestling"
+        },
+        {
+            "minigame": "trivia",
+            "question": "Who is typically larger, a Tight End or a Wide Reciever?",
+            "answer": "Tight End"
+        },
+        {
+            "minigame": "trivia",
+            "question": "What is it called when the defense tackles the Quarterback behind the line of scrimmage (think dirty)",
+            "answer": "Sack"
+        },
+        {
+            "minigame": "trivia",
+            "question": "What do they call the space created by the Offensive line for the backs to run through?",
+            "answer": "Hole"
+        },
+        {
+            "minigame": "trivia",
+            "question": "What are the three ideal actions a volleyball team does when receiving the ball",
+            "answer": "Pass, Set, Hit"
+        },
+        {
+            "minigame": "trivia",
+            "question": "In basketball what is the smaller time counter called?",
+            "answer": "Shot Clock"
+        },
+        {
+            "minigame": "trivia",
+            "question": "How many yards do you go to earn another first down?",
+            "answer": "10"
+        },
+        {
+            "minigame": "trivia",
+            "question": "What is the only way to score 2 points in football",
+            "answer": "Safety"
+        },
+        {
+            "minigame": "trivia",
+            "question": "What is the referree hand signal for holding in football?",
+            "answer": "Show it"
+        },
+        {
+            "minigame": "trivia",
+            "question": "What is the difference between volleyball and basketball court lines",
+            "answer": "How far you can step on them"
+        },
+        {
+            "minigame": "trivia",
+            "question": "A lateral pass in football or the grass rugby field in Britain",
+            "answer": "Pitch"
+        },
+        {
+            "minigame": "trivia",
+            "question": "What do british people call their jersey/short combos?",
+            "answer": "Kit"
+        },
+        {
+            "minigame": "trivia",
+            "question": "What sport does Henry play in Red White and Royal Blue?",
+            "answer": "Polo"
+        },
+        {
+            "minigame": "mc",
+            "question": "Which sport is not included in any athalon",
+            "option_a": "Rock Climbing",
+            "option_b": "Cycling",
+            "option_c": "Kayaking",
+            "option_d": "Cross Country Skiing",
+            "answer": "a"
+        },
+        {
+            "minigame": "mc",
+            "question": "Which sport did Isaac not play growing up",
+            "option_a": "Tumbling",
+            "option_b": "T-Ball",
+            "option_c": "Soccer",
+            "option_d": "Football",
+            "answer": "b"
+        },
+        {
+            "minigame": "mc",
+            "question": "In volleyball which is allowed?",
+            "option_a": "Block the serve",
+            "option_b": "Lift with a flat hand",
+            "option_c": "Step partially over the middle",
+            "option_d": "Touch the net",
+            "answer": "c"
+        },
+        {
+            "minigame": "mc",
+            "question": "Which sports ball is the cheapest on Amazon?",
+            "option_a": "Volleyball",
+            "option_b": "Football",
+            "option_c": "Basketball",
+            "option_d": "Golf",
+            "answer": "d"
+        },
+        {
+            "minigame": "loads",
+            "hint": "Blow me",
+            "options": [
+                "Volleyball",
+                "Basketball",
+                "Tennis ball",
+                "Kickball",
+                "Football"
+            ],
+            "reason": "Balls you can inflate",
+            "answer": "Tennis"
+        },
+        {
+            "minigame": "mc",
+            "question": "Which gay movie/sport combo is incorrect?",
+            "option_a": "Red White & Royal Blue - Football",
+            "option_b": "Heartstopper - Rugby",
+            "option_c": "Heated Rivalry - Hockey",
+            "option_d": "Love Victor - Basketball",
+            "answer": "a"
         }
     ],
     "pink_questions": [
         {
-            "minigame": "trivia",
-            "question": "",
+            "minigame": "loads",
+            "hint": "",
+            "options": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "reason": "",
             "answer": ""
         },
         {
