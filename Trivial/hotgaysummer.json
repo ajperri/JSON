@@ -93,11 +93,11 @@
         },
         {
             "minigame": "loads",
-            "hint": "No Hint Needed",
+            "hint": "Kingdom",
             "options": [
-                "Reverse Cowboy",
+                "Doggy",
                 "Crab",
-                "Cowboy",
+                "Butterfly",
                 "Bulldog",
                 "Soaring Eagle"
             ],
@@ -114,7 +114,7 @@
                 "Warrior",
                 "Lap Dance"
             ],
-            "answer": "Doggy"
+            "answer": "Jockey"
         },
         {
             "minigame": "loads",
@@ -124,7 +124,7 @@
                 "Missionary",
                 "Pile Driver",
                 "Bulldog",
-                "Soaring Eagle"
+                "Reverse Soaring Eagle"
             ],
             "reason": "Botom is turned around",
             "answer": "Missionary"
@@ -1171,6 +1171,11 @@
         }
     ],
     "pink_questions": [
+        {
+            "minigame": "tv",
+            "media": "rush",
+            "question": "Which Music Video is this screenshot from?"
+        },
         {
             "minigame": "loads",
             "hint": "",
