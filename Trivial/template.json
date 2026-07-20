@@ -112,9 +112,9 @@
             "answer": ""
         },
         {
-            "minigame": "trivia",
+            "minigame": "tv",
             "question": "",
-            "answer": ""
+            "media": ""
         }
     ]
 }
