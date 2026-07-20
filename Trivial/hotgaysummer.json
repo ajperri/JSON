@@ -1174,46 +1174,299 @@
         {
             "minigame": "tv",
             "media": "rush",
-            "question": "Which Music Video is this screenshot from?"
+            "question": "Which artist and song's music video is this screenshot from?"
+        },
+        {
+            "minigame": "tv",
+            "media": "go",
+            "question": "Which artist and song's music video is this scene from?"
+        },
+        {
+            "minigame": "tv",
+            "media": "hnc",
+            "question": "Which artist and song's music video is this screenshot from?"
+        },
+        {
+            "minigame": "tv",
+            "media": "jump",
+            "question": "Which artist and song's music video is this scene from?"
+        },
+        {
+            "minigame": "tv",
+            "media": "off",
+            "question": "Which artist and song's music video is this screenshot from?"
+        },
+        {
+            "minigame": "tv",
+            "media": "firework",
+            "question": "Which artist and song's music video is this scene from?"
+        },
+        {
+            "minigame": "tv",
+            "media": "lucky",
+            "question": "Which artist and song's music video is this screenshot from?"
+        },
+        {
+            "minigame": "tv",
+            "media": "earl",
+            "question": "Which artist and song's music video is this scene from?"
+        },
+        {
+            "minigame": "tv",
+            "media": "blow",
+            "question": "Which artist and song's music video is this screenshot from?"
+        },
+        {
+            "minigame": "tv",
+            "media": "joyride",
+            "question": "Which artist and song's music video is this scene from?"
+        },
+        {
+            "minigame": "tv",
+            "media": "tom",
+            "question": "Which artist and song is Tom Holland dancing to?"
+        },
+        {
+            "minigame": "tv",
+            "media": "amy",
+            "question": "Which artist and song's music video is this scene from?"
+        },
+        {
+            "minigame": "tv",
+            "media": "girlfriend",
+            "question": "Which artist and song's music video is this screenshot from?"
+        },
+        {
+            "minigame": "tv",
+            "media": "sk8r",
+            "question": "Which artist and song's music video is this scene from?"
+        },
+        {
+            "minigame": "tv",
+            "media": "hell",
+            "question": "Which artist and song's music video is this screenshot from?"
+        },
+        {
+            "minigame": "tv",
+            "media": "whenever",
+            "question": "Which artist and song's music video is this scene from?"
+        },
+        {
+            "minigame": "tv",
+            "media": "waka",
+            "question": "Which artist and song's music video is this screenshot from?"
+        },
+        {
+            "minigame": "tv",
+            "media": "wolf",
+            "question": "Which artist and song's music video is this scene from?"
+        },
+        {
+            "minigame": "tv",
+            "media": "shania",
+            "question": "Which artist and song's music video is this screenshot from?"
+        },
+        {
+            "minigame": "tv",
+            "media": "espresso",
+            "question": "Which artist and song's music video is this scene from?"
+        },
+        {
+            "minigame": "tv",
+            "media": "taste",
+            "question": "Which artist and song's music video is this screenshot from?"
+        },
+        {
+            "minigame": "tv",
+            "media": "please",
+            "question": "Which artist and song's music video is this scene from?"
+        },
+        {
+            "minigame": "tv",
+            "media": "roger",
+            "question": "Which artist and song's music video is Roger parodying?"
+        },
+        {
+            "minigame": "tv",
+            "media": "prayer",
+            "question": "Which artist and song's music video is this scene from?"
+        },
+        {
+            "minigame": "tv",
+            "media": "virgin",
+            "question": "Which artist and song's music video is this screenshot from?"
+        },
+        {
+            "minigame": "tv",
+            "media": "rings",
+            "question": "Which artist and song's music video is this scene from?"
+        },
+        {
+            "minigame": "tv",
+            "media": "rain",
+            "question": "Which artist and song's music video is this screenshot from?"
+        },
+        {
+            "minigame": "tv",
+            "media": "material",
+            "question": "Which artist and song's music video is this scene from?"
+        },
+        {
+            "minigame": "tv",
+            "media": "popular",
+            "question": "Which artist and song's music video is this screenshot from?"
+        },
+        {
+            "minigame": "tv",
+            "media": "next",
+            "question": "Which artist and song's music video is this scene from?"
+        },
+        {
+            "minigame": "tv",
+            "media": "dion",
+            "question": "Which artist and song's music video is this screenshot from?"
+        },
+        {
+            "minigame": "tv",
+            "media": "cher",
+            "question": "Which artist and song's music video is this scene from?"
+        },
+        {
+            "minigame": "tv",
+            "media": "lemonade",
+            "question": "Which artist and song's music video is this screenshot from?"
+        },
+        {
+            "minigame": "tv",
+            "media": "telephone",
+            "question": "Which artist and song's music video is this scene from?"
+        },
+        {
+            "minigame": "tv",
+            "media": "top",
+            "question": "Which artist and song's music video is this screenshot from?"
+        },
+        {
+            "minigame": "tv",
+            "media": "lay",
+            "question": "Which musical movie and song is this scene from?"
+        },
+        {
+            "minigame": "tv",
+            "media": "bg",
+            "question": "Which musical movie and song is this scene from?"
+        },
+        {
+            "minigame": "tv",
+            "media": "dq",
+            "question": "Which musical movie and song is this scene from?"
+        },
+        {
+            "minigame": "tv",
+            "media": "romance",
+            "question": "Which artist and song's music video is this screenshot from?"
+        },
+        {
+            "minigame": "tv",
+            "media": "poker",
+            "question": "Which artist and song's music video is this scene from?"
+        },
+        {
+            "minigame": "tv",
+            "media": "raise",
+            "question": "Which artist and song's music video is this screenshot from?"
+        },
+        {
+            "minigame": "tv",
+            "media": "sowhat",
+            "question": "Which artist and song's music video is this scene from?"
+        },
+        {
+            "minigame": "tv",
+            "media": "",
+            "question": "Which artist and song's music video is this screenshot from?"
+        },
+        {
+            "minigame": "tv",
+            "media": "",
+            "question": "Which artist and song's music video is this scene from?"
         },
         {
             "minigame": "loads",
-            "hint": "",
+            "hint": "Album",
             "options": [
-                "",
-                "",
-                "",
-                "",
-                ""
+                "I Kissed A Girl",
+                "California Gurls",
+                "Teenage Dream",
+                "The One That Got Away",
+                "E.T."
             ],
-            "reason": "",
-            "answer": ""
+            "reason": "Singles from Teenage Dream",
+            "answer": "I Kissed A Girl"
+        },
+        {
+            "minigame": "loads",
+            "hint": "Sabrina Carpenter",
+            "options": [
+                "Rocky Horror",
+                "Death Becomes Her",
+                "Thelma & Louise",
+                "Addams Family Values",
+                "Gone With The Wind"
+            ],
+            "reason": "Movies Referenced in her Music Videos",
+            "answer": "Gone With The Wind"
         },
         {
             "minigame": "trivia",
-            "question": "",
-            "answer": ""
+            "question": "What is the name of the pro-gay marriage song Macklemore relased?",
+            "answer": "Same Love"
         },
         {
-            "minigame": "image",
-            "media": "",
-            "question": "",
-            "answer": ""
+            "minigame": "mc",
+            "question": "Which language did Avril Lavigne NOT translate 'Girlfriend' into?",
+            "option_a": "Mandarin",
+            "option_b": "Portugese",
+            "option_c": "French",
+            "option_d": "Russian",
+            "answer": "d"
+        },
+        {
+            "minigame": "mc",
+            "question": "Kelly Clarkson's Breakaway was originally written by and for this artist",
+            "option_a": "Christina Agulera",
+            "option_b": "Hillary Duff",
+            "option_c": "Avril Lavigne",
+            "option_d": "Hayley Williams (Paramore)",
+            "answer": "c"
+        },
+        {
+            "minigame": "mc",
+            "question": "Which music video does not feature the main artist in drag?",
+            "option_a": "Best Song Ever - One Direction",
+            "option_b": "One of Your Girls - Troye Sivan",
+            "option_c": "Yo Perreo Sola - Bad Bunny",
+            "option_d": "If I Had You - Adam Lambert",
+            "answer": "d"
+        },
+        {
+            "minigame": "mc",
+            "question": "Which music video does not feature the main artist shirtless?",
+            "option_a": "Montero - Lil Nas X",
+            "option_b": "Rush - Troye Sivan",
+            "option_c": "Livin La Vida Lova - Ricky Martin",
+            "option_d": "Rhythm of Love - Frankie Grande",
+            "answer": "c"
         },
         {
             "minigame": "audio",
             "media": "",
-            "question": "",
+            "question": "Name this song",
             "answer": ""
         },
         {
             "minigame": "lyric",
             "media": "",
-            "question": "",
-            "answer": ""
-        },
-        {
-            "minigame": "trivia",
             "question": "",
             "answer": ""
         }
