@@ -32,11 +32,6 @@
             "answer": "Lotus"
         },
         {
-            "minigame": "gloryhole",
-            "media": "rush",
-            "answer": "Rush Poppers"
-        },
-        {
             "minigame": "mc",
             "question": "Named after an amusement park attraction, this position has both partners face down, but opposite from each other",
             "option_a": "Roller Coaster",
@@ -270,10 +265,24 @@
             "answer": "c"
         },
         {
-            "minigame": "image",
-            "media": "",
-            "question": "Which pornstar is this?",
+            "minigame": "gloryhole",
+            "media": "joey",
             "answer": "Joey Mills"
+        },
+        {
+            "minigame": "gloryhole",
+            "media": "malik",
+            "answer": "Malik Delgaty"
+        },
+        {
+            "minigame": "gloryhole",
+            "media": "rush",
+            "answer": "Rush Poppers"
+        },
+        {
+            "minigame": "gloryhole",
+            "media": "condom",
+            "answer": "Trojan Magnum Condom"
         }
     ],
     "orange_questions": [
@@ -493,6 +502,11 @@
             "answer": "Parents and Friends of Lesbians and Gays"
         },
         {
+            "minigame": "gloryhole",
+            "media": "stonewall",
+            "answer": "The Stonewall Inn"
+        }
+        {
             "minigame": "image",
             "media": "",
             "question": "What do these three flags stand for?",
@@ -627,7 +641,7 @@
             "answer": "Dylan O Brien"
         },
         {
-            "minigame": "gloryhole",
+            "minigame": "trivia",
             "media": "The Vision and this red woman have two kids, one is gay the other is bi",
             "answer": "Scarlet With"
         },
@@ -648,43 +662,148 @@
         },
         {
             "minigame": "gloryhole",
-            "media": "",
-            "answer": ""
+            "media": "katya",
+            "answer": "Katya Zamolodchikova"
         },
         {
             "minigame": "gloryhole",
-            "media": "",
-            "answer": ""
+            "media": "bob",
+            "answer": "Bob the Drag Queen"
         },
         {
             "minigame": "gloryhole",
-            "media": "",
-            "answer": ""
+            "media": "monet",
+            "answer": "Monet X Change"
         },
         {
             "minigame": "gloryhole",
-            "media": "",
-            "answer": ""
+            "media": "lil",
+            "answer": "Lil Nas X"
         },
         {
             "minigame": "gloryhole",
-            "media": "",
-            "answer": ""
+            "media": "troye",
+            "answer": "Troye Sivan"
         },
         {
             "minigame": "gloryhole",
-            "media": "",
-            "answer": ""
+            "media": "simon",
+            "answer": "Love, Simon"
         },
         {
             "minigame": "gloryhole",
-            "media": "",
-            "answer": ""
+            "media": "oscar",
+            "answer": "Oscar Martinez - The Office"
         },
         {
             "minigame": "gloryhole",
-            "media": "",
-            "answer": ""
+            "media": "cam",
+            "answer": "Cam Tucker - Modern Family"
+        },
+        {
+            "minigame": "gloryhole",
+            "media": "kurt",
+            "answer": "Kurt Hummel - Glee"
+        },
+        {
+            "minigame": "gloryhole",
+            "media": "sue",
+            "answer": "Sue Sylvester - Glee"
+        },
+        {
+            "minigame": "gloryhole",
+            "media": "heartstopper",
+            "answer": "Nick & Charlie - Heartstopper"
+        },
+        {
+            "minigame": "gloryhole",
+            "media": "holt",
+            "answer": "Captain Holt - Brookyln 99"
+        },
+        {
+            "minigame": "gloryhole",
+            "media": "david",
+            "answer": "David rose - Schitts Creek"
+        },
+        {
+            "minigame": "gloryhole",
+            "media": "meangirls",
+            "answer": "Mean Girls"
+        },
+        {
+            "minigame": "gloryhole",
+            "media": "damian",
+            "answer": "Damian - Mean Girls"
+        },
+        {
+            "minigame": "gloryhole",
+            "media": "elektra",
+            "answer": "Elektra Evangelista - Pose"
+        },
+        {
+            "minigame": "gloryhole",
+            "media": "birdcage",
+            "answer": "The Birdcage"
+        },
+        {
+            "minigame": "gloryhole",
+            "media": "titus",
+            "answer": "Titus Andromedon - Kimmy Schmitt"
+        },
+        {
+            "minigame": "gloryhole",
+            "media": "jules",
+            "answer": "Jules - Euphoria"
+        },
+        {
+            "minigame": "gloryhole",
+            "media": "rocky",
+            "answer": "Dr. Frank N Furter - Rocky Horror"
+        },
+        {
+            "minigame": "gloryhole",
+            "media": "cheerleader",
+            "answer": "But, I'm a Cheerleader"
+        },
+        {
+            "minigame": "gloryhole",
+            "media": "claire",
+            "answer": "Claire Danes - Derry Girls"
+        },
+        {
+            "minigame": "gloryhole",
+            "media": "wg",
+            "answer": "Will & Grace"
+        },
+        {
+            "minigame": "gloryhole",
+            "media": "hacks",
+            "answer": "Deborah & Ava - Hacks"
+        },
+        {
+            "minigame": "gloryhole",
+            "media": "call",
+            "answer": "Call Me By Your Name"
+        },
+        {
+            "minigame": "gloryhole",
+            "media": "royal",
+            "answer": "Red White & Royal Blue"
+        },
+        {
+            "minigame": "gloryhole",
+            "media": "james",
+            "answer": "James - Goosebumps"
+        },
+        {
+            "minigame": "gloryhole",
+            "media": "isaac",
+            "answer": "Isaac Parker"
+        },
+        {
+            "minigame": "gloryhole",
+            "media": "mac",
+            "answer": "Mac - It's Always Sunny"
         },
         {
             "minigame": "mc",
@@ -1527,6 +1646,16 @@
             "minigame": "gloryhole",
             "media": "conf",
             "answer": "Confessions II - Album cover"
+        },
+        {
+            "minigame": "gloryhole",
+            "media": "kesha",
+            "answer": "Ke$ha"
+        },
+        {
+            "minigame": "gloryhole",
+            "media": "beyonce",
+            "answer": "Beyoncé"
         },
         {
             "minigame": "gloryhole",
