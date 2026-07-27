@@ -508,13 +508,13 @@
         }
         {
             "minigame": "image",
-            "media": "",
+            "media": "flags_1",
             "question": "What do these three flags stand for?",
             "answer": "Lesbian, Gay, Asexual"
         },
         {
             "minigame": "image",
-            "media": "",
+            "media": "flags_2",
             "question": "What do these three flags stand for?",
             "answer": "Trans, Bisexual, Pride"
         },
