@@ -301,6 +301,11 @@
             "media": "albert",
             "question": "What is the name of this piercing",
             "answer": "Prince Albert"
+        },
+        {
+            "minigame": "darkroom",
+            "media": "tattoo",
+            "answer": "Tattoos/Facial Hair/Birthmark"
         }
     ],
     "orange_questions": [
