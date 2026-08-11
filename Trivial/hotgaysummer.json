@@ -1039,6 +1039,31 @@
             ],
             "reason": "Songs by women",
             "answer": "Rush"
+        },
+        {
+            "minigame": "darkroom",
+            "media": "heartstopper",
+            "answer": "Background Colors"
+        },
+        {
+            "minigame": "darkroom",
+            "media": "love",
+            "answer": "Missing Taglines"
+        },
+        {
+            "minigame": "darkroom",
+            "media": "victor",
+            "answer": "Missing Pilar"
+        },
+        {
+            "minigame": "darkroom",
+            "media": "another",
+            "answer": "Michael Carbonara's Pose"
+        },
+        {
+            "minigame": "darkroom",
+            "media": "cheer",
+            "answer": "Cheerleaders flipped"
         }
     ],
     "blue_questions": [
