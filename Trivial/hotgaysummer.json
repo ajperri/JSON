@@ -487,6 +487,49 @@
             "minigame": "trivia",
             "question": "Unlike the lonely men who used to wear them out west, these protective leg coverings are _______.",
             "answer": "Assless"
+        },
+        {
+            "minigame": "darkroom",
+            "media": "undies",
+            "answer": "Missing Details"
+        },
+        {
+            "minigame": "image",
+            "media": "dukes",
+            "question": "The alliterative name for these tiny jean shorts",
+            "answer": "Daisy Dukes"
+        },
+        {
+            "minigame": "image",
+            "media": "outfits",
+            "question": "Which three music videos are these Iconic looks from",
+            "answer": "Toxic, Oops! I Did it Again, Hit Me Baby (One More Time)"
+        },
+        {
+            "minigame": "image",
+            "media": "gingham",
+            "question": "The name of the pattern on this sexy miniskirt",
+            "answer": "Gingham"
+        },
+        {
+            "minigame": "darkroom",
+            "media": "gromet",
+            "answer": "Missing Gromets"
+        },
+        {
+            "minigame": "darkroom",
+            "media": "strap",
+            "answer": "Missing Strap"
+        },
+        {
+            "minigame": "darkroom",
+            "media": "float",
+            "answer": "Color Shifted"
+        },
+        {
+            "minigame": "darkroom",
+            "media": "nipple",
+            "answer": "No Nipples"
         }
     ],
     "yellow_questions": [
@@ -1455,6 +1498,56 @@
             "option_c": "Heated Rivalry - Hockey",
             "option_d": "Love Victor - Basketball",
             "answer": "a"
+        },
+        {
+            "minigame": "darkroom",
+            "media": "athletes",
+            "answer": "Emblems Missing"
+        },
+        {
+            "minigame": "darkroom",
+            "media": "gus",
+            "answer": "Ski color"
+        },
+        {
+            "minigame": "darkroom",
+            "media": "adam",
+            "answer": "Makeup"
+        },
+        {
+            "minigame": "darkroom",
+            "media": "sam",
+            "answer": "Jersey Colors"
+        },
+        {
+            "minigame": "darkroom",
+            "media": "heated",
+            "answer": "Showers Missing"
+        },
+        {
+            "minigame": "darkroom",
+            "media": "kip",
+            "answer": "Undies gone"
+        },
+        {
+            "minigame": "darkroom",
+            "media": "mole",
+            "answer": "Missing Trademark Mole"
+        },
+        {
+            "minigame": "darkroom",
+            "media": "vegas",
+            "answer": "Missing Lamp & Plant"
+        },
+        {
+            "minigame": "darkroom",
+            "media": "dive",
+            "answer": "Background Color"
+        },
+        {
+            "minigame": "darkroom",
+            "media": "boxer",
+            "answer": "Color Swapped"
         }
     ],
     "pink_questions": [
