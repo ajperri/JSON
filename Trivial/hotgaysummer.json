@@ -305,102 +305,122 @@
         {
             "minigame": "darkroom",
             "media": "tattoo",
-            "answer": "Tattoos/Facial Hair/Birthmark"
+            "answer": "Tattoos/Facial Hair/Birthmark",
+            "nsfw": true
         },
         {
             "minigame": "darkroom",
             "media": "dicks",
-            "answer": "Jockstrap/Earring Colors"
+            "answer": "Jockstrap/Earring Colors",
+            "nsfw": true
         },
         {
             "minigame": "darkroom",
             "media": "bandana",
-            "answer": "Bandana Color"
+            "answer": "Bandana Color",
+            "nsfw": true
         },
         {
             "minigame": "darkroom",
             "media": "fist",
-            "answer": "Fisting Tattoo"
+            "answer": "Fisting Tattoo",
+            "nsfw": true
         },
         {
             "minigame": "darkroom",
             "media": "tan",
-            "answer": "Speedo Tan Lines"
+            "answer": "Speedo Tan Lines",
+            "nsfw": true
         },
         {
             "minigame": "darkroom",
             "media": "letter",
-            "answer": "T Shirt Letter"
+            "answer": "T Shirt Letter",
+            "nsfw": true
         },
         {
             "minigame": "darkroom",
             "media": "sunburn",
-            "answer": "Sunburn"
+            "answer": "Sunburn",
+            "nsfw": true
         },
         {
             "minigame": "darkroom",
             "media": "hair",
-            "answer": "Hair Color"
+            "answer": "Hair Color",
+            "nsfw": true
         },
         {
             "minigame": "darkroom",
             "media": "dick",
-            "answer": "Dick out/Covered"
+            "answer": "Dick out/Covered",
+            "nsfw": true
         },
         {
             "minigame": "darkroom",
             "media": "equip",
-            "answer": "Exercise Equipment"
+            "answer": "Exercise Equipment",
+            "nsfw": true
         },
         {
             "minigame": "darkroom",
             "media": "bodyhair",
-            "answer": "Leg Hair on the Top"
+            "answer": "Leg Hair on the Top",
+            "nsfw": true
         },
         {
             "minigame": "darkroom",
             "media": "jewels",
-            "answer": "Jewelry/Eye Color"
+            "answer": "Jewelry/Eye Color",
+            "nsfw": true
         },
         {
             "minigame": "darkroom",
             "media": "feet",
-            "answer": "Dirty Feet"
+            "answer": "Dirty Feet",
+            "nsfw": true
         },
         {
             "minigame": "darkroom",
             "media": "bed",
-            "answer": "Bedding Color"
+            "answer": "Bedding Color",
+            "nsfw": true
         },
         {
             "minigame": "darkroom",
             "media": "emo",
-            "answer": "Hair Color"
+            "answer": "Hair Color",
+            "nsfw": true
         },
         {
             "minigame": "darkroom",
             "media": "dickless",
-            "answer": "No Dicks"
+            "answer": "No Dicks",
+            "nsfw": true
         },
         {
             "minigame": "darkroom",
             "media": "ami",
-            "answer": "Missing Couple"
+            "answer": "Missing Couple",
+            "nsfw": true
         },
         {
             "minigame": "darkroom",
             "media": "bottle",
-            "answer": "Spin The Bottle"
+            "answer": "Spin The Bottle",
+            "nsfw": true
         },
         {
             "minigame": "darkroom",
             "media": "hole",
-            "answer": "Missing Butthole"
+            "answer": "Missing Butthole",
+            "nsfw": true
         },
         {
             "minigame": "darkroom",
             "media": "umbrella",
-            "answer": "Umbrella/Towel Colors"
+            "answer": "Umbrella/Towel Colors",
+            "nsfw": true
         }
     ],
     "orange_questions": [
@@ -491,7 +511,8 @@
         {
             "minigame": "darkroom",
             "media": "undies",
-            "answer": "Missing Details"
+            "answer": "Missing Details",
+            "nsfw": true
         },
         {
             "minigame": "image",
@@ -1522,7 +1543,8 @@
         {
             "minigame": "darkroom",
             "media": "heated",
-            "answer": "Showers Missing"
+            "answer": "Showers Missing",
+            "nsfw": true
         },
         {
             "minigame": "darkroom",
@@ -1532,12 +1554,14 @@
         {
             "minigame": "darkroom",
             "media": "mole",
-            "answer": "Missing Trademark Mole"
+            "answer": "Missing Trademark Mole",
+            "nsfw": true
         },
         {
             "minigame": "darkroom",
             "media": "vegas",
-            "answer": "Missing Lamp & Plant"
+            "answer": "Missing Lamp & Plant",
+            "nsfw": true
         },
         {
             "minigame": "darkroom",
