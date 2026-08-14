@@ -1886,6 +1886,156 @@
             "minigame": "cupcake",
             "media": "girlfriend",
             "answer": "Girlfriend - Avril Lavigne"
+        },
+        {
+            "minigame": "cupcake",
+            "media": "cure",
+            "answer": "The Cure - Olivia Rodrigo"
+        },
+        {
+            "minigame": "cupcake",
+            "media": "popular",
+            "answer": "Popular - Wicked"
+        },
+        {
+            "minigame": "cupcake",
+            "media": "espresso",
+            "answer": "Espresso - Sabrina Carpenter"
+        },
+        {
+            "minigame": "cupcake",
+            "media": "cantbefriends",
+            "answer": "We Can't Be Friends - Ariana Grande"
+        },
+        {
+            "minigame": "cupcake",
+            "media": "rainingmen",
+            "answer": "It's Raining Men - The Weather Girls"
+        },
+        {
+            "minigame": "cupcake",
+            "media": "alejandro",
+            "answer": "Alejandro - Lady Gaga"
+        },
+        {
+            "minigame": "cupcake",
+            "media": "cupcake",
+            "answer": "The Monster - Rihanna"
+        },
+        {
+            "minigame": "cupcake",
+            "media": "taste",
+            "answer": "Taste - Sabrina Carpenter"
+        },
+        {
+            "minigame": "cupcake",
+            "media": "justdance",
+            "answer": "Just Dance - Lady Gaga"
+        },
+        {
+            "minigame": "cupcake",
+            "media": "manchild",
+            "answer": "Manchild - Sabrina Carpenter"
+        },
+        {
+            "minigame": "cupcake",
+            "media": "girlconfusing",
+            "answer": "Girl, So Confusing - Charli XCX & Lorde"
+        },
+        {
+            "minigame": "cupcake",
+            "media": "snm",
+            "answer": "S&M - Rihanna"
+        },
+        {
+            "minigame": "cupcake",
+            "media": "stateside",
+            "answer": "Stateside - Pink Pantheress & Zara Larsson"
+        },
+        {
+            "minigame": "cupcake",
+            "media": "iwannago",
+            "answer": "I Wanna Go - Britney Spears"
+        },
+        {
+            "minigame": "cupcake",
+            "media": "blankspace",
+            "answer": "Blank Space - Taylor Swift"
+        },
+        {
+            "minigame": "cupcake",
+            "media": "christmas",
+            "answer": "All I Want For Christmas - Mariah Carey"
+        },
+        {
+            "minigame": "cupcake",
+            "media": "onthefloor",
+            "answer": "On The Floor - Jennifer Lopez & Pitbull"
+        },
+        {
+            "minigame": "cupcake",
+            "media": "sweetpsycho",
+            "answer": "Sweet But A Psycho - Ava Max"
+        },
+        {
+            "minigame": "cupcake",
+            "media": "rainonme",
+            "answer": "Rain On Me - Lady Gaga & Ariana Grande"
+        },
+        {
+            "minigame": "cupcake",
+            "media": "shewolf",
+            "answer": "She Wolf - Shakira"
+        },
+        {
+            "minigame": "cupcake",
+            "media": "diamonds",
+            "answer": "Diamonds - Rihanna"
+        },
+        {
+            "minigame": "cupcake",
+            "media": "toxic",
+            "answer": "Toxic - Britney Spears"
+        },
+        {
+            "minigame": "cupcake",
+            "media": "goodluckbabe",
+            "answer": "Good Luck Babe - Chappell Roan"
+        },
+        {
+            "minigame": "cupcake",
+            "media": "pokerface",
+            "answer": "Poker Face - Lady Gaga"
+        },
+        {
+            "minigame": "cupcake",
+            "media": "dieyoung",
+            "answer": "Die Young - Kesha"
+        },
+        {
+            "minigame": "cupcake",
+            "media": "blow",
+            "answer": "Blow - Kesha"
+        },
+        {
+            "minigame": "cupcake",
+            "media": "golden",
+            "answer": "Golden - Huntrix"
+        },
+        {
+            "minigame": "cupcake",
+            "media": "timber",
+            "answer": "Timber - Pitbull & Kesha"
+        },
+        {
+            "minigame": "cupcake",
+            "media": "firework",
+            "answer": "Firework - Katy Perry"
+        },
+        {
+            "minigame": "cupcake",
+            "media": "cruelsummer",
+            "answer": "Cruel Summer - Taylor Swift"
         }
     ]
 }
