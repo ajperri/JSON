@@ -457,6 +457,12 @@
             "answer": "Cerulean"
         },
         {
+            "minigame": "image",
+            "media": "frenchtuck",
+            "question": "What is this style of wearing your shirt called?",
+            "answer": "French Tuck"
+        },
+        {
             "minigame": "loads",
             "hint": "coverage",
             "options": [
