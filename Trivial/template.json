@@ -30,6 +30,28 @@
             "minigame": "trivia",
             "question": "",
             "answer": ""
+        },
+        {
+            "minigame": "up",
+            "question": "",
+            "options": [
+                {
+                    "text": "",
+                    "up": true
+                },
+                {
+                    "text": "",
+                    "up": true
+                },
+                {
+                    "text": "",
+                    "up": true
+                },
+                {
+                    "text": "",
+                    "up": true
+                }
+            ]
         }
     ],
     "orange_questions": [

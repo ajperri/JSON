@@ -421,6 +421,28 @@
             "media": "umbrella",
             "answer": "Umbrella/Towel Colors",
             "nsfw": true
+        },
+        {
+            "minigame": "up",
+            "question": "Actually Gay Gay Porn Stars",
+            "options": [
+                {
+                    "text": "Joey Mills",
+                    "up": true
+                },
+                {
+                    "text": "Malik Delgady",
+                    "up": false
+                },
+                {
+                    "text": "Johnny Rapid",
+                    "up": true
+                },
+                {
+                    "text": "Dolph Lambert",
+                    "up": false
+                }
+            ]
         }
     ],
     "orange_questions": [
@@ -551,6 +573,28 @@
             "minigame": "darkroom",
             "media": "nipple",
             "answer": "No Nipples"
+        },
+        {
+            "minigame": "up",
+            "question": "Gay Fashion Designers",
+            "options": [
+                {
+                    "text": "Yves Saint Laurent",
+                    "up": true
+                },
+                {
+                    "text": "Ralph Lauren",
+                    "up": false
+                },
+                {
+                    "text": "Christian Dior",
+                    "up": true
+                },
+                {
+                    "text": "Cristóbal Balenciaga",
+                    "up": false
+                }
+            ]
         }
     ],
     "yellow_questions": [
@@ -618,6 +662,54 @@
             "option_c": "1965",
             "option_d": "1966",
             "answer": "c"
+        },
+        {
+            "minigame": "up",
+            "question": "Homosexually Acceptive Societies",
+            "options": [
+                {
+                    "text": "The Greeks",
+                    "up": true
+                },
+                {
+                    "text": "The Romans",
+                    "up": true
+                },
+                {
+                    "text": "The Vikings",
+                    "up": false
+                },
+                {
+                    "text": "The Sodomites",
+                    "up": true
+                }
+            ]
+        },
+        {
+            "minigame": "up",
+            "question": "Top 5 Gayest US States",
+            "options": [
+                {
+                    "text": "Washington DC",
+                    "up": true
+                },
+                {
+                    "text": "Vermont",
+                    "up": true
+                },
+                {
+                    "text": "California",
+                    "up": false
+                },
+                {
+                    "text": "Utah",
+                    "up": false
+                },
+                {
+                    "text": "New York",
+                    "up": false
+                }
+            ]
         },
         {
             "minigame": "mc",
@@ -1128,6 +1220,89 @@
             "minigame": "darkroom",
             "media": "cheer",
             "answer": "Cheerleaders flipped"
+        },
+        {
+            "minigame": "up",
+            "question": "Confirmed Bottom Celebrities",
+            "options": [
+                {
+                    "text": "Lil Nas X",
+                    "up": true
+                },
+                {
+                    "text": "Troye Sivan",
+                    "up": false
+                },
+                {
+                    "text": "Andy Cohen",
+                    "up": false
+                },
+                {
+                    "text": "Bowen Yang",
+                    "up": true
+                }
+            ],
+            "answer": ""
+        },
+        {
+            "minigame": "up",
+            "question": "LGBT Glee Characters",
+            "options": [
+                {
+                    "text": "Sue Sylvester",
+                    "up": false
+                },
+                {
+                    "text": "Kurt Hummel",
+                    "up": true
+                },
+                {
+                    "text": "Rachel Berry",
+                    "up": false
+                },
+                {
+                    "text": "Santana Lopez",
+                    "up": true
+                },
+                {
+                    "text": "Blaine Anderson",
+                    "up": true
+                },
+                {
+                    "text": "Britney Pierce",
+                    "up": true
+                }
+            ]
+        },
+        {
+            "minigame": "up",
+            "question": "LGBT Glee Actors",
+            "options": [
+                {
+                    "text": "Jane Lynch",
+                    "up": true
+                },
+                {
+                    "text": "Chris Colfer",
+                    "up": true
+                },
+                {
+                    "text": "Lea Michele",
+                    "up": false
+                },
+                {
+                    "text": "Naya Rivera",
+                    "up": false
+                },
+                {
+                    "text": "Darren Criss",
+                    "up": false
+                },
+                {
+                    "text": "Heather Morris",
+                    "up": false
+                }
+            ]
         }
     ],
     "blue_questions": [
@@ -1572,6 +1747,54 @@
             "minigame": "darkroom",
             "media": "boxer",
             "answer": "Color Swapped"
+        },
+        {
+            "minigame": "up",
+            "question": "Supporting Characters in Heated Rivalry",
+            "options": [
+                {
+                    "text": "Rose Landry",
+                    "up": true
+                },
+                {
+                    "text": "Svetlana Petrova",
+                    "up": false
+                },
+                {
+                    "text": "David Hollander",
+                    "up": true
+                }
+            ]
+        },
+        {
+            "minigame": "up",
+            "question": "Violations in Volleyball",
+            "options": [
+                {
+                    "text": "Lift",
+                    "up": true
+                },
+                {
+                    "text": "Four Hits",
+                    "up": true
+                },
+                {
+                    "text": "Underhanded Serve",
+                    "up": false
+                },
+                {
+                    "text": "Assisted Hit",
+                    "up": true
+                },
+                {
+                    "text": "Back-Row Attack",
+                    "up": true
+                },
+                {
+                    "text": "Setting the Serve",
+                    "up": false
+                }
+            ]
         }
     ],
     "pink_questions": [
@@ -2036,6 +2259,442 @@
             "minigame": "cupcake",
             "media": "cruelsummer",
             "answer": "Cruel Summer - Taylor Swift"
+        },
+        {
+            "minigame": "up",
+            "question": "Sabrina Carpenter Singles",
+            "options": [
+                {
+                    "text": "Tears",
+                    "up": true
+                },
+                {
+                    "text": "Manchild",
+                    "up": true
+                },
+                {
+                    "text": "Nonsense",
+                    "up": true
+                },
+                {
+                    "text": "Taste",
+                    "up": true
+                },
+                {
+                    "text": "Apple",
+                    "up": false
+                },
+                {
+                    "text": "Espresso",
+                    "up": true
+                }
+            ]
+        },
+        {
+            "minigame": "up",
+            "question": "Isaac Parker Songs",
+            "options": [
+                {
+                    "text": "Cool Off",
+                    "up": true
+                },
+                {
+                    "text": "Dejavu",
+                    "up": true
+                },
+                {
+                    "text": "Hunt",
+                    "up": true
+                },
+                {
+                    "text": "Without You",
+                    "up": true
+                },
+                {
+                    "text": "Interstate Outlaws",
+                    "up": false
+                },
+                {
+                    "text": "Bull$#!+",
+                    "up": true
+                },
+                {
+                    "text": "Americana",
+                    "up": true
+                },
+                {
+                    "text": "Jake",
+                    "up": true
+                }
+            ]
+        },
+        {
+            "minigame": "up",
+            "question": "Songs that released in 2012",
+            "options": [
+                {
+                    "text": "Call Me Maybe",
+                    "up": true
+                },
+                {
+                    "text": "I Kissed A Girl",
+                    "up": false
+                },
+                {
+                    "text": "Die Young",
+                    "up": true
+                },
+                {
+                    "text": "Domino",
+                    "up": true
+                }
+            ]
+        },
+        {
+            "minigame": "up",
+            "question": "Britney Spears songs with Talking portions",
+            "options": [
+                {
+                    "text": "Lucky",
+                    "up": true
+                },
+                {
+                    "text": "If U Seek Amy",
+                    "up": false
+                },
+                {
+                    "text": "Oops! I Did It Again",
+                    "up": true
+                }
+            ]
+        },
+        {
+            "minigame": "up",
+            "question": "Britney Spears songs from Femme Fatale",
+            "options": [
+                {
+                    "text": "I Wanna Go",
+                    "up": true
+                },
+                {
+                    "text": "Hold it Against Me",
+                    "up": true
+                },
+                {
+                    "text": "Til The World Ends",
+                    "up": true
+                },
+                {
+                    "text": "Baby One More Time",
+                    "up": true
+                },
+                {
+                    "text": "Toxic",
+                    "up": false
+                },
+                {
+                    "text": "Stronger",
+                    "up": true
+                }
+            ]
+        },
+        {
+            "minigame": "up",
+            "question": "Singles from Born This Way",
+            "options": [
+                {
+                    "text": "Born This Way",
+                    "up": true
+                },
+                {
+                    "text": "Judas",
+                    "up": true
+                },
+                {
+                    "text": "The Edge of Glory",
+                    "up": true
+                },
+                {
+                    "text": "You and I",
+                    "up": true
+                },
+                {
+                    "text": "Marry the Night",
+                    "up": true
+                }
+            ]
+        },
+        {
+            "minigame": "up",
+            "question": "Artists Shakira duetted with",
+            "options": [
+                {
+                    "text": "Rihanna",
+                    "up": true
+                },
+                {
+                    "text": "Beyonce",
+                    "up": true
+                },
+                {
+                    "text": "Wyclef Jean",
+                    "up": true
+                },
+                {
+                    "text": "Maluma",
+                    "up": true
+                },
+                {
+                    "text": "Bad Bunny",
+                    "up": false
+                }
+            ]
+        },
+        {
+            "minigame": "up",
+            "question": "Pop Girlies Original Christmas Songs",
+            "options": [
+                {
+                    "text": "All I Want For Christmas",
+                    "up": true
+                },
+                {
+                    "text": "A Nonsense Christmas",
+                    "up": true
+                },
+                {
+                    "text": "My Only Wish (This Year)",
+                    "up": true
+                },
+                {
+                    "text": "Christmas Without You",
+                    "up": true
+                },
+                {
+                    "text": "Mistletoe",
+                    "up": false
+                }
+            ]
+        },
+        {
+            "minigame": "up",
+            "question": "Brat Songs",
+            "options": [
+                {
+                    "text": "Boys",
+                    "up": false
+                },
+                {
+                    "text": "Girl So Confusing",
+                    "up": true
+                },
+                {
+                    "text": "Von Dutch",
+                    "up": true
+                },
+                {
+                    "text": "Club Classics",
+                    "up": true
+                },
+                {
+                    "text": "360",
+                    "up": true
+                },
+                {
+                    "text": "361",
+                    "up": false
+                },
+                {
+                    "text": "362",
+                    "up": false
+                },
+                {
+                    "text": "363",
+                    "up": false
+                },
+                {
+                    "text": "364",
+                    "up": false
+                },
+                {
+                    "text": "365",
+                    "up": true
+                }
+            ]
+        },
+        {
+            "minigame": "up",
+            "question": "Beyonce Albums",
+            "options": [
+                {
+                    "text": "Crazy In Love",
+                    "up": false
+                },
+                {
+                    "text": "Bey Day",
+                    "up": false
+                },
+                {
+                    "text": "I Am... Beyonce",
+                    "up": false
+                },
+                {
+                    "text": "3",
+                    "up": false
+                },
+                {
+                    "text": "Limeade",
+                    "up": false
+                },
+                {
+                    "text": "Middle Ages",
+                    "up": false
+                },
+                {
+                    "text": "Cowgirl Carter",
+                    "up": false
+                }
+            ]
+        },
+        {
+            "minigame": "up",
+            "question": "Artists with a Lemonade titled song (variations included)",
+            "options": [
+                {
+                    "text": "Beyonce",
+                    "up": true
+                },
+                {
+                    "text": "Isaac Parker",
+                    "up": false
+                },
+                {
+                    "text": "Red Velvet",
+                    "up": true
+                },
+                {
+                    "text": "Aespa",
+                    "up": true
+                },
+                {
+                    "text": "Katseye",
+                    "up": false
+                }
+            ]
+        },
+        {
+            "minigame": "up",
+            "question": "Artists with Ice Cream songs",
+            "options": [
+                {
+                    "text": "Blackpink",
+                    "up": true
+                },
+                {
+                    "text": "Katy Perry",
+                    "up": false
+                },
+                {
+                    "text": "Selena Gomez",
+                    "up": true
+                },
+                {
+                    "text": "Red Velvet",
+                    "up": true
+                },
+                {
+                    "text": "MIKA",
+                    "up": false
+                }
+            ]
+        },
+        {
+            "minigame": "up",
+            "question": "Artists who've released remixes featuring Ariana Grande",
+            "options": [
+                {
+                    "text": "Lady Gaga",
+                    "up": true
+                },
+                {
+                    "text": "Justin Bieber",
+                    "up": false
+                },
+                {
+                    "text": "Sean Mendes",
+                    "up": false
+                },
+                {
+                    "text": "The Weeknd",
+                    "up": true
+                },
+                {
+                    "text": "Lizzo",
+                    "up": true
+                }
+            ]
+        },
+        {
+            "minigame": "up",
+            "question": "Album covers that are mostly red",
+            "options": [
+                {
+                    "text": "ANTI - Rihanna",
+                    "up": true
+                },
+                {
+                    "text": "Red - Taylor",
+                    "up": false
+                },
+                {
+                    "text": "Love Sux - Avril",
+                    "up": true
+                }
+            ]
+        },
+        {
+            "minigame": "up",
+            "question": "Album covers that are mostly pink",
+            "options": [
+                {
+                    "text": "Positions - Ariana",
+                    "up": false
+                },
+                {
+                    "text": "Teenage Dream - Katy",
+                    "up": true
+                },
+                {
+                    "text": "Hot Pink - Doja",
+                    "up": true
+                }
+            ]
+        },
+        {
+            "minigame": "up",
+            "question": "Non Homophobic Country Singers",
+            "options": [
+                {
+                    "text": "Miranda Lambert",
+                    "up": true
+                },
+                {
+                    "text": "Kacey Musgraves",
+                    "up": true
+                },
+                {
+                    "text": "Maren Morris",
+                    "up": true
+                },
+                {
+                    "text": "Reba McEntire",
+                    "up": true
+                },
+                {
+                    "text": "Jennifer Nettles",
+                    "up": true
+                }
+            ]
         }
     ]
 }
