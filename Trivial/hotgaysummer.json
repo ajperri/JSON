@@ -598,7 +598,7 @@
                 },
                 {
                     "text": "Cristóbal Balenciaga",
-                    "up": false
+                    "up": true
                 }
             ]
         }
@@ -743,8 +743,8 @@
         },
         {
             "minigame": "trivia",
-            "question": "What neighborhood is the historic stonewall in?",
-            "answer": "Grenwich Village"
+            "question": "What neighborhood is the historic stonewall inn in?",
+            "answer": "Greenwich Village"
         },
         {
             "minigame": "trivia",
@@ -1319,7 +1319,7 @@
         },
         {
             "minigame": "trivia",
-            "question": "Thie gay olympic diver loves to knit",
+            "question": "This gay olympic diver loves to knit",
             "answer": "Tom Daley"
         },
         {
