@@ -297,12 +297,6 @@
         },
         {
             "minigame": "image",
-            "media": "helix",
-            "question": "Which gay porn studio uses this font for their logo?",
-            "answer": "Helix Studios"
-        },
-        {
-            "minigame": "image",
             "media": "albert",
             "question": "What is the name of this piercing",
             "answer": "Prince Albert"
@@ -926,6 +920,234 @@
                     "up": true
                 }
             ]
+        },
+        {
+            "minigame": "image",
+            "media": "fishnets",
+            "question": "What type of mesh is this?",
+            "answer": "Fish nets"
+        },
+        {
+            "minigame": "image",
+            "media": "rivets",
+            "question": "What are the solid metal fasteners called?",
+            "answer": "Rivets"
+        },
+        {
+            "minigame": "image",
+            "media": "guyliner",
+            "question": "What is this makeup trend called?",
+            "answer": "GuyLiner"
+        },
+        {
+            "minigame": "image",
+            "media": "stud",
+            "question": "What kind of earring is this?",
+            "answer": "Diamond Stud"
+        },
+        {
+            "minigame": "image",
+            "media": "helix",
+            "question": "What is this piercing named?",
+            "answer": "Helix Piercing"
+        },
+        {
+            "minigame": "image",
+            "media": "conch",
+            "question": "What is this piercing named?",
+            "answer": "Conch Piercing"
+        },
+        {
+            "minigame": "image",
+            "media": "brushes",
+            "question": "Which brush is used for Eye Shadow?",
+            "answer": "3"
+        },
+        {
+            "minigame": "image",
+            "media": "brushes",
+            "question": "Which brush is used for Foundation?",
+            "answer": "5"
+        },
+        {
+            "minigame": "image",
+            "media": "brushes",
+            "question": "What is brush 2 used for?",
+            "answer": "Eye Liner"
+        },
+        {
+            "minigame": "image",
+            "media": "brushes",
+            "question": "What is brush 6 used for?",
+            "answer": "Setting Powder"
+        },
+        {
+            "minigame": "image",
+            "media": "brushes2",
+            "question": "Which brush is used for Blush?",
+            "answer": "1"
+        },
+        {
+            "minigame": "image",
+            "media": "brushes2",
+            "question": "Which brush is used for Concealer?",
+            "answer": "2"
+        },
+        {
+            "minigame": "image",
+            "media": "brushes2",
+            "question": "Which brush is used for Contour?",
+            "answer": "3"
+        },
+        {
+            "minigame": "image",
+            "media": "leaf",
+            "question": "What is this haircut's name?",
+            "answer": "Leaf Cut"
+        },
+        {
+            "minigame": "image",
+            "media": "fauxhawk",
+            "question": "What is this haircut's name?",
+            "answer": "Faux Hawk"
+        },
+        {
+            "minigame": "image",
+            "media": "combover",
+            "question": "What is this haircut's name?",
+            "answer": "Comb Over"
+        },
+        {
+            "minigame": "image",
+            "media": "buzzcut",
+            "question": "What is this Crisis haircut's name?",
+            "answer": "Buzz Cut"
+        },
+        {
+            "minigame": "image",
+            "media": "flattop",
+            "question": "What is this haircut's name?",
+            "answer": "Flat Top"
+        },
+        {
+            "minigame": "image",
+            "media": "bikini",
+            "question": "What is this underwear style called?",
+            "answer": "Bikini"
+        },
+        {
+            "minigame": "image",
+            "media": "briefs",
+            "question": "What is this underwear style called?",
+            "answer": "Briefs"
+        },
+        {
+            "minigame": "image",
+            "media": "trunks",
+            "question": "What is this underwear style called?",
+            "answer": "Trunks"
+        },
+        {
+            "minigame": "image",
+            "media": "thong",
+            "question": "What is this underwear style called?",
+            "answer": "Thong"
+        },
+        {
+            "minigame": "image",
+            "media": "boxers",
+            "question": "What is this underwear style called?",
+            "answer": "Boxers"
+        },
+        {
+            "minigame": "image",
+            "media": "cufflinks",
+            "question": "What is this sleeve jewelery called?",
+            "answer": "Cufflinks"
+        },
+        {
+            "minigame": "image",
+            "media": "aviators",
+            "question": "What is this style of Sunglasses called?",
+            "answer": "Aviators"
+        },
+        {
+            "minigame": "image",
+            "media": "halter",
+            "question": "What is this style of shirt called?",
+            "answer": "Halter Top"
+        },
+        {
+            "minigame": "image",
+            "media": "dieselbag",
+            "question": "Which luxury brand is this bag from?",
+            "answer": "Diesel"
+        },
+        {
+            "minigame": "image",
+            "media": "guccibag",
+            "question": "Which luxury brand is this bag from?",
+            "answer": "Gucci"
+        },
+        {
+            "minigame": "image",
+            "media": "lvbag",
+            "question": "Which luxury brand is this bag from?",
+            "answer": "Louis Vouitton"
+        },
+        {
+            "minigame": "trivia",
+            "question": "Which luxury brand has an art installation in Marfa Texas named after them",
+            "answer": "Prada"
+        },
+        {
+            "minigame": "trivia",
+            "question": "Who designed Cher's gowns for the Sonny & Cher show?",
+            "answer": "Bob Mackie"
+        },
+        {
+            "minigame": "image",
+            "media": "dress",
+            "question": "What color is this dress?",
+            "answer": "Blue and Black"
+        },
+        {
+            "minigame": "image",
+            "media": "miniskirt",
+            "question": "What style of bottoms are they wearing?",
+            "answer": "Mini Skirts"
+        },
+        {
+            "minigame": "image",
+            "media": "docs",
+            "question": "What brand are his boots?",
+            "answer": "Doc Martens"
+        },
+        {
+            "minigame": "up",
+            "question": "Shoes with a skinny heel",
+            "options": [
+                {
+                    "text": "Pumps",
+                    "up": true
+                },
+                {
+                    "text": "Wedges",
+                    "up": false
+                },
+                {
+                    "text": "Flats",
+                    "up": false
+                },
+                {
+                    "text": "Stilettos",
+                    "up": true
+                },
+                {
+                    "text": "Gogo Boots",
+                    "up": false
+                }
+            ]
         }
     ],
     "yellow_questions": [
@@ -1112,6 +1334,48 @@
             "minigame": "trivia",
             "question": "Which documentary depicted NYC Drag in the height of the Aids Crisis?",
             "answer": "Paris is Burning"
+        },
+        {
+            "minigame": "image",
+            "media": "hadrian",
+            "question": "Which ancient gay Roman emporer is this?",
+            "answer": "Hadrian"
+        },
+        {
+            "minigame": "image",
+            "media": "am",
+            "question": "Which city is this gay rights memorial in?",
+            "answer": "Amsterdam"
+        },
+        {
+            "minigame": "image",
+            "media": "ams",
+            "question": "Where was world pride 2026 held?",
+            "answer": "Amsterdam"
+        },
+        {
+            "minigame": "image",
+            "media": "whitehouse",
+            "question": "Which president first lit the whitehouse up in pride colors?",
+            "answer": "Obama"
+        },
+        {
+            "minigame": "image",
+            "media": "marsha",
+            "question": "Who is she and what did she do?",
+            "answer": "Marsha P Johnson"
+        },
+        {
+            "minigame": "image",
+            "media": "sylvia",
+            "question": "Who is she and what did she do?",
+            "answer": "Sylvia Rivera"
+        },
+        {
+            "minigame": "image",
+            "media": "harvey",
+            "question": "Who is he and what did he do?",
+            "answer": "Harvey Milk"
         }
     ],
     "green_questions": [
@@ -1634,6 +1898,84 @@
                     "up": false
                 }
             ]
+        },
+        {
+            "minigame": "image",
+            "media": "royals",
+            "question": "What TV show is this?",
+            "answer": "Young Royals"
+        },
+        {
+            "minigame": "image",
+            "media": "pose",
+            "question": "What TV show is this?",
+            "answer": "Pose"
+        },
+        {
+            "minigame": "image",
+            "media": "gleekiss",
+            "question": "What TV show is this? And Who's Kissing?",
+            "answer": "Glee"
+        },
+        {
+            "minigame": "image",
+            "media": "wg",
+            "question": "What TV show is this?",
+            "answer": "Will & Grace (Reboot)"
+        },
+        {
+            "minigame": "image",
+            "media": "englishteacher",
+            "question": "What TV show is this?",
+            "answer": "English Teacher"
+        },
+        {
+            "minigame": "image",
+            "media": "sexed",
+            "question": "What TV show is this?",
+            "answer": "Sex Education"
+        },
+        {
+            "minigame": "image",
+            "media": "sexlives",
+            "question": "What TV show is this?",
+            "answer": "Sex Lives of College Girls"
+        },
+        {
+            "minigame": "image",
+            "media": "adults",
+            "question": "What TV show is this?",
+            "answer": "Adults"
+        },
+        {
+            "minigame": "image",
+            "media": "derry",
+            "question": "What TV show is this?",
+            "answer": "Derry Girls"
+        },
+        {
+            "minigame": "image",
+            "media": "overcompensating",
+            "question": "What TV show is this?",
+            "answer": "Overcompensating"
+        },
+        {
+            "minigame": "image",
+            "media": "screamqueens",
+            "question": "What TV show is this?",
+            "answer": "Scream Queens"
+        },
+        {
+            "minigame": "image",
+            "media": "lovevictor",
+            "question": "What TV show is this?",
+            "answer": "Love Victor"
+        },
+        {
+            "minigame": "image",
+            "media": "qforce",
+            "question": "What TV show is this?",
+            "answer": "Q-Force"
         }
     ],
     "blue_questions": [
@@ -2078,6 +2420,18 @@
             "minigame": "darkroom",
             "media": "boxer",
             "answer": "Color Swapped"
+        },
+        {
+            "minigame": "image",
+            "media": "scrum",
+            "question": "What is this part of a rugby match called?",
+            "answer": "Scrum"
+        },
+        {
+            "minigame": "image",
+            "media": "sack",
+            "question": "What is tackling the quarterback behind the line called?",
+            "answer": "Sack"
         },
         {
             "minigame": "up",
