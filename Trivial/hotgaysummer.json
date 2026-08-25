@@ -79,6 +79,11 @@
         },
         {
             "minigame": "trivia",
+            "question": "Having two games in a row is also the name of sucking two dicks at once",
+            "answer": "Double Header"
+        },
+        {
+            "minigame": "trivia",
             "question": "This position is named after short people, and is doggy where the bottom lays down",
             "answer": "Jockey"
         },
@@ -334,6 +339,12 @@
         },
         {
             "minigame": "darkroom",
+            "media": "gauntlet",
+            "answer": "Missing Chest Tattoo",
+            "nsfw": true
+        },
+        {
+            "minigame": "darkroom",
             "media": "letter",
             "answer": "T Shirt Letter",
             "nsfw": true
@@ -443,6 +454,320 @@
                     "up": false
                 }
             ]
+        },
+        {
+            "minigame": "image",
+            "media": "docking",
+            "question": "What sex act are they performing?",
+            "answer": "Docking",
+            "nsfw": true
+        },
+        {
+            "minigame": "image",
+            "media": "basset",
+            "question": "Which floppy eared dog is the name for this position?",
+            "answer": "Bassett Hound",
+            "nsfw": true
+        },
+        {
+            "minigame": "image",
+            "media": "bully",
+            "question": "What sex position is this?",
+            "answer": "Bully",
+            "nsfw": true
+        },
+        {
+            "minigame": "up",
+            "question": "Sex Position with the bottom riding",
+            "options": [
+                {
+                    "text": "Bent Spoons",
+                    "up": true
+                },
+                {
+                    "text": "Cowboy",
+                    "up": true
+                },
+                {
+                    "text": "Bumper Cars",
+                    "up": false
+                },
+                {
+                    "text": "Crab",
+                    "up": true
+                },
+                {
+                    "text": "Fire Hydrant",
+                    "up": false
+                },
+                {
+                    "text": "Reverse Cowboy ",
+                    "up": true
+                }
+            ]
+        },
+        {
+            "minigame": "image",
+            "media": "butterfly",
+            "question": "What sex position is this?",
+            "answer": "Butterfly",
+            "nsfw": true
+        },
+        {
+            "minigame": "image",
+            "media": "hydrant",
+            "question": "What sex position is this?",
+            "answer": "Fire Hydrant",
+            "nsfw": true
+        },
+        {
+            "minigame": "image",
+            "media": "pile",
+            "question": "What sex position is this?",
+            "answer": "Pile Driver",
+            "nsfw": true
+        },
+        {
+            "minigame": "image",
+            "media": "congress",
+            "question": "What sex position is this?",
+            "answer": "Suspended Congress",
+            "nsfw": true
+        },
+        {
+            "minigame": "image",
+            "media": "seesaw",
+            "question": "What sex position is this?",
+            "answer": "Seesaw",
+            "nsfw": true
+        },
+        {
+            "minigame": "image",
+            "media": "lotus",
+            "question": "What sex position is this?",
+            "answer": "Lotus",
+            "nsfw": true
+        },
+        {
+            "minigame": "image",
+            "media": "bodyguard",
+            "question": "What sex position is this?",
+            "answer": "Bodyguard",
+            "nsfw": true
+        },
+        {
+            "minigame": "image",
+            "media": "afternoon",
+            "question": "What sex position is this?",
+            "answer": "Afternoon Delight",
+            "nsfw": true
+        },
+        {
+            "minigame": "image",
+            "media": "rimtrain",
+            "question": "What sex act are they performing?",
+            "answer": "Rim Train",
+            "nsfw": true
+        },
+        {
+            "minigame": "image",
+            "media": "trifecta",
+            "question": "What sex act are they performing?",
+            "answer": "Trifecta",
+            "nsfw": true
+        },
+        {
+            "minigame": "image",
+            "media": "dp",
+            "question": "What sex act are they performing?",
+            "answer": "Double Penetration",
+            "nsfw": true
+        },
+        {
+            "minigame": "image",
+            "media": "oraltrain",
+            "question": "What sex act are they performing?",
+            "answer": "Oral Train",
+            "nsfw": true
+        },
+        {
+            "minigame": "image",
+            "media": "spitroast",
+            "question": "What sex act are they performing?",
+            "answer": "Spitroast",
+            "nsfw": true
+        },
+        {
+            "minigame": "image",
+            "media": "triple",
+            "question": "What sex act are they performing?",
+            "answer": "Triple Penetration",
+            "nsfw": true
+        },
+        {
+            "minigame": "image",
+            "media": "tripleheader",
+            "question": "What sex act are they performing?",
+            "answer": "Triple Header",
+            "nsfw": true
+        },
+        {
+            "minigame": "up",
+            "question": "Sex Positions with Reverse Variations",
+            "options": [
+                {
+                    "text": "Cowboy",
+                    "up": true
+                },
+                {
+                    "text": "Warrior",
+                    "up": true
+                },
+                {
+                    "text": "Bodyguard",
+                    "up": false
+                },
+                {
+                    "text": "Lotus",
+                    "up": false
+                },
+                {
+                    "text": "Bronco",
+                    "up": true
+                }
+            ]
+        },
+        {
+            "minigame": "up",
+            "question": "Sex Positions with More than two participants",
+            "options": [
+                {
+                    "text": "Eiffel Tower",
+                    "up": true
+                },
+                {
+                    "text": "Pyramid",
+                    "up": false
+                },
+                {
+                    "text": "Spitroast",
+                    "up": true
+                }
+            ]
+        },
+        {
+            "minigame": "up",
+            "question": "Dog Breeds that are also Sex Positions",
+            "options": [
+                {
+                    "text": "Poodle",
+                    "up": false
+                },
+                {
+                    "text": "Basset Hound",
+                    "up": true
+                },
+                {
+                    "text": "Bulldog",
+                    "up": true
+                },
+                {
+                    "text": "Schnauzer",
+                    "up": false
+                },
+                {
+                    "text": "Greyhound",
+                    "up": false
+                },
+                {
+                    "text": "Wiener Dog",
+                    "up": false
+                }
+            ]
+        },
+        {
+            "minigame": "image",
+            "media": "rusty",
+            "question": "What sex act are they performing?",
+            "answer": "Rusty Trombone",
+            "nsfw": true
+        },
+        {
+            "minigame": "image",
+            "media": "swordfight",
+            "question": "What sex act are they performing?",
+            "answer": "Sword Fighting",
+            "nsfw": true
+        },
+        {
+            "minigame": "image",
+            "media": "autofellatio",
+            "question": "What sex act is the bottom performing?",
+            "answer": "Autofellatio",
+            "nsfw": true
+        },
+        {
+            "minigame": "image",
+            "media": "circlejerk",
+            "question": "What sex act are they performing?",
+            "answer": "Circle Jerk",
+            "nsfw": true
+        },
+        {
+            "minigame": "image",
+            "media": "eiffel",
+            "question": "What sex act are they performing?",
+            "answer": "Eiffel Tower",
+            "nsfw": true
+        },
+        {
+            "minigame": "image",
+            "media": "frottage",
+            "question": "What sex act are they performing?",
+            "answer": "Frotting",
+            "nsfw": true
+        },
+        {
+            "minigame": "image",
+            "media": "bukkake",
+            "question": "What sex act are they performing?",
+            "answer": "Bukkake",
+            "nsfw": true
+        },
+        {
+            "minigame": "image",
+            "media": "felching",
+            "question": "What sex act are they performing?",
+            "answer": "Felching",
+            "nsfw": true
+        },
+        {
+            "minigame": "image",
+            "media": "footjob",
+            "question": "What sex act are they performing?",
+            "answer": "Footjob",
+            "nsfw": true
+        },
+        {
+            "minigame": "image",
+            "media": "fingering",
+            "question": "What sex act are they performing?",
+            "answer": "Fingering",
+            "nsfw": true
+        },
+        {
+            "minigame": "image",
+            "media": "snowballing",
+            "question": "What sex act are they performing?",
+            "answer": "Snowballing",
+            "nsfw": true
+        },
+        {
+            "minigame": "image",
+            "media": "teabagging",
+            "question": "What sex act are they performing?",
+            "answer": "Tea Bagging",
+            "nsfw": true
         }
     ],
     "orange_questions": [
@@ -2701,6 +3026,36 @@
                     "up": true
                 }
             ]
+        },
+        {
+            "minigame": "cupcake",
+            "media": "gotit",
+            "answer": "Got Me Started - Troye Sivan"
+        },
+        {
+            "minigame": "cupcake",
+            "media": "prayer",
+            "answer": "Like A Prayer - Madonna"
+        },
+        {
+            "minigame": "cupcake",
+            "media": "touch",
+            "answer": "Touch - Katseye"
+        },
+        {
+            "minigame": "cupcake",
+            "media": "levitating",
+            "answer": "Levitating - Dua Lipa"
+        },
+        {
+            "minigame": "cupcake",
+            "media": "365",
+            "answer": "365 - Charli XCX"
+        },
+        {
+            "minigame": "cupcake",
+            "media": "circus",
+            "answer": "Circus - Britney Spears"
         }
     ]
 }
