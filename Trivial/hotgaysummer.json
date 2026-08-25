@@ -1445,6 +1445,12 @@
             "answer": "Powerpuff Girls"
         },
         {
+            "minigame": "image",
+            "question": "This lesbian starred in the musical movie for Mean Girls and is a musical artist",
+            "media": "renee",
+            "answer": "Renee Rapp"
+        },
+        {
             "minigame": "trivia",
             "question": "This superhero group was a metaphor for prejudice, and now sports several LGBT members",
             "answer": "The X Men"
