@@ -1594,6 +1594,139 @@
             "minigame": "trivia",
             "question": "This Roman Emporer was called 'every man’s woman and every woman’s man.'",
             "answer": "Julius Caesar"
+        },
+        {
+            "minigame": "trivia",
+            "question": "This 1800s horror author was openly bisexual, ironically her name is a slur for femme guys",
+            "answer": "Mary Shelley"
+        },
+        {
+            "minigame": "mc",
+            "question": "The first U.S. National Coming Out Day was this year",
+            "option_a": "1987",
+            "option_b": "1988",
+            "option_c": "1989",
+            "option_d": "1990",
+            "answer": "b"
+        },
+        {
+            "minigame": "mc",
+            "question": "The first U.S. National Coming Out Day was this day",
+            "option_a": "September 9th",
+            "option_b": "September 10th",
+            "option_c": "October 11th",
+            "option_d": "October 12th",
+            "answer": "c"
+        },
+        {
+            "minigame": "up",
+            "question": "Who was a party in the Supreme Court Same Sex case?",
+            "options": [
+                {
+                    "text": "Wade",
+                    "up": false
+                },
+                {
+                    "text": "Hodges",
+                    "up": true
+                },
+                {
+                    "text": "Ferguson",
+                    "up": false
+                },
+                {
+                    "text": "Obergefell",
+                    "up": true
+                },
+                {
+                    "text": "Graham",
+                    "up": false
+                }
+            ]
+        },
+        {
+            "minigame": "mc",
+            "question": "What was the ruling on the Same Sex Marriage Supreme Court Case",
+            "option_a": "5-4",
+            "option_b": "6-3",
+            "option_c": "7-2",
+            "option_d": "8-1",
+            "answer": "a"
+        },
+        {
+            "minigame": "trivia",
+            "question": "This three letter abbreviated LGBTQ Advocacy group was formed in 1980",
+            "answer": "Human Rights Campaign (HRC)"
+        },
+        {
+            "minigame": "trivia",
+            "question": "This organization to help parents of gay kids was formed in March 11, 1973",
+            "answer": "PFLAG"
+        },
+        {
+            "minigame": "mc",
+            "question": "What does GLAAD stand for?",
+            "option_a": "Gay & Lesbian Alliance Against Discrimination",
+            "option_b": "Gay & Lesbian Americans Against Defamation",
+            "option_c": "Gay & Lesbian Americans Against Discrimination",
+            "option_d": "Gay & Lesbian Alliance Against Defamation",
+            "answer": "d"
+        },
+        {
+            "minigame": "trivia",
+            "question": "What what the founding mission for GLAAD?",
+            "answer": "To change defamatory language about the HIV/AIDS Crisis"
+        },
+        {
+            "minigame": "mc",
+            "question": "What decade was the Q added to the LGBT acronym?",
+            "option_a": "1980s",
+            "option_b": "1990s",
+            "option_c": "2000s",
+            "option_d": "2010s",
+            "answer": "c"
+        },
+        {
+            "minigame": "mc",
+            "question": "What decade did activists add B to Lesbian & Gay to inlude bisexual coverage?",
+            "option_a": "1960s",
+            "option_b": "1970s",
+            "option_c": "1980s",
+            "option_d": "1990s",
+            "answer": "c"
+        },
+        {
+            "minigame": "mc",
+            "question": "What decade did activists add T to LGB to include transgender individuals?",
+            "option_a": "1960s",
+            "option_b": "1970s",
+            "option_c": "1980s",
+            "option_d": "1990s",
+            "answer": "d"
+        },
+        {
+            "minigame": "mc",
+            "question": "What decade did activists the + to LGBT?",
+            "option_a": "1990s",
+            "option_b": "2000s",
+            "option_c": "2010s",
+            "option_d": "2020s",
+            "answer": "c"
+        },
+        {
+            "minigame": "trivia",
+            "question": "In 1989 which singer included pamphlets in their album titled 'The Facts about AIDS'",
+            "answer": "Madonna"
+        },
+        {
+            "minigame": "trivia",
+            "question": "At the 2013 GLAAD Awards Madonna dressed up as a member of this organization to protest their homophobic policies",
+            "answer": "Boy Scouts"
+        },
+        {
+            "minigame": "trivia",
+            "question": "In April 1987, this woman opened the first UK hospital unit for AIDS patients at London Middlesex Hospital",
+            "answer": "Princess Diana"
         }
     ],
     "green_questions": [
@@ -1626,6 +1759,11 @@
             "minigame": "trivia",
             "question": "What is the screen name of Simon's love interest in Love Simon?",
             "answer": "Blue"
+        },
+        {
+            "minigame": "trivia",
+            "question": "This gay movie franchise has a sequel titled 'Sloppy Seconds'",
+            "answer": "Eating Out"
         },
         {
             "minigame": "trivia",
