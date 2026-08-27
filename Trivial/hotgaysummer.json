@@ -1148,6 +1148,134 @@
                     "up": false
                 }
             ]
+        },
+        {
+            "minigame": "trivia",
+            "question": "Which color must you not wear after labor day",
+            "answer": "white"
+        },
+        {
+            "minigame": "trivia",
+            "question": "What checkered pattern is named after a city in New York?",
+            "answer": "Buffalo"
+        },
+        {
+            "minigame": "trivia",
+            "question": "This three letter brand is famour for their soft brown boots",
+            "answer": "Ugg"
+        },
+        {
+            "minigame": "trivia",
+            "question": "This pattern shares a name with a gas station",
+            "answer": "Chevron"
+        },
+        {
+            "minigame": "trivia",
+            "question": "This sweater pattern is made up of diamonds and lines",
+            "answer": "Argyle"
+        },
+        {
+            "minigame": "trivia",
+            "question": "This material would allow you to participate in BDSM and not piss off PETA",
+            "answer": "Pleather"
+        },
+        {
+            "minigame": "trivia",
+            "question": "This pattern shares a name with a banking connection app",
+            "answer": "Plaid"
+        },
+        {
+            "minigame": "trivia",
+            "question": "The island of Burano in Italy is famous for their handmade type of this fabric",
+            "answer": "Lace"
+        },
+        {
+            "minigame": "trivia",
+            "question": "This fur coat shares a name with a gay cult film actress",
+            "answer": "Mink Stole"
+        },
+        {
+            "minigame": "trivia",
+            "question": "This pattern is typically associated with those who enjoy subarus",
+            "answer": "Flannel"
+        },
+        {
+            "minigame": "up",
+            "question": "Patterns with perpendicular lines",
+            "options": [
+                {
+                    "text": "Buffalo",
+                    "up": true
+                },
+                {
+                    "text": "Gingham",
+                    "up": true
+                },
+                {
+                    "text": "Lattice",
+                    "up": true
+                },
+                {
+                    "text": "Paisley",
+                    "up": false
+                },
+                {
+                    "text": "Plaid",
+                    "up": true
+                },
+                {
+                    "text": "Chevron",
+                    "up": false
+                }
+            ]
+        },
+        {
+            "minigame": "up",
+            "question": "Real Fabrics",
+            "options": [
+                {
+                    "text": "Houndstooth",
+                    "up": true
+                },
+                {
+                    "text": "Quatrefoil",
+                    "up": true
+                },
+                {
+                    "text": "Damask",
+                    "up": true
+                },
+                {
+                    "text": "Fret",
+                    "up": true
+                }
+            ]
+        },
+        {
+            "minigame": "up",
+            "question": "Fabrics that must be Dry Cleaned",
+            "options": [
+                {
+                    "text": "Velvet",
+                    "up": true
+                },
+                {
+                    "text": "Polyester",
+                    "up": false
+                },
+                {
+                    "text": "Silk",
+                    "up": true
+                },
+                {
+                    "text": "Wool",
+                    "up": true
+                },
+                {
+                    "text": "Cotton",
+                    "up": false
+                }
+            ]
         }
     ],
     "yellow_questions": [
@@ -1376,6 +1504,96 @@
             "media": "harvey",
             "question": "Who is he and what did he do?",
             "answer": "Harvey Milk"
+        },
+        {
+            "minigame": "trivia",
+            "question": "This historical leader turned otter pop flavor had confirmed homosexual relations.",
+            "answer": "Alexander the Great"
+        },
+        {
+            "minigame": "trivia",
+            "question": "This historical artist with a secret 'Code' was known to have male companions",
+            "answer": "Leonardo Da Vinci"
+        },
+        {
+            "minigame": "trivia",
+            "question": "This key stategist in the Civil Rights Movement was a confirmed gay, and has an NYC school named after him where I play volleyball",
+            "answer": "Bayard Rustin"
+        },
+        {
+            "minigame": "trivia",
+            "question": "This historical apple loving scientist had gay rumors surround him",
+            "answer": "Isaac Newton"
+        },
+        {
+            "minigame": "trivia",
+            "question": "This author of The Picture of Dorian Gray was gay",
+            "answer": "Oscar Wilde"
+        },
+        {
+            "minigame": "trivia",
+            "question": "This painter has a famous self portrait with flowers in her hair and was bisexual",
+            "answer": "Frida Kahlo"
+        },
+        {
+            "minigame": "trivia",
+            "question": "This historical painter's name has 'vag' in it but he only painted male nudes",
+            "answer": "Caravaggio"
+        },
+        {
+            "minigame": "trivia",
+            "question": "This historical writer portrayed by Hailee Steinfeld was rumored to have feelings for her sister in law.",
+            "answer": "Emily Dickinson"
+        },
+        {
+            "minigame": "trivia",
+            "question": "This gay playright wrote about a demon barber",
+            "answer": "Stephen Sondheim"
+        },
+        {
+            "minigame": "trivia",
+            "question": "This Russian 'Swan Lake' composer has gay rumors about him as well.",
+            "answer": "Tchaikovsky"
+        },
+        {
+            "minigame": "trivia",
+            "question": "This president's wife exchanged 3300 letters with a close female friend. Quite sus...",
+            "answer": "Eleanor Roosevelt "
+        },
+        {
+            "minigame": "trivia",
+            "question": "This american president would probably watch the play about him since he was rumored to be gay after all.",
+            "answer": "Alexander Hamilton"
+        },
+        {
+            "minigame": "trivia",
+            "question": "This famous diarist had documented a crush on both a boy and a girl",
+            "answer": "Anne Frank"
+        },
+        {
+            "minigame": "trivia",
+            "question": "This English king was often rumored to have male lovers and a lover of sodomy",
+            "answer": "Edward II"
+        },
+        {
+            "minigame": "trivia",
+            "question": "This double king the I of england and the VI of scotland was documented to love 'bum boys'",
+            "answer": "James I/James VI"
+        },
+        {
+            "minigame": "trivia",
+            "question": "This author had an affair with a married woman, shockingly neither husband was mad about it",
+            "answer": "Virginia Woolf"
+        },
+        {
+            "minigame": "trivia",
+            "question": "According to Plato's 'Apology' this Ancient Greek Philosopher was put to death for being gay",
+            "answer": "Socrates"
+        },
+        {
+            "minigame": "trivia",
+            "question": "This Roman Emporer was called 'every man’s woman and every woman’s man.'",
+            "answer": "Julius Caesar"
         }
     ],
     "green_questions": [
@@ -1982,6 +2200,67 @@
             "media": "qforce",
             "question": "What TV show is this?",
             "answer": "Q-Force"
+        },
+        {
+            "minigame": "trivia",
+            "question": "What color does Rocky wear in Rocky Horror Picture Show?",
+            "answer": "Gold"
+        },
+        {
+            "minigame": "up",
+            "question": "Current Broadway shows based on movies",
+            "options": [
+                {
+                    "text": "Rocky Horror Picture Show",
+                    "up": true
+                },
+                {
+                    "text": "The Outsiders",
+                    "up": true
+                },
+                {
+                    "text": "Lost Boys",
+                    "up": true
+                },
+                {
+                    "text": "Little Shop of Horrors",
+                    "up": false
+                },
+                {
+                    "text": "Hadestown",
+                    "up": false
+                }
+            ]
+        },
+        {
+            "minigame": "up",
+            "question": "Rocky Horror Characters",
+            "options": [
+                {
+                    "text": "Brad",
+                    "up": true
+                },
+                {
+                    "text": "Janet",
+                    "up": true
+                },
+                {
+                    "text": "Dr. Frankenstein",
+                    "up": false
+                },
+                {
+                    "text": "Rocky",
+                    "up": true
+                },
+                {
+                    "text": "Fuschia",
+                    "up": false
+                },
+                {
+                    "text": "Columbina",
+                    "up": false
+                }
+            ]
         }
     ],
     "blue_questions": [
