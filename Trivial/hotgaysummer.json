@@ -1772,6 +1772,109 @@
         },
         {
             "minigame": "trivia",
+            "question": "Who is the thing about?",
+            "answer": "Harry"
+        },
+        {
+            "minigame": "up",
+            "question": "Gay movie main character couples",
+            "options": [
+                {
+                    "text": "Victor & Benji",
+                    "up": false
+                },
+                {
+                    "text": "Harry & Sam",
+                    "up": true
+                },
+                {
+                    "text": "Simon & Bram",
+                    "up": true
+                },
+                {
+                    "text": "Henry & Alex",
+                    "up": true
+                },
+                {
+                    "text": "Kyle & Marc",
+                    "up": true
+                }
+            ]
+        },
+        {
+            "minigame": "up",
+            "question": "throwback movies with a GBF",
+            "options": [
+                {
+                    "text": "Mean Girls",
+                    "up": true
+                },
+                {
+                    "text": "She's The Man",
+                    "up": true
+                },
+                {
+                    "text": "White Chicks",
+                    "up": false
+                },
+                {
+                    "text": "Clueless",
+                    "up": true
+                },
+                {
+                    "text": "Legally Blonde",
+                    "up": false
+                }
+            ]
+        },
+        {
+            "minigame": "up",
+            "question": "Gay Main Character Couples in TV",
+            "options": [
+                {
+                    "text": "Nick & Harry",
+                    "up": false
+                },
+                {
+                    "text": "Victor & Rahim",
+                    "up": false
+                },
+                {
+                    "text": "Cam & Phil",
+                    "up": false
+                },
+                {
+                    "text": "Kyle & Craig",
+                    "up": false
+                },
+                {
+                    "text": "Eric & Otis",
+                    "up": false
+                }
+            ]
+        },
+        {
+            "minigame": "trivia",
+            "question": "Which Queer Eye reboot star cameod in The Thing About Harry?",
+            "answer": "Karamo Brown"
+        },
+        {
+            "minigame": "trivia",
+            "question": "Which gay tv show had Katya cameo in?",
+            "answer": "Love Victor"
+        },
+        {
+            "minigame": "trivia",
+            "question": "Which contemporary gay sitcom had Trixie Mattell guest star?",
+            "answer": "English Teacher"
+        },
+        {
+            "minigame": "trivia",
+            "question": "Which Mary Todd actress was on 30 Rock and Kimmy Schmidt?",
+            "answer": "Jane Krakowski"
+        },
+        {
+            "minigame": "trivia",
             "question": "Who are the other two main characters in Will & Grace?",
             "answer": "Jack & Karen"
         },
@@ -1805,6 +1908,30 @@
             "question": "This lesbian starred in the musical movie for Mean Girls and is a musical artist",
             "media": "renee",
             "answer": "Renee Rapp"
+        },
+        {
+            "minigame": "image",
+            "media": "harryhag",
+            "question": "Who's hag is this?",
+            "answer": "Sam/Harry (The Thing About Harry)"
+        },
+        {
+            "minigame": "image",
+            "media": "hagsimon",
+            "question": "Who's hag is this?",
+            "answer": "Simon (Love Simon)"
+        },
+        {
+            "minigame": "image",
+            "media": "hagvictor",
+            "question": "Who's hag is this?",
+            "answer": "Victor (Love Victor)"
+        },
+        {
+            "minigame": "image",
+            "media": "hag",
+            "question": "Who's hag is this?",
+            "answer": "Damien (Mean Girls)"
         },
         {
             "minigame": "trivia",
@@ -3494,7 +3621,7 @@
                 },
                 {
                     "text": "Baby One More Time",
-                    "up": true
+                    "up": false
                 },
                 {
                     "text": "Toxic",
@@ -3502,7 +3629,7 @@
                 },
                 {
                     "text": "Stronger",
-                    "up": true
+                    "up": false
                 }
             ]
         },
