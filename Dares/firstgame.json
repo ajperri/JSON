@@ -2,10 +2,17 @@
     "dares": [
         {
             "type": "truth",
-            "dare": "",
-            "punishment": "",
+            "dare": "Kiss, Fuck, Marry -- Choose one person in the room for each one",
+            "punishment": "3 Sips",
             "reward": null,
-            "spice": 1
+            "spice": 2
+        },
+        {
+            "type": "truth",
+            "dare": "We're all stranded on a desert island -- Who are you pairing off with?",
+            "punishment": "1 shot",
+            "reward": null,
+            "spice": 3
         },
         {
             "type": "dare",
