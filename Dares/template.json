@@ -1,0 +1,18 @@
+{
+    "dares": [
+        {
+            "type": "truth",
+            "dare": "",
+            "punishment": "",
+            "reward": null,
+            "spice": 1
+        },
+        {
+            "type": "dare",
+            "dare": "",
+            "punishment": "",
+            "reward": null,
+            "spice": 1
+        }
+    ]
+}
