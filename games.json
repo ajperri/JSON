@@ -1150,9 +1150,9 @@
         "json_name": "gaymenightvol8",
         "date_created": "9-3-2026",
         "color": "orange",
-        "type": "trivial",
+        "type": "jeopardy",
         "status": "G",
-        "rating": 4,
+        "rating": 5,
         "rating_type": "dirty",
         "tags": []
     }
