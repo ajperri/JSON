@@ -1155,5 +1155,29 @@
         "rating": 5,
         "rating_type": "dirty",
         "tags": []
+    },
+    {
+        "id": 96,
+        "name": "Welcome To Hell's Kitchen",
+        "json_name": "hkwelcome",
+        "date_created": "10-8-2026",
+        "color": "yellow",
+        "type": "famFued",
+        "status": "G",
+        "rating": 5,
+        "rating_type": "dirty",
+        "tags": []
+    },
+    {
+        "id": 97,
+        "name": "Carnivale Nights",
+        "json_name": "carnivalenights",
+        "date_created": "10-9-2026",
+        "color": "orange",
+        "type": "jeopardy",
+        "status": "G",
+        "rating": 5,
+        "rating_type": "dirty",
+        "tags": []
     }
 ]
