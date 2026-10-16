@@ -69,6 +69,34 @@
             "punishment": "",
             "reward": null,
             "spice": 5
+        },
+        {
+            "type": "Round Robin",
+            "challenge":"",
+            "punishment": "",
+            "reward": null,
+            "spice": 1
+        },
+        {
+            "type": "Have I Ever?",
+            "challenge":"",
+            "punishment": "",
+            "reward": null,
+            "spice": 1
+        },
+        {
+            "type": "Pass It Out",
+            "challenge":"",
+            "punishment": "",
+            "reward": null,
+            "spice": 1
+        },
+        {
+            "type": "Cock Locked",
+            "challenge":"",
+            "punishment": "",
+            "reward": null,
+            "spice": 1
         }
     ]
 }
