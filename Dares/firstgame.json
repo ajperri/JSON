@@ -1,6 +1,20 @@
 {
     "dares": [
         {
+            "type": "truth",
+            "challenge": "Would you rather be single forever or marry the first number in your contacts",
+            "punishment": "1 sips",
+            "reward": "",
+            "spice": 1
+        },
+        {
+            "type": "truth",
+            "challenge": "Would you rather be single for five years or marry your current coach or boss",
+            "punishment": "1 sips",
+            "reward": "",
+            "spice": 1
+        },
+        {
             "type": "dare",
             "challenge": "Let the dogs out! Take off one sock until your next turn",
             "punishment": "3 sips",
@@ -135,7 +149,7 @@
         },
         {
             "type": "dare - GAYYY CHICKEN!",
-            "challenge": "It's a stripdown showdown! Choose your opponent and take turns removing one item of clothing. Whoever bails first loses.",
+            "challenge": "It's a stripdown showdown! Choose somoene to be your opponent and take turns removing one item of clothing. Whoever bails first loses.",
             "punishment": "1 shots",
             "reward": "chicken",
             "spice": 5
@@ -674,7 +688,7 @@
         },
         {
             "type": "truth",
-            "challenge": "Would you rather lick someone's butt mid-douche routine or drink post birth placenta",
+            "challenge": "Would you rather lick a guys's butt mid-douche routine or drink post birth placenta",
             "punishment": "3 sips",
             "reward": null,
             "spice": 3
@@ -1070,6 +1084,272 @@
             "punishment": "8 sips",
             "reward": "",
             "spice": 3
+        }, 
+        {
+            "type": "truth",
+            "challenge":"What artist makes the best music",
+            "punishment": "2 sips",
+            "reward": null,
+            "spice": 1
+        },
+        {
+            "type": "truth",
+            "challenge":"Boxers or briefs?",
+            "punishment": "1 sips",
+            "reward": null,
+            "spice": 1
+        },
+        {
+            "type": "truth",
+            "challenge":"Jocks or Thongs?",
+            "punishment": "1 sips",
+            "reward": null,
+            "spice": 1
+        },
+        {
+            "type": "truth",
+            "challenge":"Would you rather fuck a guy in lacey bra and panties or mormon garments?",
+            "punishment": "1 sips",
+            "reward": null,
+            "spice": 1
+        },
+        {
+            "type": "dare",
+            "challenge":"Sing the highest and lowest note you can",
+            "punishment": "3 sips",
+            "reward": null,
+            "spice": 1
+        },
+        {
+            "type": "truth",
+            "challenge":"What artist makes the best music to fuck to",
+            "punishment": "4 sips",
+            "reward": null,
+            "spice": 2
+        },
+        {
+            "type": "dare",
+            "challenge":"Choose someone to swap drinks with",
+            "punishment": "Finish your drink",
+            "reward": null,
+            "spice": 2
+        },
+        {
+            "type": "truth",
+            "challenge":"Which popular gay diva is the most overrated",
+            "punishment": "5 sips",
+            "reward": null,
+            "spice": 1
+        },
+        {
+            "type": "truth",
+            "challenge":"Which popular gay diva would you let peg you",
+            "punishment": "5 sips",
+            "reward": null,
+            "spice": 3
+        },
+        {
+            "type": "dare",
+            "challenge":"Show us how you moan while being fucked",
+            "punishment": "1/2 your drink",
+            "reward": null,
+            "spice": 3
+        },
+        {
+            "type": "dare",
+            "challenge":"Give us your best fake orgasm",
+            "punishment": "1/2 your drink",
+            "reward": null,
+            "spice": 3
+        },
+        {
+            "type": "dare - Good boy",
+            "challenge": "Be submissive and breedable and show us your best arched back",
+            "punishment": "1/2 your drink",
+            "reward": null,
+            "spice": 4
+        },
+        {
+            "type": "dare - Good boy",
+            "challenge":"Be submissive and breedable and pick someone to be the boss of you till your next turn",
+            "punishment": "1 full shot",
+            "reward": null,
+            "spice": 5
+        },
+        {
+            "type": "dare - Good boy",
+            "challenge":"Be submissive and breedable and stare at someone with your best puppy dog eyes",
+            "punishment": "1/2 your drink",
+            "reward": null,
+            "spice": 3
+        },
+        {
+            "type": "dare - Good boy",
+            "challenge":"Be submissive and breedable and get someone a new drink",
+            "punishment": "3 sips",
+            "reward": null,
+            "spice": 2
+        },
+        {
+            "type": "dare - Good boy",
+            "challenge":"Be submissive and breedable and compliment the person across from you",
+            "punishment": "1 sips",
+            "reward": null,
+            "spice": 1
+        },
+        {
+            "type": "truth",
+            "challenge":"What kind of dick (curve/length/size) hits your prostate best?",
+            "punishment": "1/2 drink",
+            "reward": null,
+            "spice": 4
+        },
+        {
+            "type": "dare",
+            "challenge":"Pants be gone! Sit in your underwear til your next turn",
+            "punishment": "2 shots",
+            "reward": null,
+            "spice": 4
+        },
+        {
+            "type": "dare",
+            "challenge":"Go to the bathroom and get commando for the rest of the game",
+            "punishment": "2 shots",
+            "reward": null,
+            "spice": 4
+        },
+        {
+            "type": "truth",
+            "challenge":"Do you have a crush on someone we know? If so who?",
+            "punishment": "2 shots",
+            "reward": "Full chickens if they are in the room (and not your partner)",
+            "spice": 5
+        },
+        {
+            "type": "Dare - Cock Grab!",
+            "challenge":"Helicopter your dick (with or without underwear). Anyone who looks away loses a chicken.",
+            "punishment": "2 shots",
+            "reward": "All the stolen chickens (up to 3)",
+            "spice": 5
+        },
+        {
+            "type": "Dare - Cock Grab!",
+            "challenge":"Helicopter your dick (with or without underwear). Anyone who looks away loses a chicken.",
+            "punishment": "2 shots",
+            "reward": "All the stolen chickens (up to 3)",
+            "spice": 5
+        },
+        {
+            "type": "Dare - Cock Grab!",
+            "challenge":"Give us your best seductive strip tease to 'Cotton Eye Joe'. Anyone you make laugh loses a chicken.",
+            "punishment": "1 shot",
+            "reward": "All the stolen chickens (up to 3)",
+            "spice": 4
+        },
+        {
+            "type": "Dare - Cock Grab!",
+            "challenge":"Tell us your best joke. Anyone who laughs loses a chicken",
+            "punishment": "2 sips",
+            "reward": "All the stolen chickens (up to 3)",
+            "spice": 1
+        },
+        {
+            "type": "Truth - Isaac's House!",
+            "challenge":"Name any Isaac Parker song to earn a chicken. Or lose a chicken if you can't",
+            "punishment": "- 1 Chicken",
+            "reward": "1 Chicken",
+            "spice": 2
+        },
+        {
+            "type": "Truth - Isaac's House!",
+            "challenge":"Name any Isaac Parker song to earn a chicken. Or lose a chicken if you can't",
+            "punishment": "- 1 Chicken",
+            "reward": "1 Chicken",
+            "spice": 3
+        },
+        {
+            "type": "Dare - Cock Grab!",
+            "challenge":"Make a silly face or pose. Anyone who laughs loses a chicken",
+            "punishment": "2 sips",
+            "reward": "All the stolen chickens (up to 3)",
+            "spice": 2
+        },
+        {
+            "type": "Dare - Cock Grab!",
+            "challenge":"Give us your best awkard dance. Anyone who smiles loses a chicken",
+            "punishment": "6 sips",
+            "reward": "All the stolen chickens (up to 3)",
+            "spice": 3
+        },
+        {
+            "type": "Dare - Cock Grab!",
+            "challenge":"Give us the most awkard sex noises you can. Anyone who smiles loses a chicken.",
+            "punishment": "1/2 drink",
+            "reward": "All the stolen chickens (up to 3)",
+            "spice": 4
+        },
+        {
+            "type": "Dare - Locktober!",
+            "challenge":"No laughing until your next turn",
+            "punishment": "5 sips",
+            "reward": "1 chicken",
+            "spice": 2
+        },
+        {
+            "type": "Dare - Locktober!",
+            "challenge":"No talking until your next turn",
+            "punishment": "1 shot",
+            "reward": "1 chicken",
+            "spice": 2
+        },
+        {
+            "type": "Dare - Locktober!",
+            "challenge":"No making any facial expressions until your next turn",
+            "punishment": "1 shot",
+            "reward": "1 chicken",
+            "spice": 2
+        },
+        {
+            "type": "Dare - Locktober!",
+            "challenge":"Put your hand over your mouth until your next turn",
+            "punishment": "1 shot",
+            "reward": "1 chicken",
+            "spice": 3
+        },
+        {
+            "type": "Dare - Locktober!",
+            "challenge":"Put your hand on your crotch until your next turn",
+            "punishment": "1 shot",
+            "reward": "1 chicken",
+            "spice": 4
+        },
+        {
+            "type": "dare - GAYYY CHICKEN!",
+            "challenge":"Pantomime jerking off onto someone's face",
+            "punishment": "Chug for 10 seconds",
+            "reward": "1 chicken",
+            "spice": 3
+        },
+        {
+            "type": "dare - GAYYY CHICKEN!",
+            "challenge":"Put your hands on the crotch of the person to your right, they do the same to you. First to refuse or pull off loses a chicken to the winner",
+            "punishment": "1 shot",
+            "reward": "1 chicken",
+            "spice": 4
+        },
+        {
+            "type": "dare - GAYYY CHICKEN!",
+            "challenge":"Hold hands with the person to your left. First to separate loses their chicken to the winner",
+            "punishment": "3 sips",
+            "reward": "1 chicken",
+            "spice": 2
+        },
+        {
+            "type": "truth",
+            "challenge":"What's the craziest drug you've event done",
+            "punishment": "4 sips",
+            "reward": null,
+            "spice": 2
         }
     ]
 }

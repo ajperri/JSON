@@ -2,17 +2,73 @@
     "dares": [
         {
             "type": "truth",
-            "dare": "",
+            "challenge":"",
             "punishment": "",
             "reward": null,
             "spice": 1
         },
         {
             "type": "dare",
-            "dare": "",
+            "challenge":"",
             "punishment": "",
             "reward": null,
             "spice": 1
+        },
+        {
+            "type": "truth",
+            "challenge":"",
+            "punishment": "",
+            "reward": null,
+            "spice": 2
+        },
+        {
+            "type": "dare",
+            "challenge":"",
+            "punishment": "",
+            "reward": null,
+            "spice": 2
+        },
+        {
+            "type": "truth",
+            "challenge":"",
+            "punishment": "",
+            "reward": null,
+            "spice": 3
+        },
+        {
+            "type": "dare",
+            "challenge":"",
+            "punishment": "",
+            "reward": null,
+            "spice": 3
+        },
+        {
+            "type": "truth",
+            "challenge":"",
+            "punishment": "",
+            "reward": null,
+            "spice": 4
+        },
+        {
+            "type": "dare",
+            "challenge":"",
+            "punishment": "",
+            "reward": null,
+            "spice": 4
+        },
+        {
+            "type": "truth",
+            "challenge":"",
+            "punishment": "",
+            "reward": null,
+            "spice": 5
+        },
+        {
+            "type": "dare",
+            "challenge":"",
+            "punishment": "",
+            "reward": null,
+            "spice": 5
         }
     ]
 }
