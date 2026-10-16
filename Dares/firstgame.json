@@ -2,1065 +2,1072 @@
     "dares": [
         {
             "type": "dare",
-            "dare": "Let the dogs out! Take off one sock until your next turn",
+            "challenge": "Let the dogs out! Take off one sock until your next turn",
             "punishment": "3 sips",
             "reward": null,
             "spice": 1
         },
         {
             "type": "dare",
-            "dare": "Your hips don't lie, show us your best bend and snap",
+            "challenge": "Your hips don't lie, show us your best bend and snap",
             "punishment": "3 sips",
             "reward": null,
             "spice": 1
         },
         {
             "type": "dare",
-            "dare": "Your hips don't lie, show us how fast you can shake your hips side to side",
+            "challenge": "Your hips don't lie, show us how fast you can shake your hips side to side",
             "punishment": "3 sips",
             "reward": null,
             "spice": 2
         },
         {
             "type": "dare",
-            "dare": "Your hips don't lie, give us your best twerk",
+            "challenge": "Your hips don't lie, give us your best twerk",
             "punishment": "10 sips",
             "reward": null,
             "spice": 3
         },
         {
             "type": "dare",
-            "dare": "Your hips don't lie, give someone a lap dance for 10 seconds",
+            "challenge": "Your hips don't lie, give someone a lap dance for 10 seconds",
             "punishment": "1 shot",
             "reward": null,
             "spice": 4
         },
         {
             "type": "dare",
-            "dare": "Your hips don't lie, so sit on someone's face and shake them for 5 seconds",
+            "challenge": "Your hips don't lie, so sit on someone's face and shake them for 5 seconds",
             "punishment": "2 shots",
             "reward": "1 chicken",
             "spice": 5
         },
         {
             "type": "dare",
-            "dare": "Tick Tock on the clock: guess the exact minutes it is right now or lose a chicken",
+            "challenge": "Tick Tock on the clock: guess the exact minutes it is right now or lose a chicken",
             "punishment": "14 sips",
             "reward": "gain a chicken",
             "spice": 1
         },
         {
             "type": "dare",
-            "dare": "Tick Tock on the clock, and this party don't stop: Show us your best coke inhale",
+            "challenge": "Tick Tock on the clock, and this party don't stop: Show us your best coke inhale",
             "punishment": "6 sips",
             "reward": null,
             "spice": 2
         },
         {
             "type": "dare",
-            "dare": "Tick Tock on the clock: seductively ask someone for the time. If they don't give it go to the next person in the circle and repeat.",
+            "challenge": "Tick Tock on the clock: seductively ask someone for the time. If they don't give it go to the next person in the circle and repeat.",
             "punishment": "10 sips",
             "reward": null,
             "spice": 3
         },
         {
             "type": "dare",
-            "dare": "Tick Tock on the Clock: Sit on someone's lap for a full minute but you can't look at a clock. Getting up early is a fail.",
+            "challenge": "Tick Tock on the Clock: Sit on someone's lap for a full minute but you can't look at a clock. Getting up early is a fail.",
             "punishment": "1.5 shots",
             "reward": "1 Free Chicken",
             "spice": 4
         },
         {
             "type": "dare",
-            "dare": "Tick Tock on the Clock: show us how you'd ride cock",
+            "challenge": "Tick Tock on the Clock: show us how you'd ride cock",
             "punishment": "2 shots",
             "reward": "1 chicken",
             "spice": 5
         },
         {
             "type": "dare",
-            "dare": "Pick somone, then kiss them on whatever body part YOU choose.",
+            "challenge": "Pick somone, then kiss them on whatever body part YOU choose.",
             "punishment": "1 shots",
             "reward": "",
             "spice": 4
         },
         {
             "type": "dare",
-            "dare": "Pick somone, then kiss them on whatever body part THEY choose.",
+            "challenge": "Pick somone, then kiss them on whatever body part THEY choose.",
             "punishment": "1 shots",
             "reward": "Steal their chicken",
             "spice": 4
         },
         {
             "type": "dare - GAYYY CHICKEN!",
-            "dare": "Stare into the person across from you's eyes. First one to blink loses a chicken.",
+            "challenge": "Stare into the person across from you's eyes. First one to blink loses a chicken.",
             "punishment": "-1 Chicken",
             "reward": "",
             "spice": 1
         },
         {
             "type": "dare - GAYYY CHICKEN! ",
-            "dare": "Pick someone and get 3 inches away. First one to laugh loses a chicken",
+            "challenge": "Pick someone and get 3 inches away. First one to laugh loses a chicken",
             "punishment": "-1 Chicken",
             "reward": "",
             "spice": 2
         },
         {
             "type": "dare - GAYYY CHICKEN! ",
-            "dare": "Pick somone and sit on their lap. If you get off before their next turn you lose a chicken.",
+            "challenge": "Pick somone and sit on their lap. If you get off before their next turn you lose a chicken.",
             "punishment": "1 shots",
             "reward": "chicken",
             "spice": 3
         },
         {
             "type": "dare - Hide and Seek!",
-            "dare": "Close your eyes while the group picks someone to sit on YOUR lap. They sit there until you guess who it is",
+            "challenge": "Close your eyes while the group picks someone to sit on YOUR lap. They sit there until you guess who it is",
             "punishment": "1 shots",
             "reward": "",
             "spice": 4
         },
         {
             "type": "dare - Hide and Seek!",
-            "dare": "Close your eyes while the group picks someone to lick your cheek. Guess who it is correctly to win.",
+            "challenge": "Close your eyes while the group picks someone to lick your cheek. Guess who it is correctly to win.",
             "punishment": "Chug for 6 seconds",
             "reward": "Chicken",
             "spice": 4
         },
         {
             "type": "dare - Hide and Seek!",
-            "dare": "Close your eyes while the group picks someone to whisper naughty things to you. Guess who it is correctly to win.",
+            "challenge": "Close your eyes while the group picks someone to whisper naughty things to you. Guess who it is correctly to win.",
             "punishment": "Chug for 8 seconds",
             "reward": "",
             "spice": 4
         },
         {
             "type": "dare - GAYYY CHICKEN!",
-            "dare": "It's a stripdown showdown! Choose your opponent and take turns removing one item of clothing. Whoever bails first loses.",
+            "challenge": "It's a stripdown showdown! Choose your opponent and take turns removing one item of clothing. Whoever bails first loses.",
             "punishment": "1 shots",
             "reward": "chicken",
             "spice": 5
         },
         {
             "type": "dare - Take it Off!",
-            "dare": "Take off someone else's piece of clothing of their choice",
+            "challenge": "Take off someone else's piece of clothing of their choice",
             "punishment": "7 sips",
             "reward": "",
             "spice": 2
         },
         {
             "type": "dare - Take it Off!",
-            "dare": "Remove any article of clothing or accessory of your choice",
+            "challenge": "Remove any article of clothing or accessory of your choice",
             "punishment": "1 shots",
             "reward": "",
             "spice": 3
         },
         {
             "type": "dare - Shirts & Skins!",
-            "dare": "Choose someone to face off in rock paper scissors. Loser takes off their shirt until their next turn",
+            "challenge": "Choose someone to face off in rock paper scissors. Loser takes off their shirt until their next turn",
             "punishment": "1 shots",
             "reward": "",
             "spice": 2
         },
         {
             "type": "dare - Shirts & Skins!",
-            "dare": "Choose someone to face off in rock paper scissors. Loser takes off their shirt until the next Shirts & Skins challenge",
+            "challenge": "Choose someone to face off in rock paper scissors. Loser takes off their shirt until the next Shirts & Skins challenge",
             "punishment": "1 shots",
             "reward": "",
             "spice": 2
         },
         {
             "type": "dare - Shirts & Skins!",
-            "dare": "Choose someone to face off in an thumb war. Loser takes off their shirt until the next Shirts & Skins challenge",
+            "challenge": "Choose someone to face off in an thumb war. Loser takes off their shirt until the next Shirts & Skins challenge",
             "punishment": "1 shots",
             "reward": "",
             "spice": 3
         },
         {
             "type": "dare - Shirts & Skins!",
-            "dare": "Choose someone to face off in that hand slapping game. Loser takes off their shirt until the next Shirts & Skins challenge",
+            "challenge": "Choose someone to face off in that hand slapping game. Loser takes off their shirt until the next Shirts & Skins challenge",
             "punishment": "1 shots",
             "reward": "",
             "spice": 3
         },
         {
             "type": "dare - Shirts & Skins!",
-            "dare": "Choose someone to face off in a touch their toes challenge. Whoever reaches less far takes off their shirt until the next Shirts & Skins challenge",
+            "challenge": "Choose someone to face off in a touch their toes challenge. Whoever reaches less far takes off their shirt until the next Shirts & Skins challenge",
             "punishment": "1 shots",
             "reward": "",
             "spice": 4
         },
         {
             "type": "dare - Shirts & Skins!",
-            "dare": "All play! Rock Paper Scissors the person next to you until there's one winner left. They get to choose someone to lose their shirt the rest of the game",
+            "challenge": "All play! Rock Paper Scissors the person next to you until there's one winner left. They get to choose someone to lose their shirt the rest of the game",
             "punishment": "1 shots",
             "reward": "",
             "spice": 5
         },
         {
             "type": "dare - Shirts & Skins!",
-            "dare": "Choose someone to face off in an arm wrestle. Loser takes off their shirt the rest of the game",
+            "challenge": "Choose someone to face off in an arm wrestle. Loser takes off their shirt the rest of the game",
             "punishment": "1 shots",
             "reward": "",
             "spice": 4
         },
         {
             "type": "truth",
-            "dare": "Who here do you think you are most sexually compatible with",
+            "challenge": "Who here do you think you are most sexually compatible with",
             "punishment": "1 shots",
             "reward": "",
             "spice": 4
         },
         {
             "type": "truth",
-            "dare": "Who here do you think you are least sexually compatible with",
+            "challenge": "Who here do you think you are least sexually compatible with",
             "punishment": "1/2 your drink",
             "reward": "",
             "spice": 3
         },
         {
             "type": "dare - Mr. Nice guy",
-            "dare": "Just give someone a high five you lucky duck",
+            "challenge": "Just give someone a high five you lucky duck",
             "punishment": "123 shots",
             "reward": "",
             "spice": 1
         },
         {
             "type": "dare - Mr. Nice guy",
-            "dare": "Just compliment someone you lucky duck",
+            "challenge": "Just compliment someone you lucky duck",
             "punishment": "123 shots",
             "reward": "",
             "spice": 1
         },
         {
             "type": "dare - Mr. Nice guy",
-            "dare": "Just give us a big ol' smile you lucky duck",
+            "challenge": "Just give us a big ol' smile you lucky duck",
             "punishment": "123 shots",
             "reward": "",
             "spice": 2
         },
         {
             "type": "dare - Mr. Nice guy",
-            "dare": "Just sit completely still for three seconds you lucky duck",
+            "challenge": "Just sit completely still for three seconds you lucky duck",
             "punishment": "123 shots",
             "reward": "",
             "spice": 3
         },
         {
             "type": "dare - Mr. Nice guy",
-            "dare": "Just go get someone a refill you lucky duck",
+            "challenge": "Just go get someone a refill you lucky duck",
             "punishment": "123 shots",
             "reward": "",
             "spice": 4
         },
         {
             "type": "dare - Naughty boy",
-            "dare": "Go stand in the corner and think about what you did",
+            "challenge": "Go stand in the corner and think about what you did",
             "punishment": "3 sips",
             "reward": "",
             "spice": 1
         },
         {
             "type": "dare - Naughty boy",
-            "dare": "Spank yourself",
+            "challenge": "Spank yourself",
             "punishment": "3 sips",
             "reward": "",
             "spice": 2
         },
         {
             "type": "dare - Naughty boy",
-            "dare": "Chastise the person to your left",
+            "challenge": "Chastise the person to your left",
             "punishment": "6 sips",
             "reward": "",
             "spice": 2
         },
         {
             "type": "dare - Naughty boy",
-            "dare": "Spank the person three to your left",
+            "challenge": "Spank the person three to your left",
             "punishment": "6 sips",
             "reward": "",
             "spice": 3
         },
         {
             "type": "dare - Naughty boy",
-            "dare": "Spank the person four to your right",
+            "challenge": "Spank the person four to your right",
             "punishment": "6 sips",
             "reward": "",
             "spice": 3
         },
         {
             "type": "dare - Naughty boy",
-            "dare": "Let two people of the group's choosing spank you. 1 per cheek",
+            "challenge": "Let two people of the group's choosing spank you. 1 per cheek",
             "punishment": "12 sips",
             "reward": "1 chicken",
             "spice": 4
         },
         {
             "type": "dare - Naughty boy",
-            "dare": "Let two people spank you. 1 per cheek",
+            "challenge": "Let two people spank you. 1 per cheek",
             "punishment": "12 sips",
             "reward": "",
             "spice": 4
         },
         {
             "type": "dare - Dirty Dawg",
-            "dare": "Dry hump anyone of your choice like a dog on a fire hydrant",
+            "challenge": "Dry hump anyone of your choice like a dog on a fire hydrant",
             "punishment": "12 sips",
             "reward": "",
             "spice": 4
         },
         {
             "type": "dare - Naughty boy",
-            "dare": "Let someone spank your bare bum",
+            "challenge": "Let someone spank your bare bum",
             "punishment": "12 sips",
             "reward": "1 chicken stolen from anyone of your choice",
             "spice": 5
         },
         {
             "type": "dare",
-            "dare": "Flash us wingus and the ping pong boys",
+            "challenge": "Flash us wingus and the ping pong boys",
             "punishment": "1.5 shots",
             "reward": "full chickens",
             "spice": 5
         },
         {
             "type": "dare - Mr. Nice guy",
-            "dare": "Just go wash your hands you lucky duck",
+            "challenge": "Just go wash your hands you lucky duck",
             "punishment": "123 shots",
             "reward": "",
             "spice": 4
         },
         {
             "type": "dare - Mr. Nice guy",
-            "dare": "Just breathe a big sigh of relief you lucky duck",
+            "challenge": "Just breathe a big sigh of relief you lucky duck",
             "punishment": "123 shots",
             "reward": "",
             "spice": 5
         },
         {
             "type": "dare - Mr. Nice guy",
-            "dare": "Just take a deep breath in and out you lucky duck",
+            "challenge": "Just take a deep breath in and out you lucky duck",
             "punishment": "123 shots",
             "reward": "",
             "spice": 5
         },
         {
             "type": "dare - Take it Off!",
-            "dare": "Remove any article of clothing not accessory of your choice",
+            "challenge": "Remove any article of clothing not accessory of your choice",
             "punishment": "1 shots",
             "reward": "",
             "spice": 4
         },
         {
             "type": "dare - Take it Off!",
-            "dare": "Remove any article of clothing of the group's choice",
+            "challenge": "Remove any article of clothing of the group's choice",
             "punishment": "1 shots",
             "reward": "1 Chicken",
             "spice": 5
         },
         {
             "type": "dare - GAYYY CHICKEN!",
-            "dare": " Pick somone and put your lips on theirs without actually kissing. Whoever pulls back first does a shot, the winner gets a chicken",
+            "challenge": " Pick somone and put your lips on theirs without actually kissing. Whoever pulls back first does a shot, the winner gets a chicken",
             "punishment": "1 full seltzer",
             "reward": "chicken",
             "spice": 4
         },
         {
             "type": "truth",
-            "dare": "Which website do you use to find porn?",
+            "challenge": "Which website do you use to find porn?",
             "punishment": "1 sips",
             "reward": null,
             "spice": 1
         },
         {
             "type": "truth",
-            "dare": "Which app is your favorite to find hookups?",
+            "challenge": "Which app is your favorite to find hookups?",
             "punishment": "1 sips",
             "reward": null,
             "spice": 1
         },
         {
             "type": "truth",
-            "dare": "Which male celebrity would you swap roles (top/bottom/side) for?",
+            "challenge": "Which male celebrity would you swap roles (top/bottom/side) for?",
             "punishment": "2 sips",
             "reward": null,
             "spice": 1
         },
         {
             "type": "truth",
-            "dare": "Who do you think has gone to the most orgys?",
+            "challenge": "Who do you think has gone to the most orgys?",
             "punishment": "1 sips",
             "reward": null,
             "spice": 1
         },
         {
             "type": "truth",
-            "dare": "Who would be the most popular pick at an orgy?",
+            "challenge": "Who would be the most popular pick at an orgy?",
             "punishment": "3 sips",
             "reward": null,
             "spice": 2
         },
         {
             "type": "truth",
-            "dare": "Who here do you think gives the best blowjob?",
+            "challenge": "Who here do you think gives the best blowjob?",
             "punishment": "5 sips",
             "reward": null,
             "spice": 2
         },
         {
             "type": "truth",
-            "dare": "Who here do you think gives the best rim job?",
+            "challenge": "Who here do you think gives the best rim job?",
             "punishment": "5 sips",
             "reward": null,
             "spice": 2
         },
         {
             "type": "truth",
-            "dare": "What is your favorite sex position to do?",
+            "challenge": "What is your favorite sex position to do?",
             "punishment": "3 sips",
             "reward": null,
             "spice": 2
         },
         {
             "type": "truth",
-            "dare": "What is any one of your kinks/fetishes?",
+            "challenge": "What is any one of your kinks/fetishes?",
             "punishment": "5 sips",
             "reward": null,
             "spice": 3
         },
         {
             "type": "truth",
-            "dare": "What is the least vanilla of your kinks/fetishes?",
+            "challenge": "What is the least vanilla of your kinks/fetishes?",
             "punishment": "1/2 your drink",
             "reward": null,
             "spice": 4
         }, 
         {
             "type": "truth",
-            "dare": "What is the largest dildo/dick you've taken up the butt?",
+            "challenge": "What is the largest dildo/dick you've taken up the butt?",
             "punishment": "2 second chug",
             "reward": null,
             "spice": 2
         },
         {
             "type": "truth",
-            "dare": "What is 'boyfriend dick' to you?",
+            "challenge": "What is 'boyfriend dick' to you?",
             "punishment": "2 second chug",
             "reward": null,
             "spice": 2
         },
         {
             "type": "truth",
-            "dare": "What would be your number 1 sexual dealbreaker?",
+            "challenge": "What would be your number 1 sexual dealbreaker?",
             "punishment": "2 second chug",
             "reward": null,
             "spice": 2
         },
         {
             "type": "truth",
-            "dare": "Which two people in this room would you choose to spitroast you?",
+            "challenge": "Which two people in this room would you choose to spitroast you?",
             "punishment": "7 sips",
             "reward": null,
             "spice": 3
         },
         {
             "type": "truth",
-            "dare": "Which two people in this room would you be most surprised hooked up?",
+            "challenge": "Which two people in this room would you be most surprised hooked up?",
             "punishment": "5 sips",
             "reward": null,
             "spice": 3
         },
         {
             "type": "truth",
-            "dare": "Which two people in this room would you be least surprised hooked up?",
+            "challenge": "Which two people in this room would you be least surprised hooked up?",
             "punishment": "3 sips",
             "reward": null,
             "spice": 2
         },
         {
             "type": "truth",
-            "dare": "What is the most attractive body part of a man to you?",
+            "challenge": "What is the most attractive body part of a man to you?",
             "punishment": "1 Sip",
             "reward": "",
             "spice": 1
         },
         {
             "type": "truth",
-            "dare": "What is the most attractive thing about the person to your right?",
+            "challenge": "What is the most attractive thing about the person to your right?",
             "punishment": "1 Sip",
             "reward": "",
             "spice": 1
         },
         {
             "type": "truth",
-            "dare": "What is the least attractive thing about yourself in your opinion?",
+            "challenge": "What is the least attractive thing about yourself in your opinion?",
             "punishment": "2 Sips",
             "reward": "",
             "spice": 2
         },
         {
             "type": "dare",
-            "dare": "Talk in a sexy baby voice until your next turn",
+            "challenge": "Talk in a sexy baby voice until your next turn",
             "punishment": "8 Sips",
             "reward": "",
             "spice": 2
         },
         {
             "type": "truth",
-            "dare": "What is the deepest you'd willingly be fisted if every inch paid $2500",
+            "challenge": "What is the deepest you'd willingly be fisted if every inch paid $2500",
             "punishment": "4 sips",
             "reward": "",
             "spice": 2
         },
         {
             "type": "truth",
-            "dare": "What is your favorite porn category",
+            "challenge": "What is your favorite porn category",
             "punishment": "6 sips",
             "reward": "",
             "spice": 3
         },
         {
             "type": "truth",
-            "dare": "What is the last thing you beat your meat to?",
+            "challenge": "What is the last thing you beat your meat to?",
             "punishment": "6 sips",
             "reward": "1 chicken for going into detail",
             "spice": 3
         },
         {
             "type": "truth",
-            "dare": "When is the last time you tasted your own cum?",
+            "challenge": "When is the last time you tasted your own cum?",
             "punishment": "6 sips",
             "reward": "",
             "spice": 3
         },
         {
             "type": "truth",
-            "dare": "If your partner's cum could taste like any flavor what would you pick?",
+            "challenge": "If your partner's cum could taste like any flavor what would you pick?",
             "punishment": "2 sips",
             "reward": "",
             "spice": 2
         },
         {
             "type": "dare",
-            "dare": "Sing a full chorus of any song fully acapella",
+            "challenge": "Sing a full chorus of any song fully acapella",
             "punishment": "6 Sips",
             "reward": "",
             "spice": 2
         },
         {
             "type": "dare",
-            "dare": "Show us your deepthroating skills on the nearest dildo or banana",
+            "challenge": "Show us your deepthroating skills on the nearest dildo or banana",
             "punishment": "1 shot",
             "reward": "1 Chicken",
             "spice": 4
         },
         {
             "type": "dare",
-            "dare": "Shotgun! Show us your throating skills by shotgunning a seltzer",
+            "challenge": "Shotgun! Show us your throating skills by shotgunning a seltzer",
             "punishment": "1 shot",
             "reward": "",
             "spice": 3
         },
         {
             "type": "dare",
-            "dare": "Seductively whisper something in the shortest person's ear",
+            "challenge": "Seductively whisper something in the shortest person's ear",
             "punishment": "6 Sips",
             "reward": "",
             "spice": 3
         },
         {
             "type": "dare",
-            "dare": "Lick the inside of any person's ear of your choosing",
+            "challenge": "Lick the inside of any person's ear of your choosing",
             "punishment": "12 Sips",
             "reward": "",
             "spice": 4
         },
         {
             "type": "dare",
-            "dare": "Swap shirts with someone for ten minutes",
+            "challenge": "Swap shirts with someone for ten minutes",
             "punishment": "5 sips",
             "reward": null,
             "spice": 2
         },
         {
             "type": "truth",
-            "dare": "Who in the room is least your type? But also what is their most attractive quality?",
+            "challenge": "Who in the room is least your type? But also what is their most attractive quality?",
             "punishment": "2 Sips",
             "reward": "",
             "spice": 2
         },
         {
             "type": "truth",
-            "dare": "Who in the room is most your type? And why?",
+            "challenge": "Who in the room is most your type? And why?",
             "punishment": "5 Sips",
             "reward": "",
             "spice": 3
         },
         {
             "type": "dare",
-            "dare": "Let the dogs out! Take off both socks until your next turn",
+            "challenge": "Let the dogs out! Take off both socks until your next turn",
             "punishment": "3 sips",
             "reward": null,
             "spice": 2
         },
         {
             "type": "truth",
-            "dare": "Would you rather fuck your clone in missionary position staring into his eyes or fuck an unknown cousin through a gloryhole?",
+            "challenge": "Would you rather fuck your clone in missionary position staring into his eyes or fuck an unknown cousin through a gloryhole?",
             "punishment": "4 Sips",
             "reward": "",
             "spice": 3
         },
         {
             "type": "truth - Dirty Dawg",
-            "dare": "If you were a pup what would your name be?",
+            "challenge": "If you were a pup what would your name be?",
             "punishment": "2 sips",
             "reward": "",
             "spice": 1
         },
         {
             "type": "truth",
-            "dare": "If you were a drag queen what would your name be?",
+            "challenge": "If you were a drag queen what would your name be?",
             "punishment": "2 sips",
             "reward": "",
             "spice": 1
         },
         {
             "type": "dare - Dirty Dawg",
-            "dare": "Get on all fours and bark for us three times",
+            "challenge": "Get on all fours and bark for us three times",
             "punishment": "12 sips",
             "reward": "",
             "spice": 3
         },
         {
             "type": "dare - Dirty Dawg",
-            "dare": "Get on all fours and bark for us until we can guess your favorite dog breed",
+            "challenge": "Get on all fours and bark for us until we can guess your favorite dog breed",
             "punishment": "12 sips",
             "reward": "",
             "spice": 4
         },
         {
             "type": "dare - Dirty Dawg",
-            "dare": "Stick your head out the window and bark like a good boy",
+            "challenge": "Stick your head out the window and bark like a good boy",
             "punishment": "Chug for 3 seconds",
             "reward": null,
             "spice": 2
         },
         {
             "type": "truth",
-            "dare": "Would you rather give up doggy or missionary forever",
+            "challenge": "Would you rather give up doggy or missionary forever",
             "punishment": "Chug for 1 seconds",
             "reward": null,
             "spice": 2
         },
         {
             "type": "truth",
-            "dare": "Would you rather give up oral or anal forever",
+            "challenge": "Would you rather give up oral or anal forever",
             "punishment": "5 sips",
             "reward": null,
             "spice": 2
         },
         {
             "type": "truth",
-            "dare": "Would you rather fuck 3 elderly women or never have sex again",
+            "challenge": "Would you rather fuck 3 elderly women or never have sex again",
             "punishment": "5 sips",
             "reward": null,
             "spice": 2
         },
         {
             "type": "truth",
-            "dare": "Would you rather have a dick on your forehead or vaginas on your hands",
+            "challenge": "Would you rather have a dick on your forehead or vaginas on your hands",
             "punishment": "3 sips",
             "reward": null,
             "spice": 1
         },
         {
             "type": "truth",
-            "dare": "Would you rather lick someone's butt mid-douche routine or drink post birth placenta",
+            "challenge": "Would you rather lick someone's butt mid-douche routine or drink post birth placenta",
             "punishment": "3 sips",
             "reward": null,
             "spice": 3
         },
         {
             "type": "truth",
-            "dare": "Would you rather have 5 kids or no kids",
+            "challenge": "Would you rather have 5 kids or no kids",
             "punishment": "1 sips",
             "reward": null,
             "spice": 1
         },
         {
             "type": "truth",
-            "dare": "Would you rather be infertile or have to cum 7 times a day",
+            "challenge": "Would you rather be infertile or have to cum 7 times a day",
             "punishment": "1 sips",
             "reward": null,
             "spice": 1
         },
         {
             "type": "truth",
-            "dare": "Would you rather only cum once a week but it feels 7 times better, or 7 times a day but they all feel 1/7 as good",
+            "challenge": "Would you rather only cum once a week but it feels 7 times better, or 7 times a day but they all feel 1/7 as good",
             "punishment": "1 sips",
             "reward": null,
             "spice": 1
         },
         {
             "type": "truth",
-            "dare": "What sex act is most likely to make you ejactulate your cummies",
+            "challenge": "What sex act is most likely to make you ejactulate your cummies",
             "punishment": "7 sips",
             "reward": null,
             "spice": 2
         },
         {
             "type": "truth",
-            "dare": "how many people in this room have you done anything naughty with? (ranging from kissing to fucking)",
+            "challenge": "how many people in this room have you done anything naughty with? (ranging from kissing to fucking)",
             "punishment": "7 sips",
             "reward": null,
             "spice": 2
         },
         {
             "type": "truth",
-            "dare": "how many people in this room have you done anything sexual with? (ranging from oral to fucking)",
+            "challenge": "how many people in this room have you done anything sexual with? (ranging from oral to fucking)",
             "punishment": "7 sips",
             "reward": null,
             "spice": 3
         },
         {
             "type": "truth",
-            "dare": "how many people in this room have you had intercourse with? (ranging from topping to bottoming)",
+            "challenge": "how many people in this room have you had intercourse with? (ranging from topping to bottoming)",
             "punishment": "7 sips",
             "reward": null,
             "spice": 2
         },
         {
             "type": "truth",
-            "dare": "how many people in this room would you fuck if you were high at an orgy?",
+            "challenge": "how many people in this room would you fuck if you were high at an orgy?",
             "punishment": "1 shot",
             "reward": null,
             "spice": 5
         },
         {
             "type": "truth",
-            "dare": "how many people in this room would you honestly have intercourse with if they asked?",
+            "challenge": "how many people in this room would you honestly have intercourse with if they asked?",
             "punishment": "1 shot",
             "reward": null,
             "spice": 4
         },
         {
             "type": "truth",
-            "dare": "how many people in this room would you suck their dick if they asked?",
+            "challenge": "how many people in this room would you suck their dick if they asked?",
             "punishment": "1 shot",
             "reward": null,
             "spice": 3
         },
         {
             "type": "truth",
-            "dare": "how many people in this room would you kiss if they asked?",
+            "challenge": "how many people in this room would you kiss if they asked?",
             "punishment": "7 sips",
             "reward": null,
             "spice": 2
         },
         {
             "type": "truth",
-            "dare": "how many people in this room would you hug if they asked?",
+            "challenge": "how many people in this room would you hug if they asked?",
             "punishment": "7 sips",
             "reward": null,
             "spice": 1
         },
         {
             "type": "truth - Who'd you rather",
-            "dare": "Would you rather hug the person to your left or to your right",
+            "challenge": "Would you rather hug the person to your left or to your right",
             "punishment": "5 sips",
             "reward": null,
             "spice": 1
         },
         {
             "type": "truth - Who'd you rather",
-            "dare": "Would you rather kiss the person 2 to your left or 2 to your right",
+            "challenge": "Would you rather kiss the person 2 to your left or 2 to your right",
             "punishment": "8 sips",
             "reward": null,
             "spice": 2
         },
         {
             "type": "truth - Who'd you rather",
-            "dare": "Would you rather make out with the person 3 to your left or 3 to your right",
+            "challenge": "Would you rather make out with the person 3 to your left or 3 to your right",
             "punishment": "1/2 your drink",
             "reward": null,
             "spice": 2
         },
         {
             "type": "truth - Who'd you rather",
-            "dare": "Would you rather give head to the person one to your left or two to your right",
+            "challenge": "Would you rather give head to the person one to your left or two to your right",
             "punishment": "1/2 your drink",
             "reward": null,
             "spice": 3
         },
         {
             "type": "truth - Who'd you rather",
-            "dare": "Would you rather get head from the person two to your left or one to your right",
+            "challenge": "Would you rather get head from the person two to your left or one to your right",
             "punishment": "1/2 your drink",
             "reward": null,
             "spice": 3
         },
         {
             "type": "truth - Who'd you rather",
-            "dare": "Would you fuck the tallest person here or the shortest person here",
+            "challenge": "Would you fuck the tallest person here or the shortest person here",
             "punishment": "1/2 your drink",
             "reward": null,
             "spice": 4
         },
         {
             "type": "truth - Who'd you rather",
-            "dare": "Would you fuck the tallest person here or the second tallest person here",
+            "challenge": "Would you fuck the tallest person here or the second tallest person here",
             "punishment": "1/2 your drink",
             "reward": null,
             "spice": 4
         },
         {
             "type": "truth - Who'd you rather",
-            "dare": "Would you fuck the shortest person here or the second shortest person here",
+            "challenge": "Would you fuck the shortest person here or the second shortest person here",
             "punishment": "1/2 your drink",
             "reward": null,
             "spice": 4
         },
         {
             "type": "truth - Who'd you rather",
-            "dare": "Who here would you be most excited to go on a date with",
+            "challenge": "Who here would you be most excited to go on a date with",
             "punishment": "1 full drink",
             "reward": null,
             "spice": 4
         },
         {
             "type": "truth - Who'd you rather",
-            "dare": "Who here do you think would most want to kiss you",
+            "challenge": "Who here do you think would most want to kiss you",
             "punishment": "8 sips",
             "reward": null,
             "spice": 2
         },
         {
             "type": "truth - Who'd you rather",
-            "dare": "Who here do you think would most want to fuck you",
+            "challenge": "Who here do you think would most want to fuck you",
             "punishment": "12 sips",
             "reward": null,
             "spice": 3
         },
         {
             "type": "truth - Who'd you rather",
-            "dare": "Who here do you think would most want to date you",
+            "challenge": "Who here do you think would most want to date you",
             "punishment": "1 shot",
             "reward": null,
             "spice": 4
         },
         {
             "type": "truth - Who'd you rather",
-            "dare": "Who here do you think would least want to date you",
+            "challenge": "Who here do you think would least want to date you",
             "punishment": "10 sips",
             "reward": null,
             "spice": 3
         },
         {
             "type": "dare - Dirty Dawg",
-            "dare": "Let someone pantomime doggy on you until either of your next turns are fully completed",
+            "challenge": "Let someone pantomime doggy on you until either of your next turns are fully completed",
             "punishment": "Chug for 10 seconds",
             "reward": null,
             "spice": 5
         },
         {
             "type": "truth",
-            "dare": "Kiss, Fuck, Marry -- Choose one person in the room for each one",
+            "challenge": "Kiss, Fuck, Marry -- Choose one person in the room for each one",
             "punishment": "3 Sips",
             "reward": "Assign 2 sips to a fourth person",
             "spice": 3
         },
         {
             "type": "dare",
-            "dare": "Let the dogs out! Take off both socks and massage someone else's feet with yours",
+            "challenge": "Let the dogs out! Take off both socks and massage someone else's feet with yours",
             "punishment": "1/2 your drink",
             "reward": null,
             "spice": 3
         },
         {
             "type": "truth",
-            "dare": "We're all stranded on a desert island -- Who are you pairing off with?",
+            "challenge": "We're all stranded on a desert island -- Who are you pairing off with?",
             "punishment": "1 shot",
             "reward": null,
             "spice": 3
         },
         {
             "type": "truth",
-            "dare": "You just cheated on your partner! How would you cover it up or would you just come clean?",
+            "challenge": "You just cheated on your partner! How would you cover it up or would you just come clean?",
             "punishment": "3 sips",
             "reward": "If you have a partner present earn 1 chicken",
             "spice": 3
         },
         {
             "type": "dare",
-            "dare": "Let the dogs out! Take off someone else's sock with your teeth",
+            "challenge": "Let the dogs out! Take off someone else's sock with your teeth",
             "punishment": "1/2 your drink",
             "reward": null,
             "spice": 4
         },
         {
             "type": "dare",
-            "dare": "Moon the group",
+            "challenge": "Moon the group",
             "punishment": "1/2 your drink",
             "reward": "1 Chicken if you hold it for five seconds",
             "spice": 4
         },
         {
             "type": "dare",
-            "dare": "Send a dick pic to any person of your choice",
+            "challenge": "Send a dick pic to any person of your choice",
             "punishment": "1 shot",
             "reward": null,
             "spice": 5
         },
         {
             "type": "dare",
-            "dare": "Show someone in the room the most recent photo in your hidden album",
+            "challenge": "Show someone in the room the most recent photo in your hidden album",
             "punishment": "1 shot",
             "reward": "",
             "spice": 4
         },
         {
             "type": "dare",
-            "dare": "Show someone in the room your full grindr album",
+            "challenge": "Show someone in the room your full grindr album",
             "punishment": "1 shot",
             "reward": "If they would tap it, 1 free chicken",
             "spice": 5
         },
         {
             "type": "dare",
-            "dare": "Let the dogs out! Keep your socks off and sensually stroke someone with one foot",
+            "challenge": "Let the dogs out! Keep your socks off and sensually stroke someone with one foot",
             "punishment": "Chug your full drink",
             "reward": "1 chicken if they refuse",
             "spice": 5
         },
         {
             "type": "dare - 7 Seconds in Heaven",
-            "dare": "Go to the kitchen for seven seconds",
+            "challenge": "Go to the kitchen for seven seconds",
             "punishment": "3 sips",
             "reward": "",
             "spice": 1
         },
         {
             "type": "dare - 7 Seconds in Heaven",
-            "dare": "Take someone out in the hall for seven seconds",
+            "challenge": "Take someone out in the hall for seven seconds",
             "punishment": "31 sips",
             "reward": "",
             "spice": 2
         },
         {
             "type": "dare - 7 Seconds in Heaven",
-            "dare": "Go to the bedroom with someone for seventeen seconds",
+            "challenge": "Go to the bedroom with someone for seventeen seconds",
             "punishment": "1/2 your drink",
             "reward": "",
             "spice": 3
         },
         {
             "type": "dare - 7 Seconds in Heaven",
-            "dare": "Go to the bathroom with someone for 70 seconds",
+            "challenge": "Go to the bathroom with someone for 70 seconds",
             "punishment": "3 sips",
             "reward": "Chicken if they refuse",
             "spice": 4
         },
         {
             "type": "dare - 7 Seconds in Heaven",
-            "dare": "Kiss someone for 7 seconds",
+            "challenge": "Kiss someone for 7 seconds",
             "punishment": "2 shots",
             "reward": "Chicken",
             "spice": 5
         },
         {
             "type": "dare",
-            "dare": "Kiss someone on the cheek",
+            "challenge": "Kiss someone on the cheek",
             "punishment": "1/3 your drink",
             "reward": "",
             "spice": 3
         },
         {
             "type": "dare",
-            "dare": "Kiss someone on the forhead",
+            "challenge": "Kiss someone on the forhead",
             "punishment": "1/4 your drink",
             "reward": "",
             "spice": 2
         },
         {
             "type": "dare",
-            "dare": "Kiss someone on the neck",
+            "challenge": "Kiss someone on the neck",
             "punishment": "1/4 your drink",
             "reward": "",
             "spice": 3
         },
         {
             "type": "dare",
-            "dare": "Kiss someone on their clothed crotch",
+            "challenge": "Kiss someone on their clothed crotch",
             "punishment": "2/3 your drink",
             "reward": "Chicken for both of you",
             "spice": 4
         },
         {
             "type": "dare",
-            "dare": "Kiss someone on their armpit",
+            "challenge": "Kiss someone on their armpit",
             "punishment": "The rest of your drink",
             "reward": "",
             "spice": 4
         },
         {
             "type": "dare",
-            "dare": "Kiss someone with tongue",
+            "challenge": "Kiss someone with tongue",
             "punishment": "The rest of your drink",
             "reward": "Chicken for them",
             "spice": 5
         },
         {
             "type": "dare",
-            "dare": "Show us your kissing skills on your own hand",
+            "challenge": "Show us your kissing skills on your own hand",
             "punishment": "The rest of your drink",
             "reward": "",
             "spice": 3
         },
         {
             "type": "dare",
-            "dare": "Show us your kissing skills on someone's shoulder",
+            "challenge": "Show us your kissing skills on someone's shoulder",
             "punishment": "The rest of your drink",
             "reward": "",
             "spice": 4
         },
         {
             "type": "dare - Spin the poppers!",
-            "dare": "Spin the poppers! Whoever it lands on you have to kiss on the cheek",
+            "challenge": "Spin the poppers! Whoever it lands on you have to kiss on the cheek",
             "punishment": ".5 shot",
             "reward": "",
             "spice": 4
         },
         {
             "type": "dare - Spin the poppers!",
-            "dare": "Spin the poppers! Whoever it lands on you have to slap",
+            "challenge": "Spin the poppers! Whoever it lands on you have to slap",
             "punishment": ".5 shot",
             "reward": "",
             "spice": 3
         },
         {
             "type": "dare - Spin the poppers!",
-            "dare": "Spin the poppers! Whoever it lands on you have to kiss",
+            "challenge": "Spin the poppers! Whoever it lands on you have to kiss",
             "punishment": ".5 shot",
             "reward": "",
             "spice": 5
         },
         {
             "type": "dare - Spin the poppers!",
-            "dare": "Spin the poppers! Whoever it lands on you have to kiss on their lower back",
+            "challenge": "Spin the poppers! Whoever it lands on you have to kiss on their lower back",
             "punishment": ".5 shot",
             "reward": "",
             "spice": 3
         },
         {
             "type": "dare - Spin the poppers!",
-            "dare": "Spin the poppers! Whoever it lands on you have to high five",
+            "challenge": "Spin the poppers! Whoever it lands on you have to high five",
             "punishment": ".5 shot",
             "reward": "",
             "spice": 1
         },
         {
             "type": "dare",
-            "dare": "Gently caress someones cheek and tell them they're special",
+            "challenge": "Gently caress someones cheek and tell them they're special",
             "punishment": "6 sips",
+            "reward": "",
+            "spice": 3
+        },
+        {
+            "type": "dare",
+            "challenge": "Moon out the window",
+            "punishment": "8 sips",
             "reward": "",
             "spice": 3
         }
