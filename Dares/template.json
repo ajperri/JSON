@@ -97,6 +97,20 @@
             "punishment": "",
             "reward": null,
             "spice": 1
+        },
+        {
+            "type": "Pointing Fingers",
+            "challenge":"",
+            "punishment": "4 sips",
+            "reward": null,
+            "spice": 1
+        },
+        {
+            "type": "Put them up",
+            "challenge":"",
+            "punishment": "4 sips",
+            "reward": null,
+            "spice": 1
         }
     ]
 }
