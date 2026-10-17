@@ -3487,6 +3487,41 @@
         },
         {
             "type": "truth - Would You Rather",
+            "challenge":"Would you rather top or bottom for the person to your left",
+            "punishment": "1 shot",
+            "reward": null,
+            "spice": 3
+        },
+        {
+            "type": "truth - Would You Rather",
+            "challenge":"Would you rather top or bottom for the person to your right",
+            "punishment": "1 shot",
+            "reward": null,
+            "spice": 3
+        },
+        {
+            "type": "truth - Would You Rather",
+            "challenge":"Would you rather fuck the person on your left or right",
+            "punishment": "1 shot",
+            "reward": null,
+            "spice": 4
+        },
+        {
+            "type": "truth - Would You Rather",
+            "challenge":"Would you rather have a threesome with the two people to your right or your left",
+            "punishment": "1 shot",
+            "reward": null,
+            "spice": 3
+        },
+        {
+            "type": "truth - Would You Rather",
+            "challenge":"Would you rather have a threesome with your crush and your ex or not be able to fuck your crush ever",
+            "punishment": "1 shot",
+            "reward": null,
+            "spice": 3
+        },
+        {
+            "type": "truth - Would You Rather",
             "challenge":"Would you rather lick an unwashed bear's butt or a subway pole",
             "punishment": "5 sips",
             "reward": null,
