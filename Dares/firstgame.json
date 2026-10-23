@@ -4913,6 +4913,13 @@
             "punishment": "3 sips",
             "reward": "",
             "spice": 1
+        },
+        {
+            "type": "Truth",
+            "challenge": "Post an underwear shot to your Close Friend story",
+            "punishment": "1 shot",
+            "reward": "",
+            "spice": 6
         }
     ]
 }
