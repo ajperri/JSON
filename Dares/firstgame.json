@@ -2682,6 +2682,90 @@
             "spice": 3
         },
         {
+            "type": "Dare - Recess Games",
+            "challenge": "Twister! Last one to put their left foot on something white drinks",
+            "punishment": "4 sips",
+            "reward": null,
+            "spice": 2
+        },
+        {
+            "type": "Dare - Recess Games",
+            "challenge": "Twister! Last one to put their right foot on something black drinks",
+            "punishment": "4 sips",
+            "reward": null,
+            "spice": 2
+        },
+        {
+            "type": "Dare - Recess Games",
+            "challenge": "Twister! Last one to put their right hand on something grey drinks",
+            "punishment": "8 sips",
+            "reward": null,
+            "spice": 3
+        },
+        {
+            "type": "Dare - Recess Games",
+            "challenge": "Twister! Last one to put their left hand on something blue drinks",
+            "punishment": "8 sips",
+            "reward": null,
+            "spice": 3
+        },
+        {
+            "type": "Dare - Recess Games",
+            "challenge": "Twister! Last one to put their left hand on someone else's right hand loses",
+            "punishment": "8 sips",
+            "reward": null,
+            "spice": 4
+        },
+        {
+            "type": "Dare - Recess Games",
+            "challenge": "Twister! Last one to put their left hand on their own crotch loses",
+            "punishment": "8 sips",
+            "reward": null,
+            "spice": 5
+        },
+        {
+            "type": "Dare - Recess Games",
+            "challenge": "Twister! Last one to put their right hand on their neighbors crotch loses (1 per crotch)",
+            "punishment": "10 sips",
+            "reward": null,
+            "spice": 6
+        },
+        {
+            "type": "Dare - Recess Games",
+            "challenge": "Red Rover! On three everyone put a hand up or down. If the teams are not the same size the smaller team picks a player on the larger team to join them until the teams are even. Chosen players drink",
+            "punishment": "2 sips",
+            "reward": null,
+            "spice": 2
+        },
+        {
+            "type": "Dare - Recess Games",
+            "challenge": "Red Rover! On three everyone put a hand up or down. If the teams are not the same size the smaller team picks a player on the larger team to join them until the teams are even. Chosen players drink",
+            "punishment": "5 sips",
+            "reward": null,
+            "spice": 4
+        },
+        {
+            "type": "Dare - Recess Games",
+            "challenge": "Red Rover! On three everyone put a hand up or down. If the teams are not the same size the smaller team picks a player on the larger team to join them until the teams are even. Chosen players take something off",
+            "punishment": "1 shot",
+            "reward": null,
+            "spice": 5
+        },
+        {
+            "type": "Dare - Recess Games",
+            "challenge": "Red Rover! On three everyone put a hand up or down. If the teams are not the same size the smaller team picks a player on the larger team to join them until the teams are even. Chosen players take two things off",
+            "punishment": "1 shot",
+            "reward": null,
+            "spice": 6
+        },
+        {
+            "type": "Dare - Recess Games",
+            "challenge": "Twister! First ones to put their mouths on each other get to give out a shot",
+            "punishment": "1 shot",
+            "reward": null,
+            "spice": 6
+        },
+        {
             "type": "Dare",
             "challenge": "Show us how you'd pick up the person next to you if we were at a club",
             "punishment": "6 sips",
@@ -6859,6 +6943,6 @@
             "punishment": "1 shots",
             "reward": null,
             "spice": 6
-        }
+        },
     ]
 }
