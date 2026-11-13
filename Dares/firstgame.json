@@ -3879,11 +3879,60 @@
             "spice": 4
         },
         {
-            "type": "Cock Grab!",
-            "challenge": "Give us your best seductive strip tease to 'Cotton Eye Joe'. Anyone you make laugh loses a chicken.",
+            "type": "Strip Club Chub!",
+            "challenge": "Give us your best seductive stripper dance to this song for at least 20 seconds. If anyone laughs they lose a chicken or finish their drink",
             "punishment": "1 shot",
             "reward": "All the stolen chickens (up to 3)",
-            "spice": 4
+            "spice": 4,
+            "media": "https://www.youtube.com/embed/ymQ8r0B7MCI?si=wtxwgp3-Ea00E71r"
+        },
+        {
+            "type": "Strip Club Chub!",
+            "challenge": "Give us your best seductive stripper dance to this song for at least 20 seconds. If anyone laughs they lose a chicken or finish their drink",
+            "punishment": "1 shot",
+            "reward": "All the stolen chickens (up to 3)",
+            "spice": 4,
+            "media": "https://www.youtube.com/embed/dQw4w9WgXcQ?si=a82LKmKzoqyPErgR"
+        },
+        {
+            "type": "Strip Club Chub!",
+            "challenge": "Give us your best seductive stripper dance to this song for at least 20 seconds. If anyone laughs they lose a chicken or finish their drink",
+            "punishment": "1 shot",
+            "reward": "All the stolen chickens (up to 3)",
+            "spice": 5,
+            "media": "https://www.youtube.com/embed/KybAvaM3b90?si=Y-geOrP3zwxha5AR"
+        },
+        {
+            "type": "Strip Club Chub!",
+            "challenge": "Give us your best seductive strip tease to this song for at least 10 seconds. If anyone laughs they lose a chicken or finish their drink",
+            "punishment": "1 shot",
+            "reward": "All the stolen chickens (up to 3)",
+            "spice": 3,
+            "media": "https://www.youtube.com/embed/dLHCS6oL7lo?si=x4nLEYgFCnsBEf8A"
+        },
+        {
+            "type": "Strip Club Chub!",
+            "challenge": "Give us your best seductive strip tease to this cupcakke remix for at least 30 seconds. If anyone laughs they lose a chicken or finish their drink",
+            "punishment": "1 shot",
+            "reward": "All the stolen chickens (up to 3)",
+            "spice": 6,
+            "media": "https://www.youtube.com/embed/GJK6sWacmLQ?si=CMtp_Tbxc9tBDrH8&amp;start=61"
+        },
+        {
+            "type": "Strip Club Chub!",
+            "challenge": "Give us your best seductive strip tease to this cupcakke remix for at least 30 seconds. If anyone laughs they lose a chicken or finish their drink",
+            "punishment": "1 shot",
+            "reward": "All the stolen chickens (up to 3)",
+            "spice": 5,
+            "media": "https://www.youtube.com/embed/WHM48H7wg90?si=Ucs9LBki7abEkGvZ"
+        },
+        {
+            "type": "Strip Club Chub!",
+            "challenge": "Give us your best seductive strip tease to this cupcakke remix for at least 30 seconds. If anyone laughs they lose a chicken or finish their drink",
+            "punishment": "1 shot",
+            "reward": "All the stolen chickens (up to 3)",
+            "spice": 4,
+            "media": "https://www.youtube.com/embed/kSX967AqEJk?si=-mBMzWXszJb2vvIX&amp;start=16"
         },
         {
             "type": "Cock Grab!",
@@ -5273,10 +5322,31 @@
         },
         {
             "type": "Dare - Recess Games",
-            "challenge": "Tag you're it! Tag someone else who hasn't been tagged. Last person to get the tag has to drink a shot",
+            "challenge": "Tag you're it! Tag someone else who hasn't been tagged. Last person to get the tag has to take something off",
             "punishment": "1 shot",
             "reward": null,
-            "spice": 4
+            "spice": 5
+        },
+        {
+            "type": "Dare - Recess Games",
+            "challenge": "Tag! Pass the tag around using your right hand, but you have to tag them on a body part no one has used yet. First one to repeat has to drink",
+            "punishment": "1 shot",
+            "reward": null,
+            "spice": 5
+        },
+        {
+            "type": "Dare - Recess Games",
+            "challenge": "Tag! Pass the tag around using your left hand, but you have to tag them on a body part no one has used yet. First one to repeat has to strip",
+            "punishment": "1 shot",
+            "reward": null,
+            "spice": 6
+        },
+        {
+            "type": "Dare - Recess Games",
+            "challenge": "Tag! Pass the tag around using your left hand, but you have to tag them on a body part no one has used yet. First one to repeat has to strip",
+            "punishment": "1 shot",
+            "reward": null,
+            "spice": 6
         },
         {
             "type": "Dare - Recess Games",
@@ -6943,6 +7013,6 @@
             "punishment": "1 shots",
             "reward": null,
             "spice": 6
-        },
+        }
     ]
 }
