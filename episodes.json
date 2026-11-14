@@ -4,14 +4,14 @@
             "name": "Gayme Night: Vol. 1",
             "json": "gaymenightvol1",
             "series": "Gayme Night",
-            "gay": true, 
+            "rating": "XXX", 
             "date": "11/21/2026"
         },
         {
             "name": "Gayme Night: Vol. 2",
             "json": "gaymenightvol2",
             "series": "Gayme Night",
-            "gay": true, 
+            "rating": "XXXXX", 
             "date": "11/22/2026"
         }
     ]
