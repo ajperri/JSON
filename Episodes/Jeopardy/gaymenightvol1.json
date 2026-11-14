@@ -1,6 +1,7 @@
 {
     "options": {
-        "shuffle": true
+        "shuffle": true,
+        "othe": false
     },
     "round_one": [
         {
