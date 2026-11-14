@@ -1,0 +1,61 @@
+{
+    "options": {
+        "shuffle": true
+    },
+    "round_one": [
+        {
+            "category_name": "",
+            "questions": [
+                {
+                    "question": "",
+                    "answer": ""
+                },
+                {
+                    "question": "",
+                    "answer": ""
+                },
+                {
+                    "question": "",
+                    "answer": ""
+                },
+                {
+                    "question": "",
+                    "answer": ""
+                },
+                {
+                    "question": "",
+                    "answer": ""
+                }
+            ]
+        }
+    ],
+    "round_two": [
+        {
+            "category_name": "",
+            "questions": [
+                {
+                    "question": "",
+                    "answer": ""
+                },
+                {
+                    "question": "",
+                    "answer": ""
+                },
+                {
+                    "question": "",
+                    "answer": ""
+                },
+                {
+                    "question": "",
+                    "answer": ""
+                },
+                {
+                    "question": "",
+                    "answer": ""
+                }
+            ]
+        }
+    ],
+    "final_jeopardy_question": "",
+    "final_jeopardy_answer": ""
+}

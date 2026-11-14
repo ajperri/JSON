@@ -1191,5 +1191,29 @@
         "rating": 5,
         "rating_type": "dirty",
         "tags": []
+    },
+    {
+        "id": 99,
+        "name": "Thanks-gay-ving",
+        "json_name": "carnivalenights",
+        "date_created": "10-9-2026",
+        "color": "orange",
+        "type": "jeopardy",
+        "status": "G",
+        "rating": 5,
+        "rating_type": "dirty",
+        "tags": []
+    },
+    {
+        "id": 100,
+        "name": "Volleyball Brunch",
+        "json_name": "volleyballbrunch",
+        "date_created": "10-16-2026",
+        "color": "green",
+        "type": "jeopardy",
+        "status": "G",
+        "rating": 5,
+        "rating_type": "dirty",
+        "tags": []
     }
 ]
