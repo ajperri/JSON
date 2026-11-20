@@ -799,6 +799,13 @@
             "spice": 1
         },
         {
+            "type": "7 Seconds in Heaven",
+            "challenge": "Go to the bathroom with someone for 70 seconds, and do whatever you want.",
+            "punishment": "3 sips",
+            "reward": "",
+            "spice": 1
+        },
+        {
             "type": "truth - Dirty Dawg",
             "challenge": "If you were someone's pup (for pup play) what would your name be?",
             "punishment": "2 sips",
@@ -3881,6 +3888,20 @@
             "spice": 3
         },
         {
+            "type": "New Rule!",
+            "challenge": "You choose a rule everyone has to follow until their own next turn. Anyone who fails finishes their drink",
+            "punishment": "Finish their drink",
+            "reward": "",
+            "spice": 3
+        },
+        {
+            "type": "New Rule!",
+            "challenge": "The group chooses a rule you have to follow until your next turn",
+            "punishment": "9 sips",
+            "reward": "",
+            "spice": 3
+        },
+        {
             "type": "Have I Ever?",
             "challenge": "Name the weirdest thing you've put in your bum",
             "punishment": "6 sips",
@@ -5683,6 +5704,55 @@
             "spice": 4
         },
         {
+            "type": "Fingers Up!",
+            "challenge": "On the count of 3 everyone holds up a number between 1 and 5. Anyone who matches the drawer of this card has to give them a peck kiss.",
+            "punishment": "1 shot",
+            "reward": "",
+            "spice": 4
+        },
+        {
+            "type": "New Rule!",
+            "challenge": "You choose a rule everyone has to follow until their own next turn. Anyone who fails finishes their drink",
+            "punishment": "Finish their drink",
+            "reward": "",
+            "spice": 4
+        },
+        {
+            "type": "New Rule!",
+            "challenge": "You choose a rule everyone has to follow until their own next turn. Anyone who fails finishes their drink",
+            "punishment": "Finish their drink",
+            "reward": "",
+            "spice": 4
+        },
+        {
+            "type": "New Rule!",
+            "challenge": "The group chooses a rule you have to follow until your next turn",
+            "punishment": "12 sips",
+            "reward": "",
+            "spice": 4
+        },
+        {
+            "type": "New Rule!",
+            "challenge": "For the rest of the game anytime someone kisses someone everyone else has to moah. Last one to do it drinks a penalty or takes something off.",
+            "punishment": "4 second chug",
+            "reward": "",
+            "spice": 4
+        },
+        {
+            "type": "Shotgun!",
+            "challenge": "Shotgun a seltzer like you're a frat bro and then tell us about how much puss you crush.",
+            "punishment": "1 full selzter",
+            "reward": "",
+            "spice": 4
+        },
+        {
+            "type": "Dare",
+            "challenge": "Kiss someone, they choose where",
+            "punishment": "1 shot",
+            "reward": "",
+            "spice": 4
+        },
+        {
             "type": "Take it Off!",
             "challenge": "Take off something you are wearing",
             "punishment": "1 shot",
@@ -6214,13 +6284,6 @@
             "punishment": "3 sips",
             "reward": "Chicken if you both come back without shirts",
             "spice": 5
-        },
-        {
-            "type": "7 Seconds in Heaven",
-            "challenge": "Go to the bathroom with someone for 70 seconds.",
-            "punishment": "3 sips",
-            "reward": "Chicken if you both come back without pants on",
-            "spice": 6
         },
         {
             "type": "7 Seconds in Heaven",
@@ -6930,6 +6993,69 @@
             "spice": 5
         },
         {
+            "type": "Fingers Up!",
+            "challenge": "On the count of 3 everyone holds up a number between 1 and 5. Anyone who matches the drawer of this card has to take off something.",
+            "punishment": "1 shot",
+            "reward": "",
+            "spice": 5
+        },
+        {
+            "type": "Fingers Up!",
+            "challenge": "On the count of 3 everyone holds up a number between 1 and 10. Anyone who matches the drawer of this card has to kiss them.",
+            "punishment": "1 shot",
+            "reward": "",
+            "spice": 5
+        },
+        {
+            "type": "New Rule!",
+            "challenge": "You choose a rule everyone has to follow until their own next turn. Anyone who fails loses a piece of clothing",
+            "punishment": "Finish their drink",
+            "reward": "",
+            "spice": 5
+        },
+        {
+            "type": "New Rule!",
+            "challenge": "The group chooses a rule you have to follow until your next turn",
+            "punishment": "Finish your drink",
+            "reward": "",
+            "spice": 5
+        },
+        {
+            "type": "New Rule!",
+            "challenge": "For the rest of the game anytime someone strips you have to touch your own crotch. Last one to do it drinks a penalty.",
+            "punishment": "8 sips",
+            "reward": "",
+            "spice": 5
+        },
+        {
+            "type": "Devil's Bargain",
+            "challenge": "If you show someone your dick n balls in the bathroom, you get to pass any of your own strip dares on to them for the rest of the game",
+            "punishment": "1 shots",
+            "reward": "",
+            "spice": 5
+        },
+        {
+            "type": "Dare - Escalating Exposure",
+            "challenge": "Uh oh! You've been cursed, every time it's your turn you have to start your turn by taking something off or doing a shot",
+            "punishment": "1 shots",
+            "reward": "",
+            "spice": 5
+        },
+        {
+            "type": "Dare",
+            "challenge": "Free Dare! You get to dare someone in the room to do anything or they drink",
+            "punishment": "1 shot",
+            "reward": "",
+            "spice": 5
+        },
+        {
+            "type": "7 Seconds in Heaven",
+            "challenge": "Go to the bathroom with someone for 70 seconds.",
+            "punishment": "3 sips",
+            "reward": "Chicken if you both come back without pants on",
+            "spice": 6
+        },
+        {
             "type": "Dare",
             "challenge": "Take off 3 pieces of clothing",
             "punishment": "1 shot",
@@ -6987,20 +7113,6 @@
         },
         {
             "type": "Fingers Up!",
-            "challenge": "On the count of 3 everyone holds up a number between 1 and 5. Anyone who matches the drawer of this card has to take off something.",
-            "punishment": "1 shot",
-            "reward": "",
-            "spice": 5
-        },
-        {
-            "type": "Fingers Up!",
-            "challenge": "On the count of 3 everyone holds up a number between 1 and 10. Anyone who matches the drawer of this card has to kiss them.",
-            "punishment": "1 shot",
-            "reward": "",
-            "spice": 5
-        },
-        {
-            "type": "Fingers Up!",
             "challenge": "On the count of 3 everyone holds up a number between 1 and 10. Anyone who matches the drawer of this card gets to personally take something off of them.",
             "punishment": "1 shot",
             "reward": "",
@@ -7012,62 +7124,6 @@
             "punishment": "1 shot",
             "reward": "",
             "spice": 6
-        },
-        {
-            "type": "Fingers Up!",
-            "challenge": "On the count of 3 everyone holds up a number between 1 and 5. Anyone who matches the drawer of this card has to give them a peck kiss.",
-            "punishment": "1 shot",
-            "reward": "",
-            "spice": 4
-        },
-        {
-            "type": "New Rule!",
-            "challenge": "You choose a rule everyone has to follow until their own next turn. Anyone who fails finishes their drink",
-            "punishment": "Finish their drink",
-            "reward": "",
-            "spice": 4
-        },
-        {
-            "type": "New Rule!",
-            "challenge": "You choose a rule everyone has to follow until their own next turn. Anyone who fails finishes their drink",
-            "punishment": "Finish their drink",
-            "reward": "",
-            "spice": 3
-        },
-        {
-            "type": "New Rule!",
-            "challenge": "You choose a rule everyone has to follow until their own next turn. Anyone who fails finishes their drink",
-            "punishment": "Finish their drink",
-            "reward": "",
-            "spice": 4
-        },
-        {
-            "type": "New Rule!",
-            "challenge": "You choose a rule everyone has to follow until their own next turn. Anyone who fails loses a piece of clothing",
-            "punishment": "Finish their drink",
-            "reward": "",
-            "spice": 5
-        },
-        {
-            "type": "New Rule!",
-            "challenge": "The group chooses a rule you have to follow until your next turn",
-            "punishment": "9 sips",
-            "reward": "",
-            "spice": 3
-        },
-        {
-            "type": "New Rule!",
-            "challenge": "The group chooses a rule you have to follow until your next turn",
-            "punishment": "12 sips",
-            "reward": "",
-            "spice": 4
-        },
-        {
-            "type": "New Rule!",
-            "challenge": "The group chooses a rule you have to follow until your next turn",
-            "punishment": "Finish your drink",
-            "reward": "",
-            "spice": 5
         },
         {
             "type": "New Rule!",
@@ -7085,31 +7141,10 @@
         },
         {
             "type": "New Rule!",
-            "challenge": "For the rest of the game anytime someone strips you have to touch your own crotch. Last one to do it drinks a penalty.",
-            "punishment": "8 sips",
-            "reward": "",
-            "spice": 5
-        },
-        {
-            "type": "New Rule!",
-            "challenge": "For the rest of the game anytime someone kisses someone everyone else has to moah. Last one to do it drinks a penalty or takes something off.",
-            "punishment": "4 second chug",
-            "reward": "",
-            "spice": 4
-        },
-        {
-            "type": "New Rule!",
             "challenge": "For the rest of the game anytime someone kisses someone everyone else has to moah. Last one to do it drinks a penalty  or takes something off.",
             "punishment": "1 shot",
             "reward": "",
             "spice": 6
-        },
-        {
-            "type": "Shotgun!",
-            "challenge": "Shotgun a seltzer like you're a frat bro and then tell us about how much puss you crush.",
-            "punishment": "1 full selzter",
-            "reward": "",
-            "spice": 4
         },
         {
             "type": "Dare",
@@ -7127,13 +7162,6 @@
         },
         {
             "type": "Devil's Bargain",
-            "challenge": "If you show someone your dick n balls in the bathroom, you get to pass any of your own strip dares on to them for the rest of the game",
-            "punishment": "1 shots",
-            "reward": "",
-            "spice": 5
-        },
-        {
-            "type": "Devil's Bargain",
             "challenge": "If you get naked in front of everyone for ten seconds, for three rounds you are immune to all strip punishments and you now get to double them and give it to someone else",
             "punishment": "1 shots",
             "reward": "",
@@ -7145,13 +7173,6 @@
             "punishment": "1 shots",
             "reward": "",
             "spice": 6
-        },
-        {
-            "type": "Dare - Escalating Exposure",
-            "challenge": "Uh oh! You've been cursed, every time it's your turn you have to start your turn by taking something off or doing a shot",
-            "punishment": "1 shots",
-            "reward": "",
-            "spice": 5
         },
         {
             "type": "Dare - Escalating Exposure",
@@ -8028,27 +8049,6 @@
             "punishment": "1 shot",
             "reward": "",
             "spice": 6
-        },
-        {
-            "type": "Dare",
-            "challenge": "Kiss someone, they choose where",
-            "punishment": "1 shot",
-            "reward": "",
-            "spice": 4
-        },
-        {
-            "type": "Dare",
-            "challenge": "Free Dare! You get to dare someone in the room to do anything or they drink",
-            "punishment": "1 shot",
-            "reward": "",
-            "spice": 5
-        },
-        {
-            "type": "7 Seconds in Heaven",
-            "challenge": "Go to the bathroom with someone for 70 seconds, and do whatever you want.",
-            "punishment": "3 sips",
-            "reward": "",
-            "spice": 1
         },
         {
             "type": "Dare",
