@@ -6986,6 +6986,132 @@
             "spice": 6
         },
         {
+            "type": "Fingers Up!",
+            "challenge": "On the count of 3 everyone holds up a number between 1 and 5. Anyone who matches the drawer of this card has to take off something.",
+            "punishment": "1 shot",
+            "reward": "",
+            "spice": 5
+        },
+        {
+            "type": "Fingers Up!",
+            "challenge": "On the count of 3 everyone holds up a number between 1 and 10. Anyone who matches the drawer of this card has to kiss them.",
+            "punishment": "1 shot",
+            "reward": "",
+            "spice": 5
+        },
+        {
+            "type": "Fingers Up!",
+            "challenge": "On the count of 3 everyone holds up a number between 1 and 10. Anyone who matches the drawer of this card gets to personally take something off of them.",
+            "punishment": "1 shot",
+            "reward": "",
+            "spice": 6
+        },
+        {
+            "type": "Fingers Up!",
+            "challenge": "On the count of 3 everyone holds up a number between 1 and 10. Anyone who matches the drawer of this card gets to personally take something off of them.",
+            "punishment": "1 shot",
+            "reward": "",
+            "spice": 6
+        },
+        {
+            "type": "Fingers Up!",
+            "challenge": "On the count of 3 everyone holds up a number between 1 and 5. Anyone who matches the drawer of this card has to give them a peck kiss.",
+            "punishment": "1 shot",
+            "reward": "",
+            "spice": 4
+        },
+        {
+            "type": "New Rule!",
+            "challenge": "You choose a rule everyone has to follow until their own next turn. Anyone who fails finishes their drink",
+            "punishment": "Finish their drink",
+            "reward": "",
+            "spice": 4
+        },
+        {
+            "type": "New Rule!",
+            "challenge": "You choose a rule everyone has to follow until their own next turn. Anyone who fails finishes their drink",
+            "punishment": "Finish their drink",
+            "reward": "",
+            "spice": 3
+        },
+        {
+            "type": "New Rule!",
+            "challenge": "You choose a rule everyone has to follow until their own next turn. Anyone who fails finishes their drink",
+            "punishment": "Finish their drink",
+            "reward": "",
+            "spice": 4
+        },
+        {
+            "type": "New Rule!",
+            "challenge": "You choose a rule everyone has to follow until their own next turn. Anyone who fails loses a piece of clothing",
+            "punishment": "Finish their drink",
+            "reward": "",
+            "spice": 5
+        },
+        {
+            "type": "New Rule!",
+            "challenge": "The group chooses a rule you have to follow until your next turn",
+            "punishment": "9 sips",
+            "reward": "",
+            "spice": 3
+        },
+        {
+            "type": "New Rule!",
+            "challenge": "The group chooses a rule you have to follow until your next turn",
+            "punishment": "12 sips",
+            "reward": "",
+            "spice": 4
+        },
+        {
+            "type": "New Rule!",
+            "challenge": "The group chooses a rule you have to follow until your next turn",
+            "punishment": "Finish your drink",
+            "reward": "",
+            "spice": 5
+        },
+        {
+            "type": "New Rule!",
+            "challenge": "The group chooses a rule you have to follow until your next turn, every failure you strip",
+            "punishment": "1 shot",
+            "reward": "",
+            "spice": 6
+        },
+        {
+            "type": "New Rule!",
+            "challenge": "You choose a rule everyone has to follow until their own next turn. Anyone who fails does a shot out of your belly button",
+            "punishment": "1 shot",
+            "reward": "",
+            "spice": 6
+        },
+        {
+            "type": "New Rule!",
+            "challenge": "For the rest of the game anytime someone strips you have to touch your own crotch. Last one to do it drinks a penalty.",
+            "punishment": "8 sips",
+            "reward": "",
+            "spice": 5
+        },
+        {
+            "type": "New Rule!",
+            "challenge": "For the rest of the game anytime someone kisses someone everyone else has to moah. Last one to do it drinks a penalty or takes something off.",
+            "punishment": "4 second chug",
+            "reward": "",
+            "spice": 4
+        },
+        {
+            "type": "New Rule!",
+            "challenge": "For the rest of the game anytime someone kisses someone everyone else has to moah. Last one to do it drinks a penalty  or takes something off.",
+            "punishment": "1 shot",
+            "reward": "",
+            "spice": 6
+        },
+        {
+            "type": "Shotgun!",
+            "challenge": "Shotgun a seltzer like you're a frat bro and then tell us about how much puss you crush.",
+            "punishment": "1 full selzter",
+            "reward": "",
+            "spice": 4
+        },
+        {
             "type": "Guess Who!",
             "challenge": "Pick someone to be your opponent. They'll think of someone in the room, then you get three questions to narrow it down. If you guess right they take something off if you're wrong you take everything off but your underwear.",
             "punishment": "1 shot",
