@@ -7112,6 +7112,62 @@
             "spice": 4
         },
         {
+            "type": "Dare",
+            "challenge": "Choose someone and kiss their tip",
+            "punishment": "2 shots",
+            "reward": "Full chickens to you both",
+            "spice": 6
+        },
+        {
+            "type": "All Play",
+            "challenge": "Quick it's an orgy! Kiss someone asap, last person to kiss someone has to get in their underwear. If they're already in their underwear they have to get and stay naked the rest of the game",
+            "punishment": "2 shots",
+            "reward": "",
+            "spice": 6
+        },
+        {
+            "type": "Devil's Bargain",
+            "challenge": "If you show someone your dick n balls in the bathroom, you get to pass any of your own strip dares on to them for the rest of the game",
+            "punishment": "1 shots",
+            "reward": "",
+            "spice": 5
+        },
+        {
+            "type": "Devil's Bargain",
+            "challenge": "If you get naked in front of everyone for ten seconds, for three rounds you are immune to all strip punishments and you now get to double them and give it to someone else",
+            "punishment": "1 shots",
+            "reward": "",
+            "spice": 6
+        },
+        {
+            "type": "Dare",
+            "challenge": "Go get naked in the bathroom and come out wearing nothing but a towel/blanket like you're at a sauna. If you remain like this you get to deflect and strip punishments that come your way to others",
+            "punishment": "1 shots",
+            "reward": "",
+            "spice": 6
+        },
+        {
+            "type": "Dare",
+            "challenge": "Choose someone and take them to the bathroom to compare dick sizes.",
+            "punishment": "1 shot",
+            "reward": "1 Chicken each",
+            "spice": 6
+        },
+        {
+            "type": "Challenge",
+            "challenge": "At some point between now and your next turn sneak the tip of your penis out. For every turn that goes by without you getting noticed you earn both a chicken and a strip penalty to give out upon your next turn.",
+            "punishment": "2 shots",
+            "reward": "1 Chicken",
+            "spice": 6
+        },
+        {
+            "type": "Challenge",
+            "challenge": "Flash us.",
+            "punishment": "2 shots",
+            "reward": "3 Chickens",
+            "spice": 6
+        },
+        {
             "type": "Guess Who!",
             "challenge": "Pick someone to be your opponent. They'll think of someone in the room, then you get three questions to narrow it down. If you guess right they take something off if you're wrong you take everything off but your underwear.",
             "punishment": "1 shot",
