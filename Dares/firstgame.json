@@ -1261,7 +1261,7 @@
             "spice": 2
         },
         {
-            "type": "Devils Bargain",
+            "type": "Devil's Bargain",
             "challenge": "For every player you kiss on the cheek give out a sip",
             "punishment": "1 shot",
             "reward": "",
@@ -2081,7 +2081,7 @@
         },
         {
             "type": "dare - Take it Off!",
-            "challenge": "Remove any article of clothing or accessory of your choice",
+            "challenge": "Take off any article of clothing or accessory of your choice",
             "punishment": "1 shots",
             "reward": "",
             "spice": 3
@@ -2570,7 +2570,7 @@
             "spice": 3
         },
         {
-            "type": "Devils Bargain",
+            "type": "Devil's Bargain",
             "challenge": "For every player's lap you sit on give out a swig",
             "punishment": "1 swig",
             "reward": "",
@@ -3270,7 +3270,7 @@
             "spice": 3
         },
         {
-            "type": "Devils Bargain",
+            "type": "Devil's Bargain",
             "challenge": "You can spend all of your remaining chickens to make one other player take off a clothing of their choosing",
             "punishment": "1 shot",
             "reward": "",
@@ -3622,7 +3622,7 @@
             "spice": 4
         },
         {
-            "type": "Devils Bargain",
+            "type": "Devil's Bargain",
             "challenge": "Hum the melody to any song. Last person to know it loses their shirt. But if no one knows it after ten seconds you lose your shirt",
             "punishment": "5 sips",
             "reward": null,
@@ -3958,15 +3958,15 @@
             "spice": 4
         },
         {
-            "type": "dare - Take it Off!",
-            "challenge": "Remove any article of clothing not accessory of your choice",
+            "type": "Take it Off!",
+            "challenge": "Take off any article of clothing not accessory of your choice",
             "punishment": "1 shots",
             "reward": "",
             "spice": 4
         },
         {
-            "type": "dare - Take it Off!",
-            "challenge": "Remove any article of clothing or accessory of your choice",
+            "type": "Take it Off!",
+            "challenge": "Take off any article of clothing or accessory of your choice",
             "punishment": "1 shots",
             "reward": "",
             "spice": 4
@@ -4255,8 +4255,8 @@
             "spice": 4
         },
         {
-            "type": "Devils Bargain",
-            "challenge": "For every piece of clothing you remove you get to give out a shot",
+            "type": "Devil's Bargain",
+            "challenge": "For every piece of clothing you take off right now you get to give out a shot",
             "punishment": "1 shot",
             "reward": "",
             "spice": 4
@@ -4822,7 +4822,7 @@
             "spice": 4
         },
         {
-            "type": "Devils Bargain",
+            "type": "Devil's Bargain",
             "challenge": "You can spend all of your remaining chickens to make one other player take off their shirt",
             "punishment": "1 shot",
             "reward": "",
@@ -4864,11 +4864,39 @@
             "spice": 4
         },
         {
-            "type": "Dare",
-            "challenge": "Remove a piece of clothing",
+            "type": "Take it Off!",
+            "challenge": "Take off something you are wearing",
             "punishment": "1 shot",
             "reward": null,
-            "spice": 4
+            "spice": 5
+        },
+        {
+            "type": "Take it Off!",
+            "challenge": "Take off one accessory you're wearing. If you're not wearing any take off two pieces of clothing",
+            "punishment": "1 shot",
+            "reward": null,
+            "spice": 5
+        },
+        {
+            "type": "Dare",
+            "challenge": "Take off two pieces of clothing",
+            "punishment": "1 shot",
+            "reward": null,
+            "spice": 5
+        },
+        {
+            "type": "Dare",
+            "challenge": "Take off 3 pieces of clothing",
+            "punishment": "1 shot",
+            "reward": null,
+            "spice": 6
+        },
+        {
+            "type": "Devil's Bargain",
+            "challenge": "Let someone feel you up for five seconds. If you can stay fully soft during it they have to strip to their underwear. If you engorge at all, you get in your underwear",
+            "punishment": "1 shot",
+            "reward": null,
+            "spice": 6
         },
         {
             "type": "Dare",
@@ -5545,21 +5573,21 @@
         },
         {
             "type": "dare - Take it Off!",
-            "challenge": "Remove any article of clothing of the group's choice",
+            "challenge": "Take off any article of clothing of the group's choice",
             "punishment": "1 shots",
             "reward": "1 Chicken",
             "spice": 5
         },
         {
             "type": "dare - Take it Off!",
-            "challenge": "Choose a piece of clothing the whole room has to remove. Any refusers drink",
+            "challenge": "Choose a piece of clothing the whole room has to take off. Any refusers drink and lose a chicken",
             "punishment": "1 shot",
-            "reward": "1 Chicken",
+            "reward": "",
             "spice": 5
         },
         {
             "type": "dare - Take it Off!",
-            "challenge": "Remove two pieces of clothing of your choice",
+            "challenge": "Take off two pieces of clothing of your choice",
             "punishment": "1 shots",
             "reward": "1 Chicken",
             "spice": 5
@@ -5698,28 +5726,28 @@
             "spice": 5
         },
         {
-            "type": "Devils Bargain",
+            "type": "Devil's Bargain",
             "challenge": "Choose whether or not to strip something off every time it's your turn. But each time you do you get to give out 1 shot",
             "punishment": "1 shot",
             "reward": "",
             "spice": 5
         },
         {
-            "type": "Devils Bargain",
+            "type": "Devil's Bargain",
             "challenge": "every piece of clothing (not accessories) you take off you get to give out a shot",
             "punishment": "1 shot",
             "reward": "",
             "spice": 5
         },
         {
-            "type": "Devils Bargain",
+            "type": "Devil's Bargain",
             "challenge": "You can spend all of your remaining chickens to make one other player take off their pants",
             "punishment": "1 shot",
             "reward": "",
             "spice": 5
         },
         {
-            "type": "Devils Bargain",
+            "type": "Devil's Bargain",
             "challenge": "Shotgun a seltzer. If it's under 3 seconds you get to put on as many clothes as you want. If it's not you have to get naked.",
             "punishment": "1 shot",
             "reward": "",
@@ -5796,15 +5824,15 @@
             "spice": 5
         },
         {
-            "type": "Dare",
-            "challenge": "Remove 3 pieces of clothing",
+            "type": "Take it Off!",
+            "challenge": "Take off an odd number of pieces of clothing",
             "punishment": "1 shot",
             "reward": "1 Chicken",
             "spice": 5
         },
         {
-            "type": "Dare",
-            "challenge": "Remove 2 pieces of clothing",
+            "type": "Take it Off!",
+            "challenge": "Take off 2 pieces of clothing",
             "punishment": "1 shot",
             "reward": null,
             "spice": 5
@@ -6582,7 +6610,7 @@
         },
         {
             "type": "dare - Do your hips lie?",
-            "challenge": "Show us your best stripper dance for 20 seconds. 1 Chicken for every 2 things you remove during the dance",
+            "challenge": "Show us your best stripper dance for 20 seconds. 1 Chicken for every 2 things you take off during the dance",
             "punishment": "1 shot",
             "reward": null,
             "spice": 6
@@ -6630,42 +6658,42 @@
             "spice": 6
         },
         {
-            "type": "Devils Bargain",
+            "type": "Devil's Bargain",
             "challenge": "Strip to your underwear and give out as many shots as you want, or stay clothed and the group chooses how many shots you do",
             "punishment": "1 shot",
             "reward": "",
             "spice": 6
         },
         {
-            "type": "Devils Bargain",
+            "type": "Devil's Bargain",
             "challenge": "You can spend any one of your remaining chickens to make one other player strip to their underwear",
             "punishment": "1 shot",
             "reward": "",
             "spice": 6
         },
         {
-            "type": "Devils Bargain",
+            "type": "Devil's Bargain",
             "challenge": "You can spend all of your remaining chickens to make one other player get fully naked. But you also have to get naked.",
             "punishment": "1 shot",
             "reward": "",
             "spice": 6
         },
         {
-            "type": "Devils Bargain",
+            "type": "Devil's Bargain",
             "challenge": "You can spend all of your remaining chickens to put a piece of clothing back on.",
             "punishment": "1 shot",
             "reward": "",
             "spice": 6
         },
         {
-            "type": "Devils Bargain",
-            "challenge": "Shotgun a seltzer. For every second under 4 you get to choose someone to remove a piece of clothing. For every second over 4 you have to remove something.",
+            "type": "Devil's Bargain",
+            "challenge": "Shotgun a seltzer. For every second under 4 you get to choose someone to take off a piece of clothing. For every second over 4 you have to take off something.",
             "punishment": "1 shot",
             "reward": "",
             "spice": 6
         },
         {
-            "type": "Devils Bargain",
+            "type": "Devil's Bargain",
             "challenge": "Choose someone and guess the number they're thinking of. If it matches you get to give out that many shots",
             "punishment": "1 shot",
             "reward": "",
@@ -6883,14 +6911,14 @@
         },
         {
             "type": "Dare - Spin the Bottom",
-            "challenge": "Whoever you're pointing at gets to choose how many pieces of clothing you remove",
+            "challenge": "Whoever you're pointing at gets to choose how many pieces of clothing you take off",
             "punishment": "1 shot",
             "reward": "1 chicken for every piece (up to 3)",
             "spice": 6
         },
         {
             "type": "Devil's Bargain",
-            "challenge": "Choose someone to decide how many pieces of clothing you remove, but if it's more than one they have to lose their shirt as well",
+            "challenge": "Choose someone to decide how many pieces of clothing you take off, but if it's more than one they have to lose their shirt as well",
             "punishment": "1 shot",
             "reward": "1 chicken",
             "spice": 6
