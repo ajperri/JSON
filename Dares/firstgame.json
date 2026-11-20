@@ -1380,15 +1380,15 @@
             "spice": 2
         },
         {
-            "type": "Dare - Charades!",
-            "challenge": "Charades your favorite sex position by yourself until we guess it",
+            "type": "Charades!",
+            "challenge": "Act out your favorite sex position by yourself until we guess it",
             "punishment": "12 sips",
             "reward": "1 chicken if you post it on CF",
             "spice": 2
         },
         {
-            "type": "Dare - Charades!",
-            "challenge": "Charades a public place you would have sex until we guess it",
+            "type": "Charades!",
+            "challenge": "Act out a public place you would have sex until we guess it",
             "punishment": "7 sips",
             "reward": "1 chicken if you post it on CF",
             "spice": 2
@@ -2864,7 +2864,7 @@
             "spice": 3
         },
         {
-            "type": "Dare - Charades!",
+            "type": "Dare",
             "challenge": "Perform an eiffel tower demonstration with the players on either side of you",
             "punishment": "9 sips",
             "reward": "1 chicken if everyone participates",
@@ -3305,9 +3305,9 @@
             "spice": 3
         },
         {
-            "type": "Dare - Charades!",
-            "challenge": "Act out a specific sex position until we guess it",
-            "punishment": "5 sips",
+            "type": "Charades!",
+            "challenge": "Act out a specific sex position with another person until we guess it, but you can't tell them what position it is either you have to position your partner",
+            "punishment": "15 sips",
             "reward": "",
             "spice": 3
         },
@@ -4948,9 +4948,16 @@
             "spice": 4
         },
         {
-            "type": "Pointing Fingers",
+            "type": "Challenge",
             "challenge": "Eat half a edible or do a shot",
             "punishment": "1 Shot",
+            "reward": null,
+            "spice": 4
+        },
+        {
+            "type": "Dare",
+            "challenge": "Pair up! Tops with bottoms, verses with verses. Anyone without a buddy dirnks",
+            "punishment": "8 sips",
             "reward": null,
             "spice": 4
         },
@@ -5156,6 +5163,20 @@
             "punishment": "4 sips",
             "reward": null,
             "spice": 4
+        },
+        {
+            "type": "Dare",
+            "challenge": "Motorboat someone",
+            "punishment": "6 sips",
+            "reward": null,
+            "spice": 4
+        },
+        {
+            "type": "Dare",
+            "challenge": "Motorboat someone's butt",
+            "punishment": "12 sips",
+            "reward": null,
+            "spice": 5
         },
         {
             "type": "Hands Up!",
@@ -6099,20 +6120,41 @@
         {
             "type": "Devil's Bargain",
             "challenge": "Tell the group your most kinky sexual turn on. Anyone who matches drinks, but if no one matches everyone drinks.",
-            "punishment": "15 sips",
+            "punishment": "The rest of your drink",
             "reward": null,
             "spice": 6
         },
         {
             "type": "Challenge",
-            "challenge": "Walk the runway like a model, and at the end quote a drag queen. If no one can guess your quote you have to take something off and repeat.",
+            "challenge": "Walk the runway like a model, and at the end quote a drag queen. If no one can guess who your quote is from you have to take something off and repeat.",
             "punishment": "15 sips",
             "reward": null,
             "spice": 6
         },
         {
+            "type": "Devil's Bargain",
+            "challenge": "Choose a number of fingers and put them behind your back, then choose someone to guess. If they guess correct you're both safe but if they guess wrong you have to each take something off the other",
+            "punishment": "1 shot",
+            "reward": null,
+            "spice": 6
+        },
+        {
+            "type": "Devil's Bargain",
+            "challenge": "Choose a number between 1 and 10. Starting to your left go in a circle and each person guesses. If it takes less guesses than the number you picked to get it right you give out that many strip or drink penalties",
+            "punishment": "1 shot",
+            "reward": null,
+            "spice": 6
+        },
+        {
+            "type": "Round Robin",
+            "challenge": "Category Is: Pieces of clothing still being worn (loser takes something off)",
+            "punishment": "1 shot",
+            "reward": null,
+            "spice": 6
+        },
+        {
             "type": "Name That Tune",
-            "challenge": "Hum the melody to any Britney Spears song. First person to guess it gets to give out a strip and a drink",
+            "challenge": "Hum the melody to any Britney Spears song. First person to guess it gets to give out a strip and a drink penalty",
             "punishment": "5 sips",
             "reward": null,
             "spice": 6
@@ -6799,6 +6841,27 @@
         },
         {
             "type": "Dare",
+            "challenge": "Kiss someone's butt (over the clothes)",
+            "punishment": "1 shot",
+            "reward": null,
+            "spice": 4
+        },
+        {
+            "type": "Dare",
+            "challenge": "Kiss someone's tip over the clothes",
+            "punishment": "1 shot",
+            "reward": null,
+            "spice": 5
+        },
+        {
+            "type": "Dare",
+            "challenge": "Lick someone all the way from crotch to neck",
+            "punishment": "1 shot",
+            "reward": null,
+            "spice": 6
+        },
+        {
+            "type": "Dare",
             "challenge": "Lick someone's side butt",
             "punishment": "1 shot",
             "reward": null,
@@ -6890,7 +6953,7 @@
         },
         {
             "type": "Dare - Spin the Bottom",
-            "challenge": "Take off on piece of the person you're pointing at's clothes sensually",
+            "challenge": "Sensually take off one piece of clothing at whoever you land on. If the group doesn't think it was sensual enough you lose all your clothes",
             "punishment": "1 shot",
             "reward": "1 chicken to you both if it's pants",
             "spice": 6
@@ -6899,6 +6962,20 @@
             "type": "Dare - Spin the Bottom",
             "challenge": "Let the person you're pointing at put their hand down your pants (either end, over the underwear) for 5 seconds",
             "punishment": "1 shot",
+            "reward": "",
+            "spice": 6
+        },
+        {
+            "type": "Dare",
+            "challenge": "Choose someone to do a shot from a shot glass held in between your butt cheeks",
+            "punishment": "1 shot",
+            "reward": "",
+            "spice": 6
+        },
+        {
+            "type": "Devil's Bargain",
+            "challenge": "Choose someone and close your eyes. They choose from one of three challenge/reward pairings: [put their hand down your underwear - 3 chickens, grope your ass over underwear - 1 chickens, kiss your lips - no chickens but you're safe from drinking]",
+            "punishment": "2 shots",
             "reward": "",
             "spice": 6
         },
@@ -6931,25 +7008,333 @@
             "spice": 6
         },
         {
-            "type": "Pass it Out",
+            "type": "Pass it On",
             "challenge": "Anyone with a chicken has to take something off",
             "punishment": "1 shot",
             "reward": "",
             "spice": 6
         },
         {
-            "type": "Pass it Out",
-            "challenge": "Give out a strip penalty for every chicken currently in the game",
+            "type": "Pass it On",
+            "challenge": "Give out a strip penalty to whomever you want for every chicken currently in the game",
             "punishment": "1 shot",
             "reward": "",
             "spice": 6
         },
         {
+            "type": "Riff Off!",
+            "challenge": "Choose any word and go in a circle singing/saying a line from a song that uses that word. First one to not know one (10 second grace period) drinks",
+            "punishment": "3 sips",
+            "reward": "",
+            "spice": 1
+        },
+        {
+            "type": "Riff Off!",
+            "challenge": "Choose any word and go in a circle singing/saying a line from a song that uses that word. First one to not know one (10 second grace period) drinks",
+            "punishment": "5 sips",
+            "reward": "",
+            "spice": 2
+        },
+        {
+            "type": "Riff Off!",
+            "challenge": "Choose any word and go in a circle singing/saying a line from a song that uses that word. First one to not know one (10 second grace period) drinks",
+            "punishment": "6 sips",
+            "reward": "",
+            "spice": 3
+        },
+        {
+            "type": "Riff Off!",
+            "challenge": "Choose any word and go in a circle singing/saying a line from a song that uses that word. First one to not know one (10 second grace period) drinks",
+            "punishment": "8 sips",
+            "reward": "",
+            "spice": 4
+        },
+        {
+            "type": "Riff Off!",
+            "challenge": "Choose any word and go in a circle singing/saying a line from a song that uses that word. First one to not know one (10 second grace period) drinks",
+            "punishment": "10 sips",
+            "reward": "",
+            "spice": 5
+        },
+        {
+            "type": "Riff Off!",
+            "challenge": "Choose any word and go in a circle singing/saying a line from a song that uses that word. First one to not know one (10 second grace period) drinks",
+            "punishment": "1.5 shots",
+            "reward": "",
+            "spice": 6
+        },
+        {
+            "type": "Riff Off!",
+            "challenge": "Choose any word and go in a circle singing/saying a line from a song that uses that word. First one to not know one (10 second grace period) strips one thing off",
+            "punishment": "1.5 shots",
+            "reward": "",
+            "spice": 4
+        },
+        {
+            "type": "Riff Off!",
+            "challenge": "Choose any word and go in a circle singing/saying a line from a song that uses that word. First one to not know one (10 second grace period) strips two things off",
+            "punishment": "1.5 shots",
+            "reward": "",
+            "spice": 5
+        },
+        {
+            "type": "Riff Off!",
+            "challenge": "Choose any word and go in a circle singing/saying a line from a song that uses that word. First one to not know one (10 second grace period) strips to their undies",
+            "punishment": "1.5 shots",
+            "reward": "",
+            "spice": 6
+        },
+        {
+            "type": "Charades!",
+            "challenge": "Using Charades rules, act out any gay movie or tv show until we guess it",
+            "punishment": "3 sips",
+            "reward": "",
+            "spice": 1
+        },
+        {
+            "type": "Charades!",
+            "challenge": "Using Charades rules, act out any pop song's title until we guess it",
+            "punishment": "5 sips",
+            "reward": "",
+            "spice": 2
+        },
+        {
+            "type": "Charades!",
+            "challenge": "Using Charades rules, act out the name of a sex position until we guess it",
+            "punishment": "8 sips",
+            "reward": "",
+            "spice": 3
+        },
+        {
+            "type": "Charades!",
+            "challenge": "Using Charades rules, act out a pop song's title. First one to guess it right gets full chickens, but anyone who guesses wrong takes something off",
+            "punishment": "1 shot",
+            "reward": "",
+            "spice": 6
+        },
+        {
+            "type": "Charades!",
+            "challenge": "Using Charades rules, act out an iconic vine or internet meme until we guess it",
+            "punishment": "3 sips",
+            "reward": "",
+            "spice": 1
+        },
+        {
+            "type": "Charades!",
+            "challenge": "Using Charades rules, act out any gay movie or tv show. First one to guess it right gets full chickens, but anyone who guesses wrong takes something off",
+            "punishment": "3 sips",
+            "reward": "",
+            "spice": 5
+        },
+        {
+            "type": "Charades!",
+            "challenge": "Using Charades rules, act out a kink. First one to guess it gets to give out a strip or drink punishment",
+            "punishment": "1 shotgun",
+            "reward": "",
+            "spice": 6
+        },
+        {
             "type": "Gayy Chicken!",
-            "challenge": "Choose someone to grind with. Whoever stops grinding first does a shot, whoever lasts longer gets a",
+            "challenge": "Choose someone to grind front to back with. Whoever stops grinding first does a shot, whoever lasts longer gets a chicken",
             "punishment": "1 shot",
             "reward": "1 chicken",
             "spice": 6
+        },
+        {
+            "type": "Gayy Chicken!",
+            "challenge": "Choose someone to grind front on front with. Whoever stops grinding first does a shot, whoever lasts longer gets a chicken",
+            "punishment": "1 shot",
+            "reward": "1 chicken",
+            "spice": 6
+        },
+        {
+            "type": "Gayy Chicken!",
+            "challenge": "Choose someone to grind on your lap. Whoever stops it first does a shot, whoever lasts longer gets a chicken",
+            "punishment": "1 shot",
+            "reward": "1 chicken",
+            "spice": 6
+        },
+        {
+            "type": "Dare - Kinky Twinkies",
+            "challenge": "Rope Bunny! Let someone tie up your hands until your next turn.",
+            "punishment": "10 sips",
+            "reward": "",
+            "spice": 3
+        },
+        {
+            "type": "Gayy Chicken!",
+            "challenge": "Choose someone to have a staring contest with. First one to break drinks",
+            "punishment": "1 sip",
+            "reward": "",
+            "spice": 1
+        },
+        {
+            "type": "En Garde!",
+            "challenge": "Choose someone to be your opponent. Take turns saying increasingly dirty things. First one to laugh or not think of one drinks",
+            "punishment": "1 shot",
+            "reward": "",
+            "spice": 5
+        },
+        {
+            "type": "En Garde!",
+            "challenge": "Choose someone to be your opponent. Take turns naming gay people (first and last name). First one to not think of one drinks",
+            "punishment": "3 sips",
+            "reward": "",
+            "spice": 1
+        },
+        {
+            "type": "En Garde!",
+            "challenge": "Choose someone to be your opponent. Take turns naming sex positions. First one to not think of one drinks",
+            "punishment": "7 sips",
+            "reward": "",
+            "spice": 3
+        },
+        {
+            "type": "En Garde!",
+            "challenge": "Choose someone to be your opponent. Take turns naming slang for butts/buttholes. First one to not think of one drinks",
+            "punishment": "7 sips",
+            "reward": "",
+            "spice": 4
+        },
+        {
+            "type": "En Garde!",
+            "challenge": "Choose someone to be your opponent. Take turns naming slang for penis. First one to not think of one drinks",
+            "punishment": "7 sips",
+            "reward": "",
+            "spice": 5
+        },
+        {
+            "type": "En Garde!",
+            "challenge": "Choose someone to be your opponent. Take turns naming Britney Spears songs. First one to not think of one drinks",
+            "punishment": "3 sips",
+            "reward": "",
+            "spice": 1
+        },
+        {
+            "type": "En Garde!",
+            "challenge": "Choose someone to be your opponent. Take turns quoting iconic vines. First one to laugh or not think of one drinks",
+            "punishment": "3 sips",
+            "reward": "",
+            "spice": 1
+        },
+        {
+            "type": "En Garde!",
+            "challenge": "Choose someone to be your opponent. Take turns naming Lady Gaga songs. First one to not think of one drinks",
+            "punishment": "5 sips",
+            "reward": "",
+            "spice": 2
+        },
+        {
+            "type": "En Garde!",
+            "challenge": "Choose someone to be your opponent. Take turns naming Beyonce songs. First one to not think of one drinks",
+            "punishment": "8 sips",
+            "reward": "",
+            "spice": 3
+        },
+        {
+            "type": "En Garde!",
+            "challenge": "Choose someone to be your opponent. Take turns naming Sabrina Carpenter songs. First one to not think of one takes off something and drinks",
+            "punishment": "10 sips",
+            "reward": "",
+            "spice": 4
+        },
+        {
+            "type": "En Garde!",
+            "challenge": "Choose someone to be your opponent. Take turns naming Charli XCX songs. First one to not think of one takes something off and drinks",
+            "punishment": "12 sips",
+            "reward": "",
+            "spice": 5
+        },
+        {
+            "type": "En Garde!",
+            "challenge": "Choose someone to be your opponent for a thumb war. Loser has to keep both hands behind their back until their next turn. Any group dare this causes them to sit out on they have to do the drinking punishment for.",
+            "punishment": "1 shot",
+            "reward": "",
+            "spice": 2
+        },
+        {
+            "type": "En Garde!",
+            "challenge": "Choose someone to rock paper scissors. Loser has to keep their mouth closed until their next turn",
+            "punishment": "1 shot",
+            "reward": "",
+            "spice": 3
+        },
+        {
+            "type": "Cock, Popper, Scissoring",
+            "challenge": "Choose an opponent. The group counts to three, and you grab your own cock, pretend to sniff poppers, or make your fingers scissor each other. If you match you're safe otherwise you drink",
+            "punishment": "8 sips",
+            "reward": "",
+            "spice": 3
+        },
+        {
+            "type": "Cock, Popper, Scissoring",
+            "challenge": "Choose an opponent. The group counts to three, and you grab your own cock, pretend to sniff poppers, or make your fingers scissor each other. If you match you're safe otherwise you drink",
+            "punishment": "12 sips",
+            "reward": "",
+            "spice": 4
+        },
+        {
+            "type": "Cock, Popper, Scissoring",
+            "challenge": "On the count of three (without scheming) everyone chooses Cock, Popper, or Scissoring. If there's any category that's not chosen everyone loses",
+            "punishment": "1 strip",
+            "reward": "",
+            "spice": 4
+        },
+        {
+            "type": "Cock, Popper, Scissoring",
+            "challenge": "On the count of three (without scheming) everyone chooses Cock, Popper, or Scissoring. If your beat the person to your right by Rock paper scissors rules they lose",
+            "punishment": "1 strip",
+            "reward": "",
+            "spice": 5
+        },
+        {
+            "type": "Cock, Popper, Scissoring",
+            "challenge": "On the count of three (without scheming) everyone chooses Cock, Popper, or Scissoring. If your beat the person to your left by Rock paper scissors rules they lose",
+            "punishment": "7 sips",
+            "reward": "",
+            "spice": 2
+        },
+        {
+            "type": "Cock, Popper, Scissoring",
+            "challenge": "Choose two other players. If you all pick Cock you each earn a chicken. If anyone picks poppers they steal the other two's chickens for themselves. If multiple pick poppers everyone loses all their chickens",
+            "punishment": "7 sips",
+            "reward": "",
+            "spice": 2
+        },
+        {
+            "type": "Cock, Popper, Scissoring",
+            "challenge": "Choose two other players. If you all pick Cock you each earn a chicken. If one picks scissoring they get full chickens and the other two drink. If multiple pick scissoring they have to kiss.",
+            "punishment": "10 sips",
+            "reward": "",
+            "spice": 5
+        },
+        {
+            "type": "Cock, Popper, Scissoring",
+            "challenge": "On three everyone in the room throws one of the three signs. Whoever matches the person who drew this card is safe, everyone else drinks",
+            "punishment": "5 sips",
+            "reward": "",
+            "spice": 2
+        },
+        {
+            "type": "Cock, Popper, Scissoring",
+            "challenge": "On three everyone in the room throws one of the three signs. Whoever matches the person who drew this card is safe, everyone else strips",
+            "punishment": "- 2 clothing",
+            "reward": "",
+            "spice": 6
+        },
+        {
+            "type": "Cock, Popper, Scissoring",
+            "challenge": "Choose one opponent and tell them what you're going to choose, then throw on 3. If you match then you're both safe. If they throw something different, you drink. If you lie and trick them, they drink. If you both do something different you both take two things off.",
+            "punishment": "10 sips",
+            "reward": "",
+            "spice": 4
+        },
+        {
+            "type": "En Garde!",
+            "challenge": "Choose someone to be your opponent. Take turns saying naughty things you want to do to each other in a sexy voice. First one to laugh or not think of one drinks",
+            "punishment": "1 shot",
+            "reward": "",
+            "spice": 5
         },
         {
             "type": "Dare",
