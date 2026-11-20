@@ -7140,6 +7140,27 @@
             "spice": 6
         },
         {
+            "type": "Dare - Escalating Exposure",
+            "challenge": "Uh oh! You've been cursed, every time someone else strips you have to strip too",
+            "punishment": "1 shots",
+            "reward": "",
+            "spice": 6
+        },
+        {
+            "type": "Dare - Escalating Exposure",
+            "challenge": "Uh oh! You've been cursed, every time it's your turn you have to start your turn by taking something off or doing a shot",
+            "punishment": "1 shots",
+            "reward": "",
+            "spice": 5
+        },
+        {
+            "type": "Dare - Escalating Exposure",
+            "challenge": "Uh oh! You've been cursed, every time it's your turn you have to start your turn by taking something off or doing a shot",
+            "punishment": "1 shots",
+            "reward": "",
+            "spice": 6
+        },
+        {
             "type": "Dare",
             "challenge": "Go get naked in the bathroom and come out wearing nothing but a towel/blanket like you're at a sauna. If you remain like this you get to deflect and strip punishments that come your way to others",
             "punishment": "1 shots",
